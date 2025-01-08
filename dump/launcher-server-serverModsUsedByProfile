@@ -1,0 +1,386 @@
+[
+    {
+        "author": "MoxoPixel",
+        "dateAdded": 1733223845378,
+        "name": "Painter - Trader",
+        "version": "1.1.2"
+    },
+    {
+        "author": "MoxoPixel",
+        "dateAdded": 1734707302024,
+        "name": "Black Core",
+        "version": "1.1.5"
+    },
+    {
+        "author": "MoxoPixel",
+        "dateAdded": 1733223845378,
+        "name": "Tactical Gear Component (TGC)",
+        "version": "1.1.8"
+    },
+    {
+        "author": "MoxoPixel",
+        "dateAdded": 1733223845378,
+        "name": "Mag Tape",
+        "version": "1.0.7"
+    },
+    {
+        "author": "RockaHorse",
+        "dateAdded": 1733223845378,
+        "name": "Rocka's Corner Store",
+        "version": "0.0.7"
+    },
+    {
+        "author": "Corter",
+        "dateAdded": 1733223845378,
+        "name": "Corter-ModSync",
+        "version": "0.10.0"
+    },
+    {
+        "author": "Dirtbikercj",
+        "dateAdded": 1733223845378,
+        "name": "Expanded Task Text",
+        "version": "1.6.2"
+    },
+    {
+        "author": "Jehree",
+        "dateAdded": 1733223845378,
+        "name": "Gilded Key Storage",
+        "version": "1.5.0"
+    },
+    {
+        "author": "ItsReaperGirl",
+        "dateAdded": 1733223845378,
+        "name": "Map Renamer",
+        "version": "1.0.0"
+    },
+    {
+        "author": "VIP",
+        "dateAdded": 1733223845378,
+        "name": "MoreCheckmarksBackend",
+        "version": "1.5.15"
+    },
+    {
+        "author": "pein",
+        "dateAdded": 1733223845378,
+        "name": "PeinBetterRearSights",
+        "version": "1.0.7"
+    },
+    {
+        "author": "Platinum",
+        "dateAdded": 1733223845378,
+        "name": "The Blacklist",
+        "version": "2.0.2"
+    },
+    {
+        "author": "AmTurtle",
+        "dateAdded": 1733223845378,
+        "name": "SillyCatTraderIcons",
+        "version": "310.0.1"
+    },
+    {
+        "author": "sgtlaggy",
+        "dateAdded": 1733223845378,
+        "name": "TraderNamer",
+        "version": "2.1.2"
+    },
+    {
+        "author": "AcidMC",
+        "dateAdded": 1733223845378,
+        "name": "Verbose Transits",
+        "version": "1.0.0"
+    },
+    {
+        "author": "GrooveypenguinX",
+        "dateAdded": 1733223845378,
+        "name": "WTT-HeadVoiceSelector",
+        "version": "1.0.5"
+    },
+    {
+        "author": "GrooveypenguinX, Yojenkz",
+        "dateAdded": 1733223845378,
+        "name": "WTT - The Long Lost Heads of Yojenkz",
+        "version": "1.0.4"
+    },
+    {
+        "author": "RockaHorse, GrooveypenguinX",
+        "dateAdded": 1733223845378,
+        "name": "WTT - Up In Smoke",
+        "version": "4.2.4"
+    },
+    {
+        "author": "acidphantasm",
+        "dateAdded": 1733223845378,
+        "name": "Bosses Have Lega Medals",
+        "version": "1.2.0"
+    },
+    {
+        "author": "acidphantasm",
+        "dateAdded": 1733223845378,
+        "name": "BrightLasers",
+        "version": "1.2.0"
+    },
+    {
+        "author": "acidphantasm",
+        "dateAdded": 1735970919449,
+        "name": "Acids Progressive Bot System",
+        "version": "1.3.1"
+    },
+    {
+        "author": "acidphantasm",
+        "dateAdded": 1733223845378,
+        "name": "RefSPTFriendlyQuests",
+        "version": "1.2.0"
+    },
+    {
+        "author": "ArchangelWTF",
+        "dateAdded": 1735887398407,
+        "name": "LotsOfLoot Redux",
+        "version": "3.0.2"
+    },
+    {
+        "author": "Fika",
+        "dateAdded": 1735970919449,
+        "name": "server",
+        "version": "2.3.6"
+    },
+    {
+        "author": "inory",
+        "dateAdded": 1735887398407,
+        "name": "Dynamic Goons",
+        "version": "1.1.0"
+    },
+    {
+        "author": "Lacyway",
+        "dateAdded": 1733223845378,
+        "name": "MergeConsumables",
+        "version": "1.2.0"
+    },
+    {
+        "author": "leaves",
+        "dateAdded": 1733223845378,
+        "name": "loot_fuckery",
+        "version": "1.4.1"
+    },
+    {
+        "author": "Leaves",
+        "dateAdded": 1733223845378,
+        "name": "questrandomizer",
+        "version": "0.2.2"
+    },
+    {
+        "author": "leaves",
+        "dateAdded": 1733223845378,
+        "name": "shiny_airdrop_guns",
+        "version": "2.1.1"
+    },
+    {
+        "author": "PenguinGreenTea",
+        "dateAdded": 1733223845378,
+        "name": "FullHelmetCoverage",
+        "version": "1.1.1"
+    },
+    {
+        "author": "redlaser42",
+        "dateAdded": 1733223845378,
+        "name": "Increase Climb Height",
+        "version": "1.2.0"
+    },
+    {
+        "author": "SamSwat",
+        "dateAdded": 1733223845378,
+        "name": "ReflexSightsRework",
+        "version": "1.0.0"
+    },
+    {
+        "author": "schkuromi",
+        "dateAdded": 1733223845378,
+        "name": "all-zombies-all-day",
+        "version": "1.0.4"
+    },
+    {
+        "author": "Tyfon",
+        "dateAdded": 1734326529480,
+        "name": "uifixes",
+        "version": "3.0.2"
+    },
+    {
+        "author": "zSolarint",
+        "dateAdded": 1733223845378,
+        "name": "SAIN",
+        "version": "2.3.0"
+    },
+    {
+        "author": "GhostFenixx",
+        "dateAdded": 1733285932385,
+        "name": "SVM",
+        "version": "1.10.0"
+    },
+    {
+        "author": "Revingly(original mod) and Nanami",
+        "dateAdded": 1733890266566,
+        "name": "MICC",
+        "version": "4.1.1"
+    },
+    {
+        "author": "Nanami",
+        "dateAdded": 1733377658069,
+        "name": "MapsCase",
+        "version": "1.0.0"
+    },
+    {
+        "author": "IhanaMies",
+        "dateAdded": 1733551290280,
+        "name": "LootValueBackend",
+        "version": "4.0.0"
+    },
+    {
+        "author": "MusicManiac",
+        "dateAdded": 1733551290280,
+        "name": "MusicManiac-GigachadWorkout",
+        "version": "1.3.0"
+    },
+    {
+        "author": "MusicManiac",
+        "dateAdded": 1733551290280,
+        "name": "MusicManiac-LessRestrictingHeadwear",
+        "version": "2.2.0"
+    },
+    {
+        "author": "MusicManiac",
+        "dateAdded": 1733551290280,
+        "name": "MusicManiac-KeysInLoot",
+        "version": "1.4.0"
+    },
+    {
+        "author": "Helldiver",
+        "dateAdded": 1733642993397,
+        "name": "BotCallsigns",
+        "version": "1.1.2"
+    },
+    {
+        "author": "DewardianDev",
+        "dateAdded": 1736139662159,
+        "name": "MOAR",
+        "version": "2.6.7"
+    },
+    {
+        "author": "Hood",
+        "dateAdded": 1733642993397,
+        "name": "Hoods Energy Drinks",
+        "version": "1.0.3"
+    },
+    {
+        "author": "Virtual",
+        "dateAdded": 1733642993397,
+        "name": "Virtuals Custom Quest Loader",
+        "version": "2.0.3"
+    },
+    {
+        "author": "acidphantasm",
+        "dateAdded": 1733642993397,
+        "name": "Scorpion",
+        "version": "0.12.2"
+    },
+    {
+        "author": "Helldiver, harmony",
+        "dateAdded": 1735970919449,
+        "name": "Bot Callsigns",
+        "version": "1.4.2"
+    },
+    {
+        "author": "ekky",
+        "dateAdded": 1733694932774,
+        "name": "raid-review",
+        "version": "0.3.0"
+    },
+    {
+        "author": "TimmyGG",
+        "dateAdded": 1733694932774,
+        "name": "ExpandedCases",
+        "version": "1.1.0"
+    },
+    {
+        "author": "TRAPPUSSY",
+        "dateAdded": 1733791682006,
+        "name": "RCTA - Peely Default [FORTNITE]",
+        "version": "1.0.1"
+    },
+    {
+        "author": "DewardianDev",
+        "dateAdded": 1735887398406,
+        "name": "AlgorithmicLevelProgression",
+        "version": "5.4.3"
+    },
+    {
+        "author": "TRAPPUSSY",
+        "dateAdded": 1734326529480,
+        "name": "RCTA - Doom Slayer [DOOME]",
+        "version": "1.0.1"
+    },
+    {
+        "author": "TRAPPUSSY",
+        "dateAdded": 1734326529480,
+        "name": "RCTA - Fender Do You Even Lift [CODMW3]",
+        "version": "1.0.1"
+    },
+    {
+        "author": "TRAPPUSSY",
+        "dateAdded": 1734326529480,
+        "name": "RCTA - Gundam [CODMW3",
+        "version": "1.0.1"
+    },
+    {
+        "author": "TRAPPUSSY",
+        "dateAdded": 1734326529480,
+        "name": "RCTA - Metal Gear [FORTNITE]",
+        "version": "1.0.1"
+    },
+    {
+        "author": "Skwizzy",
+        "dateAdded": 1735887398407,
+        "name": "LootingBots-ServerMod",
+        "version": "1.4.1"
+    },
+    {
+        "author": "ODT",
+        "dateAdded": 1734707302024,
+        "name": "ItemInfo",
+        "version": "4.2.0"
+    },
+    {
+        "author": "RaiRaiTheRaichu",
+        "dateAdded": 1735887398407,
+        "name": "AllTheClothes",
+        "version": "2.1.2"
+    },
+    {
+        "author": "DrakiaXYZ",
+        "dateAdded": 1734707302024,
+        "name": "LiveFleaPrices",
+        "version": "1.4.0"
+    },
+    {
+        "author": "Leaves",
+        "dateAdded": 1735887398407,
+        "name": "lewds",
+        "version": "1.0.0"
+    },
+    {
+        "author": "Mattdokn",
+        "dateAdded": 1735887398407,
+        "name": "ammostats",
+        "version": "1.1.1"
+    },
+    {
+        "author": "TurboZoroger",
+        "dateAdded": 1736058612563,
+        "name": "Dick Marcinko Voice Pack",
+        "version": "1.0.2"
+    },
+    {
+        "author": "DewardianDev",
+        "dateAdded": 1736139662159,
+        "name": "AllTheSeasons",
+        "version": "1.2.1"
+    }
+]
