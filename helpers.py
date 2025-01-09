@@ -1,12 +1,9 @@
 import json
-from httprequest import http_request
+from httprequest import http_request, get_client_locale
 from endpoint import Endpoint
 
-def load_lookup():
-    return http_request('', Endpoint.CLIENT_LOCALE)
-
 def id_lookup(i):
-    lookup = load_lookup()['data']
+    lookup = get_client_locale()['data']
     return lookup[i+' Name']
 
 def load_json(filename):

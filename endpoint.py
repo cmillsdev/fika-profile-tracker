@@ -6,7 +6,7 @@ class Endpoint(StrEnum):
     CLIENT_LOCALE = "client/locale/en"
     # Profile
     ITEMS = "client/items"
-    PROFILE = "client/profile/list"
+    PROFILE = "client/game/profile/list"
     QUESTS = "client/quest/list"
     ACHIEVEMENTS = "client/achievement/list"
     BUILDS = "client/builds/list"
