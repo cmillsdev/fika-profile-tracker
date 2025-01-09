@@ -34,5 +34,3 @@ def http_request(sid, endpoint, write=False):
                 print(f"Error decompressing response")
     else:
         print(f"Error: {response.status_code}, {response.text}")
-
-print(get_all_players())
