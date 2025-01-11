@@ -2,7 +2,7 @@ import requests
 import json
 import zlib
 import time
-
+import os
 from endpoint import Endpoint
 
 # session_id = "674e50640003077d50d67c44" me

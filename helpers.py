@@ -4,7 +4,12 @@ from endpoint import Endpoint
 
 def id_lookup(i):
     lookup = get_client_locale()['data']
-    return lookup[i+' Name']
+    keys = [f"{i} Name", f"{i} name", i]
+    
+    for key in keys:
+        if key in lookup:
+            return lookup[key]
+    return i
 
 def load_json(filename):
     with open(filename, 'r') as f:
