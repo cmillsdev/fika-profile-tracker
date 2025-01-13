@@ -55,11 +55,11 @@ def get_client_locale():
                 json.dump(data, f, indent=4)
         return data
 
-def get_profile():
-    return http_request('674e8d5e000124d3a4adc638', Endpoint.PROFILE)['data']
+def get_profile(pid):
+    return http_request(pid, Endpoint.PROFILE)['data']
 
 def get_all_players():
-    return http_request('677df13900028976aab5cb0f', Endpoint.ALL_PROFILES)
+        return http_request('677df13900028976aab5cb0f', Endpoint.ALL_PROFILES)
 
 def get_profile_quests(profile_id):
     return http_request(profile_id, Endpoint.QUESTS)['data']
