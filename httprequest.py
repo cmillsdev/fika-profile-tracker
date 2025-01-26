@@ -12,7 +12,7 @@ CACHE_FILE = "client_locale_cache.json"
 CACHE_TTL = 300  # Cache Time-to-Live in seconds (5 minutes)
 
 def http_request(sid, endpoint, write=False):
-    url = "http://192.168.1.238:6969/"
+    url = "http://wafflefm:6969/"
 
     headers = {
         "Content-Type": "application/json",
@@ -64,3 +64,5 @@ def get_all_players():
 def get_profile_quests(profile_id):
     return http_request(profile_id, Endpoint.QUESTS)['data']
 
+def get_hideout_areas(profile_id):
+    return http_request(profile_id, Endpoint.HIDEOUT_AREAS)['data']

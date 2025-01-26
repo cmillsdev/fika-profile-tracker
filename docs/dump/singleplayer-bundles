@@ -1,0 +1,4380 @@
+[
+    {
+        "modpath": "user/mods/aMoxoPixel-Painter",
+        "filename": "mysterybox.bundle",
+        "crc": 3956621098,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/aMoxoPixel-Painter",
+        "filename": "mysterybox_2.bundle",
+        "crc": 3427670767,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "tactical_all_insight_wmx200_retex.bundle",
+        "crc": 3602729850,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mag_stanag_hk_polymer_mag_556x45_30_retex.bundle",
+        "crc": 3194061668,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "handguard_ar15_dd_ris_ii_fsp_9,5_retex.bundle",
+        "crc": 748613752,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_all_eotech_exps3_retex.bundle",
+        "crc": 3109477562,
+        "dependencies": [
+            "scope_all_eotech_exps3_gloss_nrm_retex.bundle",
+            "scope_all_eotech_exps3_mesh_retex.bundle",
+            "scope_all_eotech_exps3_tan_textures_retex.bundle",
+            "scope_all_eotech_xps3_textures_retex.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_all_eotech_exps3_gloss_nrm_retex.bundle",
+        "crc": 968439966,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_all_eotech_exps3_tan_textures_retex.bundle",
+        "crc": 3168791354,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_all_eotech_xps3_textures_retex.bundle",
+        "crc": 2650214633,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_all_eotech_exps3_mesh_retex.bundle",
+        "crc": 2525189177,
+        "dependencies": [
+            "scope_all_eotech_exps3_gloss_nrm_retex.bundle",
+            "scope_all_eotech_exps3_tan_textures_retex.bundle",
+            "scope_all_eotech_xps3_textures_retex.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "tactical_all_holosun_ls321_retex.bundle",
+        "crc": 3442416005,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_black_lines/textures/client_assets.bundle",
+        "crc": 438650755,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_black_lines/client_assets.bundle",
+        "crc": 4248946942,
+        "dependencies": [
+            "m4a1_black_lines/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_black_lines/weapon_colt_m4a1_556x45_container.bundle",
+        "crc": 3577199909,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/m4a1.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/m4a1.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "m4a1_black_lines/client_assets.bundle",
+            "m4a1_black_lines/textures/client_assets.bundle",
+            "assets/content/weapons/tx15/client_assets.bundle",
+            "assets/content/weapons/tx15/textures/client_assets.bundle",
+            "assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "ak103_black_lines/textures/client_assets.bundle",
+        "crc": 2443446984,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "ak103_black_lines/client_assets.bundle",
+        "crc": 450596673,
+        "dependencies": [
+            "ak103_black_lines/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "ak103_black_lines/weapon_izhmash_ak103_762x39_container.bundle",
+        "crc": 1066605456,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/ak74.bundle",
+            "assets/content/audio/banks/akm.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/akm.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/saiga12.bundle",
+            "assets/content/items/mods/handguards/handguard_pp-19-01_izhmash_vityaz_std_plastic_textures.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "ak103_black_lines/client_assets.bundle",
+            "ak103_black_lines/textures/client_assets.bundle",
+            "assets/content/weapons/ak100/weapon_izhmash_ak104_762x39_container.bundle",
+            "assets/content/weapons/ak100/weapon_izhmash_ak105_545x39_container.bundle",
+            "assets/content/weapons/ak74m/textures/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "assets/content/weapons/pp-19-01/textures/client_assets.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_ak_akademia_bastion_retex.bundle",
+        "crc": 2624774127,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rsass_black/weapon_remington_r11_rsass_762x51_container.bundle",
+        "crc": 3840670745,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/rsass.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/mpx.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "rsass_black/client_assets.bundle",
+            "rsass_black/textures/client_assets.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rsass_black/client_assets.bundle",
+        "crc": 2185429241,
+        "dependencies": [
+            "rsass_black/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rsass_black/textures/client_assets.bundle",
+        "crc": 1554518314,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mk47_black_lines/textures/client_assets.bundle",
+        "crc": 3430664484,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mk47_black_lines/client_assets.bundle",
+        "crc": 3298949763,
+        "dependencies": [
+            "mk47_black_lines/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mk47_black_lines/weapon_cmmg_mk47_762x39_container.bundle",
+        "crc": 222608003,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/mp5.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/akm/instrumental.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/mp5.bundle",
+            "assets/content/audio/weapons/mpx.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "assets/content/weapons/m4a1/client_assets.bundle",
+            "assets/content/weapons/m4a1/textures/client_assets.bundle",
+            "mk47_black_lines/client_assets.bundle",
+            "mk47_black_lines/textures/client_assets.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_mk47_cmmg_mk47_std_retex.bundle",
+        "crc": 773821857,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "tactical_all_wilcox_raptar_es_retex.bundle",
+        "crc": 2579141176,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_30mm_razor_hd_gen_2_1_6x24_retex.bundle",
+        "crc": 1208440763,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_ar15_noveske_gen3_retex.bundle",
+        "crc": 3096247337,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "stock_vepr_molot_vpo-101_std_wood_retex.bundle",
+        "crc": 720958159,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "stock_m14_troy_sass_chassis_retex.bundle",
+        "crc": 3468973916,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "aug_black_2/textures/client_assets.bundle",
+        "crc": 2139860590,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "aug_black_2/client_assets.bundle",
+        "crc": 590823210,
+        "dependencies": [
+            "aug_black_2/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "aug_black_2/weapon_steyr_aug_a3_m1_556x45_container.bundle",
+        "crc": 256502384,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/ash12.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/mp5.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "aug_black_2/client_assets.bundle",
+            "aug_black_2/textures/client_assets.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "silencer_mount_silencerco_hybrid_46_multi_retex.bundle",
+        "crc": 7623143,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mag_aug_steyr_std_556x45_30_retex.bundle",
+        "crc": 4151409580,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "stock_ak_zenit_pt_1_retex.bundle",
+        "crc": 2056994909,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "pistolgrip_ak_magpul_moe_ak_retex.bundle",
+        "crc": 2913318420,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "gas_block_akp_slr_ak_railed_gas_tube_retex.bundle",
+        "crc": 363695855,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_ak_texas_weapon_systems_dog_leg_rail_gen_3_retex.bundle",
+        "crc": 3285749334,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "handguard_ar15_precision_reflex_carbon_fiber_delta_gen_3_retex.bundle",
+        "crc": 3339887186,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "helmet_armor_slaap.bundle",
+        "crc": 3218798800,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_glock_glock_17_std_retex.bundle",
+        "crc": 2873990934,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_glock_gspc_viper_slide_cut_retex.bundle",
+        "crc": 2891725387,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_flame/textures/client_assets.bundle",
+        "crc": 135086675,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_flame/client_assets.bundle",
+        "crc": 174749504,
+        "dependencies": [
+            "m4a1_flame/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_flame/weapon_colt_m4a1_556x45_container.bundle",
+        "crc": 3328191734,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/m4a1.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/m4a1.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "m4a1_flame/client_assets.bundle",
+            "m4a1_flame/textures/client_assets.bundle",
+            "assets/content/weapons/tx15/client_assets.bundle",
+            "assets/content/weapons/tx15/textures/client_assets.bundle",
+            "assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "foregrip_all_bcm_mod_3_new.bundle",
+        "crc": 4084331690,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mag_ak74_izhmash_6l23_545x39_30_retex.bundle",
+        "crc": 1091405707,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_new/textures/client_assets.bundle",
+        "crc": 3999810568,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_new/client_assets.bundle",
+        "crc": 742905402,
+        "dependencies": [
+            "m4a1_new/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "m4a1_new/weapon_colt_m4a1_556x45_container.bundle",
+        "crc": 4122456914,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/banks/m4a1.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/audio/weapons/m4a1.bundle",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "m4a1_new/client_assets.bundle",
+            "m4a1_new/textures/client_assets.bundle",
+            "assets/content/weapons/tx15/client_assets.bundle",
+            "assets/content/weapons/tx15/textures/client_assets.bundle",
+            "assets/content/weapons/tx15/weapon_lone_star_tx15_designated_marksman_556x45_container.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "reciever_ar15_vltor_mur-1s_retex.bundle",
+        "crc": 712744852,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mag_ar10_lancer_l7_awm_762x51_20.bundle",
+        "crc": 36013362,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "mag_ar10_lancer_l7_awm_762x51_25.bundle",
+        "crc": 3864520869,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "spear_black/textures/client_assets.bundle",
+        "crc": 2161496428,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "spear_black/client_assets.bundle",
+        "crc": 467252062,
+        "dependencies": [
+            "spear_black/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "spear_black/weapon_sig_mcx_spear_68x51_container.bundle",
+        "crc": 2198064197,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/audio/blendoptions/assets.bundle",
+            "assets/content/audio/weapons/ak74.bundle",
+            "assets/content/audio/weapons/generic",
+            "assets/content/weapons/additional_hands/client_assets.bundle",
+            "assets/content/weapons/animations/simple_animations.bundle",
+            "assets/content/weapons/animations/spirit_animations.bundle",
+            "spear_black/client_assets.bundle",
+            "spear_black/textures/client_assets.bundle",
+            "assets/content/weapons/weapon_root_anim_fix.bundle",
+            "assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+            "assets/systems/effects/heathaze/defaultheathaze.bundle",
+            "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "spear_black/reciever_mcx_sig_spear_upper.bundle",
+        "crc": 1153517237,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "spear_black/client_assets.bundle",
+            "spear_black/textures/client_assets.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "pistolgrip_ar15_sig_reduced_angle_pistol_grip_ct_retex.bundle",
+        "crc": 723481249,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "handguard_mcx_sig_spear_m_lok_retex.bundle",
+        "crc": 3628370738,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "silencer_clutchlok_sig_slx68_mg_qd_suppressor_68x51_retex.bundle",
+        "crc": 1558307302,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "charge_spear_sig_spear_std_retex.bundle",
+        "crc": 3550301141,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "stock_ar15_magpul_moe_sl_k_carbine_ct_retex.bundle",
+        "crc": 732672877,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "stock_base_sig_low_profile_tube_ct_retex.bundle",
+        "crc": 1921611500,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "balaclava/item_equipment_facecover_balaclava_black.bundle",
+        "crc": 1982540086,
+        "dependencies": [
+            "balaclava/wildman01head_textures_black.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "balaclava/wildman01head_textures_black.bundle",
+        "crc": 3957872168,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "glasses/item_equipment_glasses_npp_retex.bundle",
+        "crc": 3026164031,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rigs/cr_arscpc_retex.bundle",
+        "crc": 604831065,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rigs/item_equipment_rig_carriertactec_retex.bundle",
+        "crc": 995726745,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rigs/item_equipment_rig_tv110_retex.bundle",
+        "crc": 3075806657,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "rigs/item_equipment_rig_cryeavs_retex.bundle",
+        "crc": 2694010038,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_all_vortex_razor_amg_uh-1_retex.bundle",
+        "crc": 2202712758,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/eotech_spec_mask.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "tactical_all_insight_anpeq15_retex.bundle",
+        "crc": 1734396687,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "stock_ar15_fab_defense_gl_core_retex.bundle",
+        "crc": 3445005709,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-BlackCore",
+        "filename": "scope_30mm_sig_tango6t_1_6x24_retex.bundle",
+        "crc": 915754248,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "wilcox_tactical.bundle",
+        "crc": 195843087,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "wilcox_tactical_blk.bundle",
+        "crc": 1028424148,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ftx_tactical.bundle",
+        "crc": 534661790,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "vietnamhelmet.bundle",
+        "crc": 1452503644,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "vietnamhelmet2.bundle",
+        "crc": 331422173,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest1.bundle",
+        "crc": 42964511,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest1_blk.bundle",
+        "crc": 2451229232,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaulthelmet1.bundle",
+        "crc": 1256312809,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaulthelmet1_blk.bundle",
+        "crc": 1204383561,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest2_v2_blk.bundle",
+        "crc": 2400909445,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest2_v2_fde.bundle",
+        "crc": 2741077559,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "riserone.bundle",
+        "crc": 1040728603,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "risertwo.bundle",
+        "crc": 1384919897,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "riserthree.bundle",
+        "crc": 352961315,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "riser4.bundle",
+        "crc": 4238190822,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "magpulsl.bundle",
+        "crc": 3459311274,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "magpulsl_tan.bundle",
+        "crc": 2193104156,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "wrappedsilencer.bundle",
+        "crc": 3217970162,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "dqccqbsilencer.bundle",
+        "crc": 1329936282,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flatgrip1.bundle",
+        "crc": 4033331876,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "sight1.bundle",
+        "crc": 1134510076,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "sight2.bundle",
+        "crc": 75018117,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "backpanel1.bundle",
+        "crc": 2212038526,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "backpanel1_blk.bundle",
+        "crc": 1733001083,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest4.bundle",
+        "crc": 1016957510,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest4_blk.bundle",
+        "crc": 2902655231,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flatgrip2.bundle",
+        "crc": 478047893,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "railskin1.bundle",
+        "crc": 3803898081,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "railskin1fde.bundle",
+        "crc": 655562952,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "railskin1od.bundle",
+        "crc": 849948756,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "gasmask1.bundle",
+        "crc": 1280998964,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "gasmask2.bundle",
+        "crc": 198035214,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "gasmask3.bundle",
+        "crc": 1256209484,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "dd_magazine.bundle",
+        "crc": 1134944978,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flashlight1.bundle",
+        "crc": 320359267,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flashlight2.bundle",
+        "crc": 3238010542,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flashlight3.bundle",
+        "crc": 3379695989,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flashlight4.bundle",
+        "crc": 2494106153,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flashlight4_fde.bundle",
+        "crc": 4148318923,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "flashlight5.bundle",
+        "crc": 1933166052,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/standard assets/effects/lightcookies/textures/flashlightcookie.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "helmet_shapeshifter.bundle",
+        "crc": 2153233605,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "devtac.bundle",
+        "crc": 1445717866,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "devtac_new.bundle",
+        "crc": 2882893765,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "clothes/tshirt_usec_combatshirt_black.bundle",
+        "crc": 757654390,
+        "dependencies": [
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "clothes/hands_usec_combatshirt_black.bundle",
+        "crc": 1488618888,
+        "dependencies": [
+            "assets/content/hands/bear/bear_hands_watch_texture.bundles",
+            "assets/content/hands/bear/bear_watch.bundle",
+            "assets/content/hands/usec/materials/watch_usec_textures",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "tangoscope.bundle",
+        "crc": 1669062554,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "packages/com.unity.postprocessing/postprocessing/postprocessresources.bundle",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "container_ammo_pouch.bundle",
+        "crc": 3563173639,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "container_toolbox.bundle",
+        "crc": 1214437954,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "container_first_aid.bundle",
+        "crc": 1663913967,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "shortbarrel_ar.bundle",
+        "crc": 723677532,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ultra_shortbarrel_ar.bundle",
+        "crc": 1542106112,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "trans_mag.bundle",
+        "crc": 2858143395,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaulthelmet2.bundle",
+        "crc": 1541997755,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaulthelmet_2_blk.bundle",
+        "crc": 1617820142,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaulthelmet_2_od.bundle",
+        "crc": 3744922852,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "clothes/pants_m90.bundle",
+        "crc": 1755819932,
+        "dependencies": [
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "vertgrip2.bundle",
+        "crc": 679589373,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "vertgrip2_blk.bundle",
+        "crc": 4208041816,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "barrel_m700.bundle",
+        "crc": 1018892694,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bastion_dustcover_trans.bundle",
+        "crc": 1193695501,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "railskin_kac.bundle",
+        "crc": 2832304278,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "clothes/top_usec_hoody.bundle",
+        "crc": 677373074,
+        "dependencies": [
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ar_charging_handle_1.bundle",
+        "crc": 3485408617,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "dd_handguard_long.bundle",
+        "crc": 2118863820,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "dd_handguard_long_v2.bundle",
+        "crc": 3151495815,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "backpack_boss_birdeye_blk.bundle",
+        "crc": 3308214192,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "backpack_boss_birdeye_m90.bundle",
+        "crc": 827716762,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bcm_handguard_fde.bundle",
+        "crc": 2075265722,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bcm_handguard_blk.bundle",
+        "crc": 1372340057,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ar_adapter_stock.bundle",
+        "crc": 2667886632,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "figurine_batman.bundle",
+        "crc": 4047337380,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "pistolgrip1.bundle",
+        "crc": 3126490425,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "pistolgrip1_blk.bundle",
+        "crc": 1729999516,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "m16_handguard.bundle",
+        "crc": 463754973,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "m16_handguard_blk.bundle",
+        "crc": 2919375700,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "barrel_ar15_m16_18in.bundle",
+        "crc": 2597982494,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "assets/content/items/mods/barrels/barrel_ar15_adar_406mm_textures",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "barrel_ar15_m16_20in.bundle",
+        "crc": 87818652,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle",
+            "assets/content/items/mods/barrels/barrel_ar15_adar_406mm_textures",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "combatbelt1.bundle",
+        "crc": 1926138716,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "combatbelt1_blk.bundle",
+        "crc": 1615227422,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ar_magazine.bundle",
+        "crc": 2845642490,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaulthelmet3.bundle",
+        "crc": 3078439103,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "m16_stock.bundle",
+        "crc": 2787203176,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "m16_stock_2.bundle",
+        "crc": 1299302245,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest5.bundle",
+        "crc": 2631187800,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "backpanel2.bundle",
+        "crc": 1840573869,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "backpanel2_blk.bundle",
+        "crc": 3557550387,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "belt2.bundle",
+        "crc": 4291971535,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "tgc_mlok.bundle",
+        "crc": 4112047276,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "silencer2.bundle",
+        "crc": 2804656463,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "zipline_ar15_handguard.bundle",
+        "crc": 1071457672,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "zipline_ar15_reciever.bundle",
+        "crc": 3965078414,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "zipline_ar15_pistolgrip.bundle",
+        "crc": 2860002356,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "belt3.bundle",
+        "crc": 1347048648,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "belt3_black.bundle",
+        "crc": 2178864716,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "zipline_ar15_stock.bundle",
+        "crc": 389154394,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bope_beret.bundle",
+        "crc": 3806529458,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "m16_heatshield_handguard.bundle",
+        "crc": 4102957120,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ghost_mask.bundle",
+        "crc": 137013740,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "mp7_stock_1.bundle",
+        "crc": 3996097677,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "mp7_stock_2.bundle",
+        "crc": 2463747399,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "mp7_silencer_1.bundle",
+        "crc": 1436584456,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "mp7_silencer_1_spec.bundle",
+        "crc": 2477249030,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/smoke.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "mp7_magazine_1.bundle",
+        "crc": 2596651034,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest6.bundle",
+        "crc": 550653792,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest6_tan.bundle",
+        "crc": 48600701,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "assaultvest6_blk.bundle",
+        "crc": 4241778176,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "clothes/hands_bear_borey_m90.skin.bundle",
+        "crc": 1076453328,
+        "dependencies": [
+            "assets/content/hands/bear/bear_hands_watch_texture.bundles",
+            "assets/content/hands/bear/bear_watch.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "clothes/top_bear_borey_m90.bundle",
+        "crc": 1381459936,
+        "dependencies": [
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "patron_6mm_arc.bundle",
+        "crc": 3637714056,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bcm_mod_3_reversed.bundle",
+        "crc": 3574744868,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bcm_mod_3_reversed_tape.bundle",
+        "crc": 3984340713,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bcm_mod_3_reversed_tape_fde.bundle",
+        "crc": 1713736687,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "bipod_harris.bundle",
+        "crc": 76084228,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ar_handguard.bundle",
+        "crc": 846355086,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ar_moe_stock.bundle",
+        "crc": 1562968835,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "ar_split_handguard.bundle",
+        "crc": 1445567031,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "hb_stock.bundle",
+        "crc": 105078469,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "handstop_foregrip_1.bundle",
+        "crc": 728350483,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "handstop_foregrip_1_fde.bundle",
+        "crc": 1435592945,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "riser5.bundle",
+        "crc": 1380324699,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-TacticalGearComponent",
+        "filename": "riser6.bundle",
+        "crc": 3772332091,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_colt_ar15_std_556x45_30_green_tape.bundle",
+        "crc": 3918900261,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_colt_ar15_std_556x45_30_red_tape.bundle",
+        "crc": 101280354,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_colt_ar15_std_556x45_30_blue_tape.bundle",
+        "crc": 3933047976,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_colt_ar15_std_556x45_30_fde_tape.bundle",
+        "crc": 3122481211,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_colt_ar15_std_556x45_30_black_tape.bundle",
+        "crc": 2880124474,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_colt_ar15_std_556x45_30_yellow_tape.bundle",
+        "crc": 382773419,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_blk_blue_tape.bundle",
+        "crc": 4212105021,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm_blue_tape.bundle",
+            "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_blk_yellow_tape.bundle",
+        "crc": 725697825,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm_blue_tape.bundle",
+            "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_blk_red_tape.bundle",
+        "crc": 2350260299,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm_blue_tape.bundle",
+            "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_blk_white_tape.bundle",
+        "crc": 2967649160,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm_blue_tape.bundle",
+            "assets/content/items/mods/magazines/mag_stanag_magpul_pmag_gen_m3_556x45_30_mesh",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_56/mag_stanag_magpul_pmag_gen_m3_556x45_30_gloss_nrm_blue_tape.bundle",
+        "crc": 3602201331,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_blue.bundle",
+        "crc": 490671950,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_blue.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_blue.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_blue.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_blue.bundle",
+        "crc": 3945962189,
+        "dependencies": [
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_blue.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_blue.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_blue.bundle",
+        "crc": 3653477313,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_blue.bundle",
+        "crc": 1879699543,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_red.bundle",
+        "crc": 1554080717,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_red.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_red.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_red.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_red.bundle",
+        "crc": 561592844,
+        "dependencies": [
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_red.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_red.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_red.bundle",
+        "crc": 2671444870,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_red.bundle",
+        "crc": 31355752,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_green.bundle",
+        "crc": 4118233250,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_green.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_green.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_green.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_green.bundle",
+        "crc": 3042933612,
+        "dependencies": [
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_green.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_green.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_green.bundle",
+        "crc": 3468683932,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_green.bundle",
+        "crc": 3486592252,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_yellow.bundle",
+        "crc": 2345937754,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_yellow.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_yellow.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_yellow.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_yellow.bundle",
+        "crc": 310424378,
+        "dependencies": [
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_yellow.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_yellow.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_yellow.bundle",
+        "crc": 267322320,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_yellow.bundle",
+        "crc": 2292270806,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_white.bundle",
+        "crc": 754203608,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_white.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_white.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_white.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_mesh_white.bundle",
+        "crc": 2655107951,
+        "dependencies": [
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_white.bundle",
+            "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_white.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_diffs_white.bundle",
+        "crc": 3646031150,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "7_62/mag_ak_magpul_pmag_30_ak_akm_gen_m3_762x39_30_gloss_nrm_white.bundle",
+        "crc": 303339813,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_45/mag_ak74_izhmash_6l31_545x39_60_blue.bundle",
+        "crc": 616806828,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_45/mag_ak74_izhmash_6l31_545x39_60_red.bundle",
+        "crc": 3051756483,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_45/mag_ak74_izhmash_6l31_545x39_60_green.bundle",
+        "crc": 3934650629,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_45/mag_ak74_izhmash_6l31_545x39_60_yellow.bundle",
+        "crc": 3944042107,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/MoxoPixel-MagTape",
+        "filename": "5_45/mag_ak74_izhmash_6l31_545x39_60_white.bundle",
+        "crc": 1273444933,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_blue.bundle",
+        "crc": 2822584834,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_blue_loot.bundle",
+        "crc": 3803660845,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_green.bundle",
+        "crc": 2675520810,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_green_loot.bundle",
+        "crc": 86165474,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_mango.bundle",
+        "crc": 1212683570,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_mango_loot.bundle",
+        "crc": 2148933652,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_orange.bundle",
+        "crc": 3240634594,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_orange_loot.bundle",
+        "crc": 30032496,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_peach.bundle",
+        "crc": 2625694885,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_peach_loot.bundle",
+        "crc": 2731054696,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_purple.bundle",
+        "crc": 1881844012,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_purple_loot.bundle",
+        "crc": 3784381685,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_red.bundle",
+        "crc": 976893299,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_red_loot.bundle",
+        "crc": 566766733,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_strawberry.bundle",
+        "crc": 1610765537,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_strawberry_loot.bundle",
+        "crc": 2543440828,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_yellow.bundle",
+        "crc": 787352184,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_4loko_yellow_loot.bundle",
+        "crc": 3233817898,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_bitch_beer.bundle",
+        "crc": 3064608428,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_bitch_beer_loot.bundle",
+        "crc": 493308215,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_coke.bundle",
+        "crc": 1728808506,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_coke_loot.bundle",
+        "crc": 2850805485,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_deusch_bitch_beer_loot.bundle",
+        "crc": 2880957,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_duesch_bitch_beer.bundle",
+        "crc": 2742714613,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_four_loko.bundle",
+        "crc": 3037444572,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_four_loko_loot.bundle",
+        "crc": 518101345,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_other_gross_beer.bundle",
+        "crc": 2202885376,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_other_gross_beer_loot.bundle",
+        "crc": 4191789653,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull.bundle",
+        "crc": 1572615362,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_blue.bundle",
+        "crc": 4151983190,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_blue_loot.bundle",
+        "crc": 458164524,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_green.bundle",
+        "crc": 3100017187,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_green_loot.bundle",
+        "crc": 296024030,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_loot.bundle",
+        "crc": 3216804736,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_orange.bundle",
+        "crc": 729828374,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_orange_loot.bundle",
+        "crc": 581968997,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_peach.bundle",
+        "crc": 1159714478,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_peach_loot.bundle",
+        "crc": 1229315713,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_red.bundle",
+        "crc": 1957463348,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_red_loot.bundle",
+        "crc": 1542254549,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_yellow.bundle",
+        "crc": 2079493652,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_redbull_yellow_loot.bundle",
+        "crc": 1087845134,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_rocka_drink.bundle",
+        "crc": 7562980,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_rocka_drink_loot.bundle",
+        "crc": 936549775,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_thc_gummies.bundle",
+        "crc": 1977274624,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_thc_gummies_loot.bundle",
+        "crc": 2896778773,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_water_bottle_orange.bundle",
+        "crc": 3096364874,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_water_bottle_orange_loot.bundle",
+        "crc": 126729709,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_wtt_water_bottle.bundle",
+        "crc": 3438425076,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/1WTT - CornerStore",
+        "filename": "Food_Items/food_wtt_water_bottle_loot.bundle",
+        "crc": 756163041,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/DickMarcinkoVoicePack",
+        "filename": "Audio/dick_marcinko_audio.bundle",
+        "crc": 2903532149,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/DickMarcinkoVoicePack",
+        "filename": "Audio/shared_audio.bundle",
+        "crc": 2783519223,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/DickMarcinkoVoicePack",
+        "filename": "Voices/dick_marcinko_voice.bundle",
+        "crc": 2101423197,
+        "dependencies": [
+            "Audio/dick_marcinko_audio.bundle",
+            "Audio/shared_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy.bundle",
+        "crc": 3968772067,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_container.bundle",
+        "crc": 371086852,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_blue.bundle",
+        "crc": 1084511253,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_blue_container.bundle",
+        "crc": 3576668791,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_white.bundle",
+        "crc": 2592570359,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_white_container.bundle",
+        "crc": 1405787294,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_strawberry.bundle",
+        "crc": 2663386335,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_strawberry_container.bundle",
+        "crc": 3180588660,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_doctor.bundle",
+        "crc": 120393185,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_doctor_container.bundle",
+        "crc": 3574102262,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_punch.bundle",
+        "crc": 3237798614,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_punch_container.bundle",
+        "crc": 853619784,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_lemonade.bundle",
+        "crc": 1530881600,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/monster_energy_lemonade_container.bundle",
+        "crc": 1983356633,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/nos_energy.bundle",
+        "crc": 199498319,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/nos_energy_container.bundle",
+        "crc": 4276572330,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/bang_energy.bundle",
+        "crc": 623262657,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/bang_energy_container.bundle",
+        "crc": 301375959,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/ghost_energy.bundle",
+        "crc": 4221093790,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/ghost_energy_container.bundle",
+        "crc": 3959776988,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/starbucks_energy.bundle",
+        "crc": 1663023016,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/starbucks_energy_container.bundle",
+        "crc": 2950476453,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/c4_starburst_energy.bundle",
+        "crc": 3401806695,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/c4_starburst_energy_container.bundle",
+        "crc": 383218615,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/rockstar_energy.bundle",
+        "crc": 3464944109,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/rockstar_energy_container.bundle",
+        "crc": 1588383472,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/redbull_energy.bundle",
+        "crc": 2041670268,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/redbull_energy_container.bundle",
+        "crc": 4110676963,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/redbull_watermelon_energy.bundle",
+        "crc": 548718764,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/HoodsEnergyDrinks",
+        "filename": "assets/redbull_watermelon_energy_container.bundle",
+        "crc": 1731266901,
+        "dependencies": [
+            "cubemaps",
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/Jehree-GildedKeyStorage",
+        "filename": "CaseBundles/Golden_Keychain1.bundle",
+        "crc": 3804268561,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/Jehree-GildedKeyStorage",
+        "filename": "CaseBundles/Golden_Keychain2.bundle",
+        "crc": 3310899848,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/Jehree-GildedKeyStorage",
+        "filename": "CaseBundles/Golden_Keychain3.bundle",
+        "crc": 3627257627,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/Jehree-GildedKeyStorage",
+        "filename": "CaseBundles/Golden_Keycard_Case.bundle",
+        "crc": 1370660695,
+        "dependencies": [
+            "shaders",
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/Jehree-GildedKeyStorage",
+        "filename": "CaseBundles/Golden_Key_Pouch.bundle",
+        "crc": 2867359224,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/MedicalSICCcase",
+        "filename": "assets/content/items/containers/item_container_lopouch/micc.bundle",
+        "crc": 4147058293,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak12_rear_sight_std.bundle",
+        "crc": 519189676,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_hk_mp7_std.bundle",
+        "crc": 2526841629,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_kac_folding_micro_sight.bundle",
+        "crc": 308446457,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_kac_folding_sight.bundle",
+        "crc": 1542913172,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_m14_springfield_armory_enlarged_military_aperture_135.bundle",
+        "crc": 508781704,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_sa58_ds_arms_metric_holand_type_rear_sight.bundle",
+        "crc": 4280266779,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_g36_hk_std.bundle",
+        "crc": 2895897774,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_kriss_defiance_low_profile_flip_up.bundle",
+        "crc": 566644425,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_hk_416_flip_up.bundle",
+        "crc": 3598553111,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_fn_scar_rear_sight_std.bundle",
+        "crc": 2848450320,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_all_ckib_ash12_std.bundle",
+        "crc": 2270660402,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_sag_mk3_chassis_rear_sight.bundle",
+        "crc": 2154497929,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_rpk16_rear_sight_std.bundle",
+        "crc": 2318768225,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ar15_colt_a2.bundle",
+        "crc": 1069922475,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ar15_colt_carry_hande_std.bundle",
+        "crc": 221725772,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_tactica_tula_tt01.bundle",
+        "crc": 3904477109,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_mp9_bt_mp9_std.bundle",
+        "crc": 783427755,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak74_std.bundle",
+        "crc": 411443314,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak74m_std.bundle",
+        "crc": 2633701519,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_ak105_std.bundle",
+        "crc": 3612547052,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_akm_std.bundle",
+        "crc": 1738753022,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_akmb.bundle",
+        "crc": 2494783028,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_izhmash_akmp.bundle",
+        "crc": 1745096159,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_rifle_dynamics_enhanced_v2.bundle",
+        "crc": 2705302410,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_mosin_izhmash_mosin_carabine.bundle",
+        "crc": 1138266034,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_mosin_izhmash_mosin_std.bundle",
+        "crc": 1622402789,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_vss_tochmash_vss_std.bundle",
+        "crc": 3517723252,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_vepr_molot_vpo-101_std.bundle",
+        "crc": 4242762671,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_val_tochmash_val_std.bundle",
+        "crc": 2604056007,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_svt40_toz_svt40_std.bundle",
+        "crc": 4226042525,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_sks_toz_sks_std.bundle",
+        "crc": 1809751847,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_rpd_zid_rpd_std.bundle",
+        "crc": 3222469097,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_pk_zid_pk_std.bundle",
+        "crc": 3383483534,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/sights rear/sight_rear_ak_molot_vpo_209.bundle",
+        "crc": 263813964,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/barrels/barrel_vpo215_600mm_366tkm.bundle",
+        "crc": 781376691,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/recievers/reciever_aks74u_izhmash_aks74u_std.bundle",
+        "crc": 4048673360,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/recievers/reciever_aks74u_izhmash_aks74ub_std.bundle",
+        "crc": 2013866388,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/items/mods/recievers/reciever_aks74u_legal_arsenal_pilgrim_dust_cover.bundle",
+        "crc": 1964540847,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/PeinBetterRearSights",
+        "filename": "assets/content/weapons/uzi/client_assets.bundle",
+        "crc": 943958004,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/RCTA - Peely Default [FORTNITE]",
+        "filename": "RCTA/clothing/peely_default_arms.bundle",
+        "crc": 1205819604,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA - Peely Default [FORTNITE]",
+        "filename": "RCTA/clothing/peely_default_bottom.bundle",
+        "crc": 3326872284,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA - Peely Default [FORTNITE]",
+        "filename": "RCTA/clothing/peely_default_top.bundle",
+        "crc": 3668188484,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA - Peely Default [FORTNITE]",
+        "filename": "RCTA/heads/peely_default_1_head.bundle",
+        "crc": 237469869,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA - Peely Default [FORTNITE]",
+        "filename": "RCTA/heads/peely_default_2_head.bundle",
+        "crc": 3257819553,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Doom.Slayer.DOOME",
+        "filename": "clothing/doomslayer_eternal_a_top.bundle",
+        "crc": 4219655743,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Doom.Slayer.DOOME",
+        "filename": "clothing/doomslayer_eternal_bottom.bundle",
+        "crc": 316160096,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Doom.Slayer.DOOME",
+        "filename": "clothing/doomslayer_eternal_b_top.bundle",
+        "crc": 2854062614,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Doom.Slayer.DOOME",
+        "filename": "clothing/doomslayer_eternal_hands.bundle",
+        "crc": 408079719,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Doom.Slayer.DOOME",
+        "filename": "heads/doomslayer_eternal_a_head.bundle",
+        "crc": 1950343013,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Doom.Slayer.DOOME",
+        "filename": "heads/doomslayer_eternal_b_head.bundle",
+        "crc": 639530354,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "clothing/fender_doyouevenlift_a_top.bundle",
+        "crc": 1770439362,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "clothing/fender_doyouevenlift_bottom.bundle",
+        "crc": 428106985,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "clothing/fender_doyouevenlift_b_top.bundle",
+        "crc": 595466525,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "clothing/fender_doyouevenlift_c_top.bundle",
+        "crc": 3106274945,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "clothing/fender_doyouevenlift_hands.bundle",
+        "crc": 198677744,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "heads/fender_doyouevenlift_a_head.bundle",
+        "crc": 14972722,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "heads/fender_doyouevenlift_b_head.bundle",
+        "crc": 3235029704,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Fender.Do.You.Even.Lift.CODMW3",
+        "filename": "heads/fender_doyouevenlift_empty_head.bundle",
+        "crc": 1480495531,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_a_top.bundle",
+        "crc": 2664066386,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_bottom.bundle",
+        "crc": 294880359,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_b_top.bundle",
+        "crc": 1944196958,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_c_top.bundle",
+        "crc": 263240771,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_d_top.bundle",
+        "crc": 1828123296,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_glow_a_top.bundle",
+        "crc": 3060439419,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_glow_b_top.bundle",
+        "crc": 1193286664,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_glow_c_top.bundle",
+        "crc": 1244485679,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_glow_d_top.bundle",
+        "crc": 2896042363,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "clothing/doc_gundam_hands.bundle",
+        "crc": 996961742,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "heads/doc_gundam_glow_head.bundle",
+        "crc": 2390230185,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Gundam.CODMW3",
+        "filename": "heads/doc_gundam_head.bundle",
+        "crc": 3428247098,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/oldsnakefortnite_bottom.bundle",
+        "crc": 278118001,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/oldsnakefortnite_hands.bundle",
+        "crc": 3156208497,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/oldsnakefortnite_top.bundle",
+        "crc": 4154891369,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/raidenfortnite_bottom.bundle",
+        "crc": 477536885,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/raidenfortnite_hands.bundle",
+        "crc": 4249814549,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/raidenfortnite_top.bundle",
+        "crc": 1896051960,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/snakefortnite_bottom.bundle",
+        "crc": 3865075523,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/snakefortnite_hands.bundle",
+        "crc": 1541791695,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/RCTA.-.Metal.Gear.FORTNITE",
+        "filename": "RCTA/clothing/snakefortnite_top.bundle",
+        "crc": 1259522278,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/bigbosshead.bundle",
+        "crc": 1836113859,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/chrishead.bundle",
+        "crc": 324467778,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/dantehead.bundle",
+        "crc": 108943003,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/dukehead.bundle",
+        "crc": 1727625385,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/gerryhead.bundle",
+        "crc": 2964138771,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/kazhead.bundle",
+        "crc": 707588789,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/landerhead.bundle",
+        "crc": 1152285265,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/reedushead.bundle",
+        "crc": 2745722883,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/rohead.bundle",
+        "crc": 381483642,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "heads/samhead.bundle",
+        "crc": 1208257699,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/BoB/Audio/geralt_audio.bundle",
+        "crc": 2869391815,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/BoB/Voices/geralt_voice.bundle",
+        "crc": 3239002440,
+        "dependencies": [
+            "voices/BoB/Audio/geralt_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/Duke/Audio/duke_audio.bundle",
+        "crc": 4197150091,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/Duke/Voices/duke_voice.bundle",
+        "crc": 1526488523,
+        "dependencies": [
+            "voices/Duke/Audio/duke_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/Homelander/Audio/homelander_audio.bundle",
+        "crc": 4006237724,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/Homelander/Voices/homelander_voice.bundle",
+        "crc": 3618262533,
+        "dependencies": [
+            "voices/Homelander/Audio/homelander_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/Norman/Audio/norman_audio.bundle",
+        "crc": 1673599155,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/WTT-The Long Lost Heads of Yojenkz",
+        "filename": "voices/Norman/Voices/norman_voice.bundle",
+        "crc": 3114890247,
+        "dependencies": [
+            "voices/Norman/Audio/norman_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-UpInSmoke",
+        "filename": "heads/upinsmoke.bundle",
+        "crc": 2525392026,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-UpInSmoke",
+        "filename": "heads/upinsmoke2.bundle",
+        "crc": 393143250,
+        "dependencies": [
+            "shaders",
+            "cubemaps",
+            "assets/commonassets/physics/physicsmaterials.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-UpInSmoke",
+        "filename": "voices/Cheech/Audio/cheech_audio.bundle",
+        "crc": 2089231900,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/WTT-UpInSmoke",
+        "filename": "voices/Cheech/Voices/cheech_voice.bundle",
+        "crc": 2976261349,
+        "dependencies": [
+            "voices/Cheech/Audio/cheech_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/WTT-UpInSmoke",
+        "filename": "voices/ChongVoice/Audio/chong_audio.bundle",
+        "crc": 3762084636,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/WTT-UpInSmoke",
+        "filename": "voices/ChongVoice/Voices/chong_voice.bundle",
+        "crc": 723105173,
+        "dependencies": [
+            "voices/ChongVoice/Audio/chong_audio.bundle"
+        ]
+    },
+    {
+        "modpath": "user/mods/acidphantasm-brightlasers",
+        "filename": "assets/systems/effects/laserbeam/laser.bundle",
+        "crc": 3146475447,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/nanami-mapscase",
+        "filename": "assets/content/items/barter/wallet/wallet.bundle",
+        "crc": 2827844619,
+        "dependencies": []
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_big_pipe.skin.bundle",
+        "crc": 391785886,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_birdeye.skin.bundle",
+        "crc": 2160780031,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_blackknight.skin.bundle",
+        "crc": 46517943,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_glukhar.skin.bundle",
+        "crc": 1458591047,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_killa.skin.bundle",
+        "crc": 3842874719,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_kaban.skin.bundle",
+        "crc": 3834968687,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_kolontai.skin.bundle",
+        "crc": 2970014676,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_reshala.skin.bundle",
+        "crc": 723025679,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_sanitar.skin.bundle",
+        "crc": 326914288,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_shturman.skin.bundle",
+        "crc": 2189949641,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_tagilla.skin.bundle",
+        "crc": 903907696,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_zryachiy.skin.bundle",
+        "crc": 854877729,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_bratva1.skin.bundle",
+        "crc": 3742977371,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_bratva2.skin.bundle",
+        "crc": 2898646360,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_cultist1.skin.bundle",
+        "crc": 1573156240,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_cultist2.skin.bundle",
+        "crc": 1039931662,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_gorka4.skin.bundle",
+        "crc": 2941303834,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_husky.skin.bundle",
+        "crc": 208228819,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_scavelite.skin.bundle",
+        "crc": 118631296,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_security1.skin.bundle",
+        "crc": 1853061311,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_security2.skin.bundle",
+        "crc": 2469235458,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_tatu1.skin.bundle",
+        "crc": 2438979448,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_tatu2.skin.bundle",
+        "crc": 3964266676,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_wildbody2.skin.bundle",
+        "crc": 2624636899,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_scav_wildbody3.skin.bundle",
+        "crc": 2008104880,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/hands_boss_partizan.skin.bundle",
+        "crc": 3000597658,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/head_boss_tagilla.skin.bundle",
+        "crc": 2507462234,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/top_boss_shturman.skin.bundle",
+        "crc": 473565205,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/top_boss_shturman_alt.skin.bundle",
+        "crc": 2435521220,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/rairaitheraichu-alltheclothes",
+        "filename": "assets/top_boss_tagilla.skin.bundle",
+        "crc": 4023256136,
+        "dependencies": [
+            "shaders",
+            "cubemaps"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_base_aimpooint_comp_m4.bundle",
+        "crc": 2948032363,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_all_holosun_hs401g5.bundle",
+        "crc": 2128696594,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/glow_particle_bright.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "assets/systems/effects/laserbeam/laser.bundle",
+            "assets/systems/effects/multiflare/multiflare.bundle",
+            "assets/systems/effects/nightvision.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_all_leapers_utg_38_ita_1x30.bundle",
+        "crc": 1912981084,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/systems/effects/collimator.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_base_aimpoint_micro_t1.bundle",
+        "crc": 3304858164,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_base_aimpoint_pro.bundle",
+        "crc": 894943959,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_dovetail_belomo_pk_aa.bundle",
+        "crc": 604824869,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    },
+    {
+        "modpath": "user/mods/samswat-reflexsightsrework",
+        "filename": "assets/content/items/mods/scopes/scope_base_sig_romeo_4.bundle",
+        "crc": 587314897,
+        "dependencies": [
+            "assets/commonassets/physics/physicsmaterials.bundle",
+            "assets/content/textures/holemanager/round_spec_mask.bundle",
+            "assets/systems/effects/opticsight/opticsightsmasks.bundle",
+            "cubemaps",
+            "shaders"
+        ]
+    }
+]

@@ -1,0 +1,732 @@
+{
+    "username": "elswhr",
+    "nickname": "b0rnToShit",
+    "side": "Usec",
+    "currlvl": 25,
+    "currexp": 647221,
+    "prevexp": 609066,
+    "nextlvl": 679255,
+    "maxlvl": 78,
+    "edition": "Unheard",
+    "profileId": "674e8d5e000124d3a4adc638",
+    "sptData": {
+        "version": "3.10.1 (33420)",
+        "migrations": {},
+        "mods": [
+            {
+                "author": "MoxoPixel",
+                "dateAdded": 1733223845378,
+                "name": "Painter - Trader",
+                "version": "1.1.2"
+            },
+            {
+                "author": "MoxoPixel",
+                "dateAdded": 1733223845378,
+                "name": "Black Core",
+                "version": "1.1.4"
+            },
+            {
+                "author": "MoxoPixel",
+                "dateAdded": 1733223845378,
+                "name": "Tactical Gear Component (TGC)",
+                "version": "1.1.8"
+            },
+            {
+                "author": "MoxoPixel",
+                "dateAdded": 1733223845378,
+                "name": "Mag Tape",
+                "version": "1.0.7"
+            },
+            {
+                "author": "RockaHorse",
+                "dateAdded": 1733223845378,
+                "name": "Rocka's Corner Store",
+                "version": "0.0.7"
+            },
+            {
+                "author": "Corter",
+                "dateAdded": 1733223845378,
+                "name": "Corter-ModSync",
+                "version": "0.10.0"
+            },
+            {
+                "author": "Dirtbikercj",
+                "dateAdded": 1733223845378,
+                "name": "Expanded Task Text",
+                "version": "1.6.2"
+            },
+            {
+                "author": "Jehree",
+                "dateAdded": 1733223845378,
+                "name": "Gilded Key Storage",
+                "version": "1.5.0"
+            },
+            {
+                "author": "ItsReaperGirl",
+                "dateAdded": 1733223845378,
+                "name": "Map Renamer",
+                "version": "1.0.0"
+            },
+            {
+                "author": "VIP",
+                "dateAdded": 1733223845378,
+                "name": "MoreCheckmarksBackend",
+                "version": "1.5.15"
+            },
+            {
+                "author": "pein",
+                "dateAdded": 1733223845378,
+                "name": "PeinBetterRearSights",
+                "version": "1.0.7"
+            },
+            {
+                "author": "Platinum",
+                "dateAdded": 1733223845378,
+                "name": "The Blacklist",
+                "version": "2.0.2"
+            },
+            {
+                "author": "AmTurtle",
+                "dateAdded": 1733223845378,
+                "name": "SillyCatTraderIcons",
+                "version": "310.0.1"
+            },
+            {
+                "author": "sgtlaggy",
+                "dateAdded": 1733223845378,
+                "name": "TraderNamer",
+                "version": "2.1.2"
+            },
+            {
+                "author": "AcidMC",
+                "dateAdded": 1733223845378,
+                "name": "Verbose Transits",
+                "version": "1.0.0"
+            },
+            {
+                "author": "GrooveypenguinX",
+                "dateAdded": 1733223845378,
+                "name": "WTT-HeadVoiceSelector",
+                "version": "1.0.5"
+            },
+            {
+                "author": "GrooveypenguinX, Yojenkz",
+                "dateAdded": 1733223845378,
+                "name": "WTT - The Long Lost Heads of Yojenkz",
+                "version": "1.0.4"
+            },
+            {
+                "author": "RockaHorse, GrooveypenguinX",
+                "dateAdded": 1733223845378,
+                "name": "WTT - Up In Smoke",
+                "version": "4.2.4"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1733223845378,
+                "name": "Bosses Have Lega Medals",
+                "version": "1.2.0"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1733223845378,
+                "name": "BrightLasers",
+                "version": "1.2.0"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1733223845378,
+                "name": "Acids Progressive Bot System",
+                "version": "1.2.2"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1733223845378,
+                "name": "RefSPTFriendlyQuests",
+                "version": "1.2.0"
+            },
+            {
+                "author": "ArchangelWTF",
+                "dateAdded": 1733223845378,
+                "name": "LotsOfLoot Redux",
+                "version": "2.4.0"
+            },
+            {
+                "author": "Fika",
+                "dateAdded": 1733223845378,
+                "name": "server",
+                "version": "2.3.0"
+            },
+            {
+                "author": "inory",
+                "dateAdded": 1733223845378,
+                "name": "Dynamic Goons",
+                "version": "1.0.2"
+            },
+            {
+                "author": "Lacyway",
+                "dateAdded": 1733223845378,
+                "name": "MergeConsumables",
+                "version": "1.2.0"
+            },
+            {
+                "author": "leaves",
+                "dateAdded": 1733223845378,
+                "name": "loot_fuckery",
+                "version": "1.4.1"
+            },
+            {
+                "author": "Leaves",
+                "dateAdded": 1733223845378,
+                "name": "questrandomizer",
+                "version": "0.2.2"
+            },
+            {
+                "author": "leaves",
+                "dateAdded": 1733223845378,
+                "name": "shiny_airdrop_guns",
+                "version": "2.1.1"
+            },
+            {
+                "author": "PenguinGreenTea",
+                "dateAdded": 1733223845378,
+                "name": "FullHelmetCoverage",
+                "version": "1.1.1"
+            },
+            {
+                "author": "redlaser42",
+                "dateAdded": 1733223845378,
+                "name": "Increase Climb Height",
+                "version": "1.2.0"
+            },
+            {
+                "author": "SamSwat",
+                "dateAdded": 1733223845378,
+                "name": "ReflexSightsRework",
+                "version": "1.0.0"
+            },
+            {
+                "author": "schkuromi",
+                "dateAdded": 1733223845378,
+                "name": "all-zombies-all-day",
+                "version": "1.0.4"
+            },
+            {
+                "author": "Tyfon",
+                "dateAdded": 1733223845378,
+                "name": "uifixes",
+                "version": "3.0.0"
+            },
+            {
+                "author": "zSolarint",
+                "dateAdded": 1733223845378,
+                "name": "SAIN",
+                "version": "2.3.0"
+            },
+            {
+                "author": "GhostFenixx",
+                "dateAdded": 1733285932385,
+                "name": "SVM",
+                "version": "1.10.0"
+            },
+            {
+                "author": "Revingly(original mod) and Nanami",
+                "dateAdded": 1733377658069,
+                "name": "MICC",
+                "version": "4.1.0"
+            },
+            {
+                "author": "Nanami",
+                "dateAdded": 1733377658069,
+                "name": "MapsCase",
+                "version": "1.0.0"
+            },
+            {
+                "author": "Tyfon",
+                "dateAdded": 1733377658069,
+                "name": "uifixes",
+                "version": "3.0.1"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1733458303123,
+                "name": "Acids Progressive Bot System",
+                "version": "1.2.3"
+            },
+            {
+                "author": "IhanaMies",
+                "dateAdded": 1733551290280,
+                "name": "LootValueBackend",
+                "version": "4.0.0"
+            },
+            {
+                "author": "MusicManiac",
+                "dateAdded": 1733551290280,
+                "name": "MusicManiac-GigachadWorkout",
+                "version": "1.3.0"
+            },
+            {
+                "author": "MusicManiac",
+                "dateAdded": 1733551290280,
+                "name": "MusicManiac-LessRestrictingHeadwear",
+                "version": "2.2.0"
+            },
+            {
+                "author": "MusicManiac",
+                "dateAdded": 1733551290280,
+                "name": "MusicManiac-KeysInLoot",
+                "version": "1.4.0"
+            },
+            {
+                "author": "Helldiver",
+                "dateAdded": 1733642993397,
+                "name": "BotCallsigns",
+                "version": "1.1.2"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1733642993397,
+                "name": "MOAR",
+                "version": "2.4.0"
+            },
+            {
+                "author": "Hood",
+                "dateAdded": 1733642993397,
+                "name": "Hoods Energy Drinks",
+                "version": "1.0.3"
+            },
+            {
+                "author": "Virtual",
+                "dateAdded": 1733642993397,
+                "name": "Virtuals Custom Quest Loader",
+                "version": "2.0.3"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1733642993397,
+                "name": "Scorpion",
+                "version": "0.12.2"
+            },
+            {
+                "author": "Helldiver, harmony",
+                "dateAdded": 1733694932774,
+                "name": "Bot Callsigns",
+                "version": "1.1.3"
+            },
+            {
+                "author": "ekky",
+                "dateAdded": 1733694932774,
+                "name": "raid-review",
+                "version": "0.3.0"
+            },
+            {
+                "author": "TimmyGG",
+                "dateAdded": 1733694932774,
+                "name": "ExpandedCases",
+                "version": "1.1.0"
+            },
+            {
+                "author": "TRAPPUSSY",
+                "dateAdded": 1733791682006,
+                "name": "RCTA - Peely Default [FORTNITE]",
+                "version": "1.0.1"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1733890266566,
+                "name": "AlgorithmicLevelProgression",
+                "version": "5.4.0"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1733890266566,
+                "name": "MOAR",
+                "version": "2.5.3"
+            },
+            {
+                "author": "Revingly(original mod) and Nanami",
+                "dateAdded": 1733890266566,
+                "name": "MICC",
+                "version": "4.1.1"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1733987018039,
+                "name": "MOAR",
+                "version": "2.5.5"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1734326529480,
+                "name": "AlgorithmicLevelProgression",
+                "version": "5.4.1"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1734326529480,
+                "name": "MOAR",
+                "version": "2.5.6"
+            },
+            {
+                "author": "TRAPPUSSY",
+                "dateAdded": 1734326529480,
+                "name": "RCTA - Doom Slayer [DOOME]",
+                "version": "1.0.1"
+            },
+            {
+                "author": "TRAPPUSSY",
+                "dateAdded": 1734326529480,
+                "name": "RCTA - Fender Do You Even Lift [CODMW3]",
+                "version": "1.0.1"
+            },
+            {
+                "author": "TRAPPUSSY",
+                "dateAdded": 1734326529480,
+                "name": "RCTA - Gundam [CODMW3",
+                "version": "1.0.1"
+            },
+            {
+                "author": "TRAPPUSSY",
+                "dateAdded": 1734326529480,
+                "name": "RCTA - Metal Gear [FORTNITE]",
+                "version": "1.0.1"
+            },
+            {
+                "author": "Skwizzy",
+                "dateAdded": 1734326529480,
+                "name": "LootingBots-ServerMod",
+                "version": "1.4.0"
+            },
+            {
+                "author": "ArchangelWTF",
+                "dateAdded": 1734326529480,
+                "name": "LotsOfLoot Redux",
+                "version": "3.0.1"
+            },
+            {
+                "author": "Tyfon",
+                "dateAdded": 1734326529480,
+                "name": "uifixes",
+                "version": "3.0.2"
+            },
+            {
+                "author": "MoxoPixel",
+                "dateAdded": 1734707302024,
+                "name": "Black Core",
+                "version": "1.1.5"
+            },
+            {
+                "author": "Helldiver, harmony",
+                "dateAdded": 1734707302024,
+                "name": "Bot Callsigns",
+                "version": "1.3.1"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1734707302024,
+                "name": "MOAR",
+                "version": "2.5.7"
+            },
+            {
+                "author": "ODT",
+                "dateAdded": 1734707302024,
+                "name": "ItemInfo",
+                "version": "4.2.0"
+            },
+            {
+                "author": "RaiRaiTheRaichu",
+                "dateAdded": 1734707302024,
+                "name": "AllTheClothes",
+                "version": "2.1.0"
+            },
+            {
+                "author": "DrakiaXYZ",
+                "dateAdded": 1734707302024,
+                "name": "LiveFleaPrices",
+                "version": "1.4.0"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1735887398406,
+                "name": "AlgorithmicLevelProgression",
+                "version": "5.4.3"
+            },
+            {
+                "author": "Helldiver, harmony",
+                "dateAdded": 1735887398407,
+                "name": "Bot Callsigns",
+                "version": "1.4.1"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1735887398407,
+                "name": "MOAR",
+                "version": "2.6.6"
+            },
+            {
+                "author": "Skwizzy",
+                "dateAdded": 1735887398407,
+                "name": "LootingBots-ServerMod",
+                "version": "1.4.1"
+            },
+            {
+                "author": "ArchangelWTF",
+                "dateAdded": 1735887398407,
+                "name": "LotsOfLoot Redux",
+                "version": "3.0.2"
+            },
+            {
+                "author": "inory",
+                "dateAdded": 1735887398407,
+                "name": "Dynamic Goons",
+                "version": "1.1.0"
+            },
+            {
+                "author": "Leaves",
+                "dateAdded": 1735887398407,
+                "name": "lewds",
+                "version": "1.0.0"
+            },
+            {
+                "author": "Mattdokn",
+                "dateAdded": 1735887398407,
+                "name": "ammostats",
+                "version": "1.1.1"
+            },
+            {
+                "author": "RaiRaiTheRaichu",
+                "dateAdded": 1735887398407,
+                "name": "AllTheClothes",
+                "version": "2.1.2"
+            },
+            {
+                "author": "Helldiver, harmony",
+                "dateAdded": 1735970919449,
+                "name": "Bot Callsigns",
+                "version": "1.4.2"
+            },
+            {
+                "author": "acidphantasm",
+                "dateAdded": 1735970919449,
+                "name": "Acids Progressive Bot System",
+                "version": "1.3.1"
+            },
+            {
+                "author": "Fika",
+                "dateAdded": 1735970919449,
+                "name": "server",
+                "version": "2.3.6"
+            },
+            {
+                "author": "TurboZoroger",
+                "dateAdded": 1736058612563,
+                "name": "Dick Marcinko Voice Pack",
+                "version": "1.0.2"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1736139662159,
+                "name": "AllTheSeasons",
+                "version": "1.2.1"
+            },
+            {
+                "author": "DewardianDev",
+                "dateAdded": 1736139662159,
+                "name": "MOAR",
+                "version": "2.6.7"
+            }
+        ],
+        "freeRepeatableRefreshUsedCount": {
+            "daily": 0,
+            "weekly": 0
+        },
+        "receivedGifts": [
+            {
+                "giftId": "PraporGiftDay1",
+                "timestampLastAccepted": 1733377658,
+                "current": 1
+            },
+            {
+                "giftId": "PraporGiftDay2",
+                "timestampLastAccepted": 1733458303,
+                "current": 1
+            },
+            {
+                "giftId": "Christmas2022",
+                "timestampLastAccepted": 1733551290,
+                "current": 1
+            },
+            {
+                "giftId": "1CLICKDRESSUP",
+                "timestampLastAccepted": 1733558308,
+                "current": 1
+            },
+            {
+                "giftId": "BARMALEY",
+                "timestampLastAccepted": 1733558315,
+                "current": 1
+            },
+            {
+                "giftId": "S00NS00N",
+                "timestampLastAccepted": 1733558330,
+                "current": 1
+            },
+            {
+                "giftId": "TRAMBON",
+                "timestampLastAccepted": 1733558342,
+                "current": 1
+            },
+            {
+                "giftId": "PINEWOOD",
+                "timestampLastAccepted": 1733558351,
+                "current": 1
+            },
+            {
+                "giftId": "HESOYAM",
+                "timestampLastAccepted": 1733558365,
+                "current": 1
+            },
+            {
+                "giftId": "ENDOFWIPE",
+                "timestampLastAccepted": 1733558383,
+                "current": 1
+            },
+            {
+                "giftId": "CHOMP",
+                "timestampLastAccepted": 1733558416,
+                "current": 1
+            },
+            {
+                "giftId": "CWX",
+                "timestampLastAccepted": 1733558421,
+                "current": 1
+            },
+            {
+                "giftId": "VALENS",
+                "timestampLastAccepted": 1733558427,
+                "current": 1
+            },
+            {
+                "giftId": "WAFFLE",
+                "timestampLastAccepted": 1733558440,
+                "current": 1
+            },
+            {
+                "giftId": "NIGHTWING",
+                "timestampLastAccepted": 1733558446,
+                "current": 1
+            },
+            {
+                "giftId": "BSGBIRTHDAY2023",
+                "timestampLastAccepted": 1733558458,
+                "current": 1
+            },
+            {
+                "giftId": "GROUNDZERO",
+                "timestampLastAccepted": 1733558468,
+                "current": 1
+            },
+            {
+                "giftId": "IAMMIGHTY",
+                "timestampLastAccepted": 1733558479,
+                "current": 1
+            },
+            {
+                "giftId": "ARMORPLATES",
+                "timestampLastAccepted": 1733558502,
+                "current": 1
+            },
+            {
+                "giftId": "RICHANDEXPENSIVE",
+                "timestampLastAccepted": 1733558513,
+                "current": 1
+            },
+            {
+                "giftId": "LEFTHANDHEADEYES",
+                "timestampLastAccepted": 1733558525,
+                "current": 1
+            },
+            {
+                "giftId": "EDITPROFILE",
+                "timestampLastAccepted": 1733558549,
+                "current": 1
+            },
+            {
+                "giftId": "TWITCHNEWYEARS2023",
+                "timestampLastAccepted": 1733560103,
+                "current": 1
+            },
+            {
+                "giftId": "LUNARNEWYEAR2024",
+                "timestampLastAccepted": 1733560110,
+                "current": 1
+            },
+            {
+                "giftId": "ETSREWARD",
+                "timestampLastAccepted": 1733560115,
+                "current": 1
+            },
+            {
+                "giftId": "KONTOROVICH",
+                "timestampLastAccepted": 1733560128,
+                "current": 1
+            },
+            {
+                "giftId": "HIDEOUTCAT",
+                "timestampLastAccepted": 1733560136,
+                "current": 1
+            },
+            {
+                "giftId": "KILLA",
+                "timestampLastAccepted": 1733560140,
+                "current": 1
+            },
+            {
+                "giftId": "BITCOIN",
+                "timestampLastAccepted": 1733560144,
+                "current": 1
+            },
+            {
+                "giftId": "GROUNDZERO2",
+                "timestampLastAccepted": 1733560149,
+                "current": 1
+            },
+            {
+                "giftId": "OBDOLBOS",
+                "timestampLastAccepted": 1733560163,
+                "current": 1
+            },
+            {
+                "giftId": "THICC",
+                "timestampLastAccepted": 1733560167,
+                "current": 1
+            },
+            {
+                "giftId": "STREAMERLOOT",
+                "timestampLastAccepted": 1733560170,
+                "current": 1
+            },
+            {
+                "giftId": "500CIGARETTES",
+                "timestampLastAccepted": 1733560176,
+                "current": 1
+            },
+            {
+                "giftId": "STASHQOL",
+                "timestampLastAccepted": 1733560180,
+                "current": 1
+            },
+            {
+                "giftId": "SPLASH",
+                "timestampLastAccepted": 1733560182,
+                "current": 1
+            },
+            {
+                "giftId": "NewYear2023",
+                "timestampLastAccepted": 1735970919,
+                "current": 1
+            }
+        ],
+        "cultistRewards": {}
+    }
+}

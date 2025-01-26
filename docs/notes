@@ -9,3 +9,6 @@ Quest Status:
     MarkedAsFailed = 7,
     Expired = 8,
     AvailableAfter = 9
+
+
+    test_quest = 66dad1ebc5c8e6cd26dd1d31
