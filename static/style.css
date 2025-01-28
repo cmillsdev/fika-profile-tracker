@@ -50,3 +50,27 @@ th {
 td, s {
     background-color: var(--color-offgrey);
 }
+
+/* Ensure the table container takes up the full width */
+#hideout_wrapper {
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: auto; /* Enable horizontal scrolling */
+    overflow-y: auto;
+}
+
+/* Make the table itself fill the container */
+#hideout {
+    width: 100% !important;
+}
+
+/* Wrap text in table cells */
+#hideout td {
+    white-space: normal !important;
+    word-wrap: break-word;
+}
+
+/* Optional: Add padding to cells for better readability */
+#hideout td, #hideout th {
+    padding: 8px;
+}

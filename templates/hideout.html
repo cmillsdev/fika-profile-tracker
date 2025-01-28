@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+
+{% block title %}Quests - {{ player_id }}{% endblock %}
+
+{% block content %}
+    <h1 align="center">HIDEOUT</h1>
+    <div id="hideout_wrapper">
+        <table id="hideout" class="display">
+            <thead>
+                <tr>
+                    <th align="left">AREA</th>
+                    <th align="left">REQUIREMENTS</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for area, details in hideout.items() %}
+                    {% for requirement in details['required'] %}
+                    <tr>
+                        <td>{{ details['current_level'] }} {{ area }}</td>
+                        <td>{{ requirement|safe }}</td>
+                    </tr>
+                    {% endfor %}
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <script>
+        $(document).ready(function() {
+            $('#hideout').DataTable({
+                paging: true, // Enable pagination
+                scrollX: true, // Enable horizontal scrolling
+                autoWidth: false, // Disable automatic column width adjustment
+            });
+        });
+    </script>
+{% endblock %}
