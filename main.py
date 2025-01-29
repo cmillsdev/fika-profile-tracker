@@ -49,4 +49,4 @@ def hideout(pid):
     return render_template("hideout.html", hideout=hideout, player_id=pid, players=players)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
