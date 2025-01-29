@@ -26,7 +26,7 @@ def get_next_level_requirements(pid, hideout_templates, area_num, next_level):
                 for required in template["stages"][str(next_level)]["requirements"]:
                     # requirement types: Area, Item, Skill, TraderLoyalty, 
                     if required['type'] == 'Area':
-                        requirements.append(f"L{required["requiredLevel"]} {get_area_type(required["areaType"])}")
+                        requirements.append(f"L{required['requiredLevel']} {get_area_type(required['areaType'])}")
                     elif required['type'] == 'Item':
                         requirements.append(f"{required['count']} {id_lookup(required['templateId'])}")
                     elif required['type'] == 'Skill':
