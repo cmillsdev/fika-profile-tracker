@@ -4,6 +4,7 @@ from helpers import id_lookup, load_json
 from httprequest import get_all_players
 from quests import get_all_objectives
 from hideout import get_all_hideout
+from stats import get_all_stats
 app = Flask(__name__)
 #my_profile = Profile(load_json('profiles/674e8d5e000124d3a4adc638.json'))
 
