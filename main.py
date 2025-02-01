@@ -5,6 +5,7 @@ from httprequest import get_all_players
 from quests import get_all_objectives
 from hideout import get_all_hideout
 from stats import get_all_stats
+from overview import get_overview
 app = Flask(__name__)
 #my_profile = Profile(load_json('profiles/674e8d5e000124d3a4adc638.json'))
 
@@ -23,10 +24,18 @@ def player_selection():
 def select_player():
     player_id = request.form.get("player_id")
     session['player_id'] = player_id  # Store player_id in session
-    return redirect(url_for("profile", pid=player_id))
+    return redirect(url_for("overview", pid=player_id))
+    
+@app.route("/overview/<pid>")
+def overview(pid):
+    if 'player_id' not in session or session['player_id'] != pid:
+        return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
+    overview = get_overview(pid)
+    players = get_all_players()  # Fetch players
+    return render_template("overview.html", overview=overview, player_id=pid, players=players)
 
 @app.route("/quests/<pid>")
-def profile(pid):
+def quests(pid):
     if 'player_id' not in session or session['player_id'] != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
     quests = get_all_objectives(pid)

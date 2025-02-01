@@ -23,13 +23,18 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ url_for('profile', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
-                            Quests
+                        <a class="nav-link" href="{{ url_for('overview', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
+                            Overview
                         </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="{{ url_for('stats', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
                             Stats
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ url_for('quests', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
+                            Quests
                         </a>
                     </li>
                     <li class="nav-item">

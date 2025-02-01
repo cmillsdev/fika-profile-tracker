@@ -4,12 +4,7 @@ from collections import defaultdict
 from hideout import get_all_hideout
 import json
 # inventory count - figure out how to break it down by category
-# skills, bonuses
-# last death
-# victims
-# counters
-# trader info
-# hideout
+# get damage history
 
 def get_all_stats(pid):
     profile = get_profile(pid)
@@ -74,12 +69,13 @@ def get_mini_quest_info(profile_quests):
     return {'active': active, 'finished': finished}
 
 def get_accuracy(counters):
+    reached = 0
+    used = 0
     for counter in counters:
         if "AmmoUsed" in counter['Key']:
             used = counter['Value']
         if "AmmoReached" in counter['Key']:
             reached = counter['Value']
-            
     return f"{100 * (reached/used):.2f}%"
 
 def get_counters(counters):
@@ -153,8 +149,8 @@ def get_encyclopedia(profile):
             examined += 1
     return f"{examined}/{total}"
 
-stats = get_all_stats('674e50640003077d50d67c44')
-with open('stats.json', 'w') as f:
-    json.dump(stats, f, indent=4)
-# 674e50640003077d50d67c44 -iain
-# 674e8d5e000124d3a4adc638 -me
+# stats = get_all_stats('674e50640003077d50d67c44')
+# with open('stats.json', 'w') as f:
+#     json.dump(stats, f, indent=4)
+# # 674e50640003077d50d67c44 -iain
+# # 674e8d5e000124d3a4adc638 -me

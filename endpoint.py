@@ -2,7 +2,7 @@ from enum import StrEnum
 
 class Endpoint(StrEnum):
     # General stuff
-    ALL_PROFILES = "fika/senditem/availablereceivers"
+    ALL_PROFILES = "fika/senditem/availablereceivers" # user /launcher/profiles
     CLIENT_LOCALE = "client/locale/en"
     # Profile
     ITEMS = "client/items"
@@ -15,6 +15,7 @@ class Endpoint(StrEnum):
     MAIL_REWARD = "client/mail/dialog/view"
     # Price checks, tarkov.dev for flea
     HANDBOOK = "client/handbook/templates"
+    INSURANCE = "client/insurance/items/list/cost"
     # Traders, requires trader_id
     # prapor: 54cb50c76803fa8b248b4571
     # therapist: 54cb57776803fa99248b456e
@@ -41,3 +42,5 @@ class Endpoint(StrEnum):
     # Mod stuff
     SERVER_MODS = "launcher/server/loadedServerMods"
     CLIENT_MODS = "launcher/server/serverModsUsedByProfile"
+
+    FIKA_RAIDS = "fika/location/raids"
