@@ -91,7 +91,7 @@ def get_counters(counters):
             for key in counter['Key']:
                 if key != 'LootItem':
                     counter_string += f"{id_lookup(key)}"
-            looted_items.append(f'{counter['Value']}x {counter_string}')
+            looted_items.append(f"{counter['Value']}x {counter_string}")
         else:
             for key in counter['Key']:
                 counter_string += f"|{id_lookup(key)}"
