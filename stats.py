@@ -20,7 +20,7 @@ def get_all_stats(pid):
     stats['skills_mastering'] = get_skills_mastering(profile[0]['Skills']['Mastering'])
     stats['bonuses'] = get_profile_bonuses(profile[0]['Bonuses'])
     stats['mini_quest_info'] = get_mini_quest_info(profile[0]['Quests'])
-    stats['last_death'] = get_last_death(profile[0]['Stats']['Eft']['Aggressor'], profile[0]['Stats']['Eft']['DeathCause'])
+    stats['last_death'] = get_last_death(profile[0]['Stats']['Eft'].get('Aggressor'), profile[0]['Stats']['Eft'].get('DeathCause'))
     stats['victims'] = get_last_victims(profile[0]['Stats']['Eft']['Victims'])
     stats['traders'] = get_trader_info(profile[0]['TradersInfo'])
     stats['hideout'] = get_all_hideout(pid)
@@ -45,9 +45,12 @@ def get_trader_info(trader_info):
     return traders
 
 def get_last_death(killer, cause):
-    killer = {'name': killer['Name'], 'side': killer['Side'], 'BodyPart': killer['ColliderType'], 'weapon': id_lookup(killer['WeaponName'])}
-    cause = {'damage_type': cause['DamageType'], 'weapon': id_lookup(f"{cause['WeaponId']} ShortName")}
-    return {'killer': killer, 'cause': cause}
+    try:
+        killer = {'name': killer['Name'], 'side': killer['Side'], 'BodyPart': killer['ColliderType'], 'weapon': id_lookup(killer['WeaponName'])}
+        cause = {'damage_type': cause['DamageType'], 'weapon': id_lookup(f"{cause['WeaponId']} ShortName")}
+        return {'killer': killer, 'cause': cause}
+    except:
+        return []
 
 def get_last_victims(last_victims):
     victims = []
