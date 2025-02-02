@@ -43,20 +43,19 @@ def get_health_and_hunger(health):
 
 def get_last_round(profile):
     stats = defaultdict(dict)
-    stats['last_death'] = get_last_death(profile[0]['Stats']['Eft']['Aggressor'], profile[0]['Stats']['Eft']['DeathCause'])
+    stats['last_death'] = get_last_death(profile[0]['Stats']['Eft'].get('Aggressor'), profile[0]['Stats']['Eft'].get('DeathCause'))
     stats['victims'] = get_last_victims(profile[0]['Stats']['Eft']['Victims'])
     stats['damage_history'] = profile[0]['Stats']['Eft']['DamageHistory']
-    try:
-        is_lethal = stats['damage_history'].get('LethalDamage')
-        if is_lethal:
-            stats['damage_history']['LethalDamage']['SourceId'] = id_lookup(stats['LethalDamage']['SourceId'])
-
+    is_lethal = stats['damage_history'].get('LethalDamage')
+    if is_lethal:
+        stats['damage_history']['LethalDamage']['SourceId'] = id_lookup(stats['LethalDamage']['SourceId'])
+    if stats.get('damage_history'):
         for bodypart in stats['damage_history']['BodyParts']:
-            for damage in bodypart:
-                stats['damage_history']['BodyParts'][bodypart][damage]['SourceId'] = id_lookup(stats['damage_history']['BodyParts'][bodypart][damage]['SourceId'])
-    except:
-        stats['damage_history'] = []
+            if stats['damage_history']['BodyParts'][bodypart]:
+                for damage in bodypart:
+                    stats['damage_history']['BodyParts'][bodypart][damage]['SourceId'] = id_lookup(stats['damage_history']['BodyParts'][bodypart][damage]['SourceId'])
     return stats
+
 def get_insurance(pid):
     pass
 

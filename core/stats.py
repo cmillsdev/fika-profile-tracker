@@ -43,10 +43,12 @@ def get_trader_info(trader_info):
 
     return traders
 
-def get_last_death(killer, cause):
+def get_last_death(killer=None, cause=None):
     try:
-        killer = {'name': killer['Name'], 'side': killer['Side'], 'BodyPart': killer['ColliderType'], 'weapon': id_lookup(killer['WeaponName'])}
-        cause = {'damage_type': cause['DamageType'], 'weapon': id_lookup(f"{cause['WeaponId']} ShortName")}
+        if killer:
+            killer = {'name': killer['Name'], 'side': killer['Side'], 'BodyPart': killer['ColliderType'], 'weapon': id_lookup(killer['WeaponName'])}
+        if cause:
+            cause = {'damage_type': cause['DamageType'], 'weapon': id_lookup(f"{cause['WeaponId']} ShortName")}
         return {'killer': killer, 'cause': cause}
     except:
         return []
