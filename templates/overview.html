@@ -1,9 +1,25 @@
 {% extends "base.html" %}
 
-{% block title %}Overview - {{ player_id }}{% endblock %}
+{% block title %}Overview - {{ overview.basic.nickname }}{% endblock %}
 
 {% block content %}
-    <h1>Overview for Player {{ player_id }}</h1>
+    <h1>Overview | {{ overview.basic.nickname }}</h1>
+    <div class="card mb-3">
+        <div class="card-header">
+            <h2>Alerts</h2>
+        </div>
+        <div class="card-body">
+            {% if overview.task_items %}
+                <h3>TASK ITEMS IN INVENTORY</h3>
+                {% for task in overview.task_items %}
+                    <ul>
+                        <li>{{ task }}</li>
+                    </ul>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+    </div>
 
     <!-- Basic Information Section -->
     <div class="card mb-3">
@@ -11,37 +27,15 @@
             <h2>Basic Information</h2>
         </div>
         <div class="card-body">
+            <h3>Level {{ overview.basic.level }} {{ overview.basic.faction }} {{ overview.basic.survivor_class }}</h3>
             <ul>
-                <li><strong>Nickname:</strong> {{ overview.basic.nickname }}</li>
-                <li><strong>Faction:</strong> {{ overview.basic.faction }}</li>
-                <li><strong>Level:</strong> {{ overview.basic.level }}</li>
                 <li><strong>Experience Gained:</strong> {{ overview.basic.exp_gained }}</li>
+                <li><strong>Accuracy [Session | Overall]:</strong> {{ overview.overall_accuracy }} | {{ overview.session_accuracy }}</li>
                 <li><strong>Registration Date:</strong> {{ overview.basic.reg_date }}</li>
-                <li><strong>Total Insured Items:</strong> {{ overview.basic.total_insured_items }}</li>
+                <li><strong>Lifetime Insured Items:</strong> {{ overview.basic.total_insured_items }}</li>
                 <li><strong>Ragfair Rating:</strong> {{ overview.basic.ragfair_rating }}</li>
-                <li><strong>Survivor Class:</strong> {{ overview.basic.survivor_class }}</li>
-                <li><strong>In-Game Time:</strong> {{ overview.basic.ingame_time}}</li>
+                <li><strong>Playtime:</strong> {{ overview.basic.ingame_time}}</li>
                 <li><strong>Scav Karma:</strong> {{ overview.basic.scav_karma }}</li>
-                <li><strong>Car Extracts:</strong>
-                    <ul>
-                        {% for location, count in overview.basic.car_extract_count.items() %}
-                            <li>{{ location }}: {{ count }}</li>
-                        {% endfor %}
-                    </ul>
-                </li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Accuracy Section -->
-    <div class="card mb-3">
-        <div class="card-header">
-            <h2>Accuracy</h2>
-        </div>
-        <div class="card-body">
-            <ul>
-                <li><strong>Overall Accuracy:</strong> {{ overview.overall_accuracy }}</li>
-                <li><strong>Session Accuracy:</strong> {{ overview.session_accuracy }}</li>
             </ul>
         </div>
     </div>

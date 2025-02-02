@@ -52,8 +52,8 @@ def get_last_round(profile):
     if stats.get('damage_history'):
         for bodypart in stats['damage_history']['BodyParts']:
             if stats['damage_history']['BodyParts'][bodypart]:
-                for damage in bodypart:
-                    stats['damage_history']['BodyParts'][bodypart][damage]['SourceId'] = id_lookup(stats['damage_history']['BodyParts'][bodypart][damage]['SourceId'])
+                for key, damage in enumerate(stats['damage_history']['BodyParts'][bodypart]):
+                    stats['damage_history']['BodyParts'][bodypart][key]['SourceId'] = id_lookup(damage['SourceId'])
     return stats
 
 def get_insurance(pid):
