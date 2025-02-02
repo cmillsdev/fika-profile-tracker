@@ -1,5 +1,4 @@
-from helpers import load_json, id_lookup
-from httprequest import get_profile_quests, get_profile
+from utils.helpers import load_json, id_lookup, get_profile_quests, get_profile
 
 # Map condition types to functions
 CONDITION_PARSERS = {

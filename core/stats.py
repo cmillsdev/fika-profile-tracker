@@ -1,7 +1,6 @@
-from httprequest import get_profile, get_profile_quests
-from helpers import id_lookup
+from utils.helpers import id_lookup, get_profile, get_profile_quests
 from collections import defaultdict
-from hideout import get_all_hideout
+from core.hideout import get_all_hideout
 import json
 # inventory count - figure out how to break it down by category
 # get damage history

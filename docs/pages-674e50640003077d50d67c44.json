@@ -1,0 +1,3081 @@
+{
+    "overview": {
+        "basic": {
+            "exp_gained": 2813251,
+            "level": 41,
+            "reg_date": 1733272963,
+            "faction": "Usec",
+            "nickname": "ForcedToWipe",
+            "total_insured_items": 477,
+            "ragfair_rating": "8.78",
+            "survivor_class": "Marauder",
+            "ingame_time": 164844,
+            "scav_karma": 0.2,
+            "car_extract_count": {
+                "Sandbox_VExit": 3,
+                "South V-Ex": 5,
+                "Dorms V-Ex": 8,
+                "PP Exfil": 1,
+                "Shorl_V-Ex": 2
+            }
+        },
+        "overall_accuracy": "33.70%",
+        "session_accuracy": "23.58%",
+        "task_items": [],
+        "health": {
+            "health": {
+                "Chest": {
+                    "Health": {
+                        "Current": 85,
+                        "Maximum": 85
+                    },
+                    "Effects": {
+                        "SevereMusclePain": {
+                            "Time": 86400
+                        }
+                    }
+                },
+                "Head": {
+                    "Health": {
+                        "Current": 35,
+                        "Maximum": 35
+                    }
+                },
+                "LeftArm": {
+                    "Health": {
+                        "Current": 60,
+                        "Maximum": 60
+                    },
+                    "Effects": {}
+                },
+                "LeftLeg": {
+                    "Health": {
+                        "Current": 65,
+                        "Maximum": 65
+                    },
+                    "Effects": {}
+                },
+                "RightArm": {
+                    "Health": {
+                        "Current": 60,
+                        "Maximum": 60
+                    },
+                    "Effects": {}
+                },
+                "RightLeg": {
+                    "Health": {
+                        "Current": 65,
+                        "Maximum": 65
+                    },
+                    "Effects": {}
+                },
+                "Stomach": {
+                    "Health": {
+                        "Current": 7,
+                        "Maximum": 70
+                    }
+                }
+            },
+            "energy": {
+                "Current": 48,
+                "Maximum": 110
+            },
+            "hydration": {
+                "Current": 82,
+                "Maximum": 100
+            }
+        },
+        "last_raid": {
+            "last_death": {
+                "killer": {
+                    "name": "USA_Aaron",
+                    "side": "Usec",
+                    "BodyPart": "Pelvis",
+                    "weapon": "UZI"
+                },
+                "cause": {
+                    "damage_type": "Bullet",
+                    "weapon": "\u26069A-91"
+                }
+            },
+            "victims": [
+                {
+                    "time": "00:09:47.9750000",
+                    "name": "\u042e\u0440\u0438\u0439 \u0425\u0430\u0440\u043e\u043d",
+                    "side": "Savage",
+                    "level": 42,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 20.039938
+                },
+                {
+                    "time": "00:11:56.8360000",
+                    "name": "NutmilkFarmer",
+                    "side": "Bear",
+                    "level": 16,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 29.5616188
+                },
+                {
+                    "time": "00:12:22.5260000",
+                    "name": "\u0425\u0440\u0438\u0441\u0442\u043e\u0444\u043e\u0440 \u0427\u0438\u0440\u0438\u0439",
+                    "side": "Savage",
+                    "level": 37,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 24.7389679
+                },
+                {
+                    "time": "00:13:10.5780000",
+                    "name": "smitthy197",
+                    "side": "Usec",
+                    "level": 20,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 39.5963745
+                },
+                {
+                    "time": "00:15:53.7040000",
+                    "name": "HoneydewBlue",
+                    "side": "Bear",
+                    "level": 12,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 33.0882378
+                },
+                {
+                    "time": "00:17:45.6070000",
+                    "name": "Denny_netTTV",
+                    "side": "Usec",
+                    "level": 16,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 74.5324249
+                },
+                {
+                    "time": "00:19:26.1570000",
+                    "name": "\u041d\u0438\u043a\u0438\u0442\u043a\u0430 \u0420\u0435\u0437\u0430\u043d\u044b\u0439",
+                    "side": "Savage",
+                    "level": 51,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 24.8435345
+                }
+            ],
+            "damage_history": []
+        }
+    },
+    "stats": {
+        "cheevos": {
+            "First Time Always Hurts": "Survive a raid without the Run-through status for the first time",
+            "Lost": "Locate the crashed plane on Woods while playing as a PMC",
+            "Welcome to Tarkov": "Die in Tarkov for the first time",
+            "That's What She Said": "Search the office in Factory while playing as a PMC",
+            "Killer7": "Eliminate 7 PMC operatives in a single raid while playing as a PMC",
+            "Time To Clean My Karma": "Eliminate Partisan for the first time while playing as a PMC",
+            "Deal to Make": "Eliminate Reshala for the first time while playing as a PMC",
+            "Ready for Anything": "Survive 10 consecutive raids while playing as a PMC",
+            "BEAR With Me": "Eliminate 50 BEAR PMC operators",
+            "Call Your Brother": "Eliminate Tagilla for the first time while playing as a PMC",
+            "Now There Are Three of Them!": "Eliminate Knight, Birdeye, and Big Pipe in a single raid for the first time while playing as a PMC",
+            "U-SUCC": "Eliminate 50 USEC PMC operators",
+            "Justice": "Eliminate Kollontay for the first time while playing as a PMC",
+            "Art of Style": "Eliminate Killa for the first time while playing as a PMC",
+            "Silence of the Sawmill": "Eliminate Shturman for the first time while playing as a PMC",
+            "Sanatorium Orderly": "Eliminate Sanitar for the first time while playing as a PMC",
+            "Grouse Hunting": "Eliminate Glukhar for the first time while playing as a PMC"
+        },
+        "inv_len": 4065,
+        "encyc_len": "222/269",
+        "misc": {
+            "exp_gained": 2813251,
+            "level": 41,
+            "reg_date": 1733272963,
+            "faction": "Usec",
+            "nickname": "ForcedToWipe",
+            "total_insured_items": 477,
+            "ragfair_rating": "8.78",
+            "survivor_class": "Marauder",
+            "ingame_time": 164844,
+            "scav_karma": 0.2,
+            "car_extract_count": {
+                "Sandbox_VExit": 3,
+                "South V-Ex": 5,
+                "Dorms V-Ex": 8,
+                "PP Exfil": 1,
+                "Shorl_V-Ex": 2
+            }
+        },
+        "overall_counters": {
+            "|TriggerVisited|Sandbox_2_AGS_exploration": 4,
+            "|Triggers": 173,
+            "|TriggerVisited|Sandbox_2_Kord_exploration": 13,
+            "|CurrentWinStreak|PMC": 3,
+            "|Sessions|PMC": 133,
+            "|ExitStatus|Survived|PMC": 110,
+            "|LifeTime|PMC": 170568,
+            "|Exp|ExpHeal": 26957,
+            "|Exp|ExpExitStatus": 33000,
+            "|Kills": 1070,
+            "|Deaths": 14,
+            "|KilledLevel0010": 83,
+            "|KilledLevel1030": 213,
+            "|KilledLevel3050": 77,
+            "|KilledLevel5070": 1,
+            "|KilledLevel7099": 0,
+            "|KilledLevel100": 0,
+            "|KilledBear": 198,
+            "|KilledUsec": 176,
+            "|KilledSavage": 656,
+            "|KilledPmc": 374,
+            "|KilledBoss": 40,
+            "|KilledWithKnife": 0,
+            "|KilledWithPistol": 6,
+            "|KilledWithSmg": 106,
+            "|KilledWithShotgun": 42,
+            "|KilledWithAssaultRifle": 663,
+            "|KilledWithAssaultCarbine": 53,
+            "|KilledWithGrenadeLauncher": 0,
+            "|KilledWithMachineGun": 95,
+            "|KilledWithMarksmanRifle": 58,
+            "|KilledWithSniperRifle": 10,
+            "|KilledWithSpecialWeapon": 0,
+            "|KilledWithThrowWeapon": 29,
+            "|KilledWithTripwires": 0,
+            "|BodyPartDamage|HEAD": 184691,
+            "|BodyPartDamage|THORAX": 509951,
+            "|BodyPartDamage|STOMACH": 848492,
+            "|BodyPartDamage|LEFT ARM": 521952,
+            "|BodyPartDamage|RIGHT ARM": 396166,
+            "|BodyPartDamage|LeftLeg": 478668,
+            "|BodyPartDamage|RightLeg": 471557,
+            "|HeadShots": 575,
+            "|Bloodloss": 281722,
+            "|BodyPartsDestroyed": 244,
+            "|Heal": 2130692,
+            "|Fractures": 27,
+            "|Contusions": 2,
+            "|Dehydrations": 6,
+            "|Exhaustions": 3,
+            "|Medicines": 29,
+            "|UsedFoods": 45,
+            "|UsedDrinks": 200,
+            "|Pedometer": 319097,
+            "|BodiesLooted": 1058,
+            "|SafeLooted": 24,
+            "|LockableContainers": 0,
+            "|Weapons": 104,
+            "|Ammunitions": 8953,
+            "|Mods": 1332,
+            "|ThrowWeapons": 396,
+            "|SpecialItems": 1,
+            "|FoodDrinks": 556,
+            "|Keys": 576,
+            "|BartItems": 1337,
+            "|MobContainers": 1058,
+            "|Equipments": 9499,
+            "|CauseBodyDamage": 20262386,
+            "|CauseArmorDamage": 8903941,
+            "|HitCount": 6295,
+            "|LongShots": 68,
+            "|LongestShot": 43476,
+            "|LongestKillShot": 31266,
+            "|LongestKillShotOnBot": 31266,
+            "|LongestKillStreak": 27,
+            "|ExpKill": 308988,
+            "|ExpLooting": 413009,
+            "|Money|RUB": 1411780,
+            "|Money|EUR": 773,
+            "|Money|USD": 1397,
+            "|AmmoUsed": 12649,
+            "|AmmoReached": 4263,
+            "|TriggerVisited": 0,
+            "|CombatDamage": 3015409,
+            "|TriggerVisited|Sandbox_5_DeadGroup_exploration": 8,
+            "|TriggerVisited|Sandbox_5_Laborant_exploration": 3,
+            "|TriggerVisited|Sandbox_5_Office_exploration": 3,
+            "|TriggerVisited|Sandbox_1_MedicalArea_exploration": 6,
+            "|TriggerVisited|huntsman_001": 2,
+            "|TriggerVisited|achiv_plane": 4,
+            "|TriggerVisited|showers": 13,
+            "|LongestWinStreak|PMC": 20,
+            "|ExitStatus|Killed|PMC": 23,
+            "|TriggerVisited|nf2024_2_9": 23,
+            "|TriggerVisited|achiv_office": 4,
+            "|TriggerVisited|office01": 1,
+            "|TriggerVisited|nf2024_2_11": 10,
+            "|TriggerVisited|pumproom": 14,
+            "|TriggerVisited|place_pacemaker_SCOUT_03": 18,
+            "|TriggerVisited|exit3zone": 23,
+            "|TriggerVisited|nf2024_2_12": 21,
+            "|TriggerVisited|nf2024_2_1": 11,
+            "|TriggerVisited|pr_scout_base": 10,
+            "|TriggerVisited|quest_zone_keeper5": 10,
+            "|TriggerVisited|Sandbox_3_Vino_exploration": 30,
+            "|TriggerVisited|pr_scout_col": 2,
+            "|TriggerVisited|dead_posylni": 1,
+            "|TriggerVisited|prapor_27_1": 30,
+            "|TriggerVisited|huntsman_020": 50,
+            "|TriggerVisited|q_ny_kill_christmas_guys_cust": 48,
+            "|TriggerVisited|Check_mine_zone_custom": 50,
+            "|TriggerVisited|quest_terminal_final_zone": 9,
+            "|TriggerVisited|q_ny_find_christmas_tree_cust": 17,
+            "|TriggerVisited|nf2024_2_5": 7,
+            "|TriggerVisited|nf2024_2_6": 10,
+            "|TriggerVisited|nf2024_2_10": 7,
+            "|TriggerVisited|nf2024_2_7": 2,
+            "|TriggerVisited|nf2024_2_8": 15,
+            "|TriggerVisited|Prospect_mira": 11,
+            "|TriggerVisited|Sandbox_mine_quest": 1,
+            "|TriggerVisited|room206_water": 2,
+            "|TriggerVisited|place_2A2_unlock_3_customs": 3,
+            "|TriggerVisited|scorpion_3fl_dorms_310": 7,
+            "|TriggerVisited|room114": 2,
+            "|TriggerVisited|vaz_feld": 4,
+            "|TriggerVisited|place_SADOVOD_03": 10,
+            "|TriggerVisited|exit1zone": 6,
+            "|TriggerVisited|caseextr": 3,
+            "|TriggerVisited|prapor_27_3": 26,
+            "|TriggerVisited|q14_10_kill": 14,
+            "|TriggerVisited|ter_023_area_3_1": 15,
+            "|TriggerVisited|place_peacemaker_010_3": 1,
+            "|TriggerVisited|prapor_27_2": 8,
+            "|TriggerVisited|Woods_mine_quest": 2,
+            "|TriggerVisited|scorpion_event_woods_useccamp": 3,
+            "|TriggerVisited|scorpion_event_woods_useccamp2": 8,
+            "|TriggerVisited|place_pacemaker_SCOUT_04": 10,
+            "|TriggerVisited|place_SADOVOD_01_1": 2,
+            "|TriggerVisited|nf2024_2_2": 4,
+            "|TriggerVisited|nf2024_2_3": 4,
+            "|TriggerVisited|place_SADOVOD_01_2": 1,
+            "|TriggerVisited|scorpion_factory_pumping_visit": 9,
+            "|TriggerVisited|ter_013_area_1": 3,
+            "|TriggerVisited|ter_013_area_2": 3,
+            "|TriggerVisited|quest_terminal_find_zone": 14,
+            "|TriggerVisited|vremyan_case": 1,
+            "|TriggerVisited|dungeon01": 1,
+            "|TriggerVisited|place_pacemaker_SCOUT_02": 6,
+            "|TriggerVisited|exit0zone": 3,
+            "|TriggerVisited|Check_mine_zone_factory": 3,
+            "|TriggerVisited|marafon_kill_village_shoreline": 16,
+            "|TriggerVisited|ter_023_area_2_1": 7,
+            "|TriggerVisited|place_peacemaker_008_2_N1": 16,
+            "|TriggerVisited|ter_023_area_1_1": 13,
+            "|TriggerVisited|ter_013_area_3": 15,
+            "|TriggerVisited|place_peacemaker_005_N1": 6,
+            "|TriggerVisited|ter_013_area_4": 4,
+            "|TriggerVisited|q_ny_kill_christmas_guys_shorl": 5,
+            "|TriggerVisited|tadeush_tunguska_area_check_8": 6,
+            "|TriggerVisited|tadeush_bmp2_area_check_11": 5,
+            "|TriggerVisited|prapor_025_area_5": 12,
+            "|TriggerVisited|prapor_hq_area_check_1": 19,
+            "|TriggerVisited|prapor_024_area_2": 12,
+            "|TriggerVisited|prapor_024_area_1": 3,
+            "|TriggerVisited|mechanik_exit_area_1": 6,
+            "|TriggerVisited|place_SIGNAL_01_2": 8,
+            "|TriggerVisited|place_SIGNAL_01_1": 5,
+            "|TriggerVisited|place_merch_022_5": 4,
+            "|TriggerVisited|place_merch_022_4": 4,
+            "|TriggerVisited|place_merch_022_3": 23,
+            "|TriggerVisited|place_SALE_03_TOPBRAND": 2,
+            "|TriggerVisited|quest_zone_keeper6_kiba_kill": 16,
+            "|TriggerVisited|place_SALE_03_AVOKADO": 4,
+            "|TriggerVisited|place_SALE_03_DINO": 2,
+            "|TriggerVisited|place_SALE_03_TREND": 2,
+            "|TriggerVisited|scorpion_interchange_medroom_visit": 9,
+            "|TriggerVisited|place_SALE_03_KOSTIN": 3,
+            "|TriggerVisited|place_merch_022_1": 36,
+            "|TriggerVisited|scorpion_3fl_dorms_206": 2,
+            "|TriggerVisited|ref_overseer_room_find": 19,
+            "|TriggerVisited|scorpion_3fl_dorms_212": 4,
+            "|TriggerVisited|scorpion_3fl_dorms_115": 2,
+            "|TriggerVisited|scorpion_2fl_dorms_213": 1,
+            "|TriggerVisited|dungeon03": 3,
+            "|TriggerVisited|place_pacemaker_SCOUT_01": 13,
+            "|TriggerVisited|secretpassage": 3,
+            "|TriggerVisited|room214": 2,
+            "|TriggerVisited|place_merch_022_7": 3,
+            "|TriggerVisited|place_merch_022_6": 9,
+            "|TriggerVisited|place_merch_022_2": 18,
+            "|TriggerVisited|scorpion_interchange_power": 6,
+            "|TriggerVisited|q14_11_jeep": 3,
+            "|TriggerVisited|place_meh_sanitar_room": 8,
+            "|TriggerVisited|locked_office": 3,
+            "|TriggerVisited|prapor_025_area_2": 3,
+            "|TriggerVisited|bomj_place": 1,
+            "|TriggerVisited|place_peacemaker_003_N3": 3,
+            "|TriggerVisited|q14_10_point_area": 19,
+            "|TriggerVisited|place_peacemaker_001": 1,
+            "|TriggerVisited|place_peacemaker_004_N2": 3,
+            "|TriggerVisited|nf2024_2_4": 3,
+            "|TriggerVisited|dungeon02": 2,
+            "|TriggerVisited|ter_017_area_1": 1,
+            "|TriggerVisited|roof02": 1,
+            "|TriggerVisited|dungeon07": 1,
+            "|TriggerVisited|dungeon06": 2,
+            "|TriggerVisited|nf2024_3_exit": 1,
+            "|TriggerVisited|eger_barracks_area_2": 7,
+            "|TriggerVisited|prapor_025_area_3": 3,
+            "|TriggerVisited|prapor_025_area_1": 1,
+            "|TriggerVisited|eger_barracks_area_1": 8,
+            "|TriggerVisited|prapor_025_area_4": 3,
+            "|TriggerVisited|q_ny_kill_christmas_guys_rez": 8,
+            "|TriggerVisited|q_ny_find_christmas_tree_rez": 3,
+            "|TriggerVisited|tadeush_tunguska_area_check_7": 6,
+            "|TriggerVisited|tadeush_tunguska_area_check_6": 8,
+            "|TriggerVisited|gazel": 1,
+            "|TriggerVisited|catwalk06": 2,
+            "|TriggerVisited|meh_44_eastLight_kill": 5,
+            "|TriggerVisited|qlight_find_crushed_heli": 1,
+            "|TriggerVisited|qlight_pc1_ucot_kill": 3,
+            "|TriggerVisited|scorpion_event_lh_chalet_visit": 1,
+            "|TriggerVisited|qlight_br_secure_road": 7,
+            "|TriggerVisited|scorpion_event_lh_dockhouse1_visit": 6,
+            "|TriggerVisited|scorpion_lighthouse_playground_visit": 1,
+            "|TriggerVisited|Marafon_kill_village_lighthouse": 5,
+            "|TriggerVisited|qlight_hunt_fr_find": 1,
+            "|TriggerVisited|qlight_pr1_heli2_kill": 1,
+            "|TriggerVisited|q_ny_kill_christmas_guys_int": 1,
+            "|TriggerVisited|scorpion_event_woods_scav": 4,
+            "|TriggerVisited|place_peacemaker_003_N2": 1,
+            "|TriggerVisited|huntsman_024_1": 3,
+            "|TriggerVisited|huntsman_024_2": 1,
+            "|TriggerVisited|huntsman_024_3": 1,
+            "|TriggerVisited|place_peacemaker_007_1_N1": 1,
+            "|TriggerVisited|place_peacemaker_003_N1": 2,
+            "|TriggerVisited|huntsman_026": 1,
+            "|TriggerVisited|ter_015_area_1": 1,
+            "|TriggerVisited|place_THX_15": 2,
+            "|TriggerVisited|scorpion_shoreline_pier_visit": 1,
+            "|TriggerVisited|place_peacemaker_004_N1": 1,
+            "|TriggerVisited|place_peacemaker_005_N2": 3,
+            "|TriggerVisited|scorpion_labs_contamination_visit": 2,
+            "|TriggerVisited|Dome": 4,
+            "|TriggerVisited|peace_027_area": 1,
+            "|TriggerVisited|tadeush_tunguska_area_check_5": 4,
+            "|TriggerVisited|tadeush_stryker_area_check_3": 2,
+            "|TriggerVisited|tadeush_bmp2_area_check_2": 1,
+            "|TriggerVisited|tadeush_t90_area_check_1": 1,
+            "|TriggerVisited|tadeush_stryker_area_check_4": 2,
+            "|TriggerVisited|tadeush_bmp2_area_check_12": 2,
+            "|TriggerVisited|tadeush_bmp2_area_check_13": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_3": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_1": 1,
+            "|TriggerVisited|baraholshik_dejurniy_area_2": 2,
+            "|TriggerVisited|baraholshik_arsenal_area_5": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_4": 1
+        },
+        "session_counters": {
+            "|Exp|ExpLooting|ExpItemLooting": 3004,
+            "|Equipments": 93,
+            "|AmmoUsed": 123,
+            "|CauseBodyDamage": 120397,
+            "|CauseArmorDamage": 43887,
+            "|HitCount": 38,
+            "|AmmoReached": 29,
+            "|Kills|PMC": 7,
+            "|Kills": 7,
+            "|KilledSavage": 3,
+            "|KilledCasualSavage": 3,
+            "|Exp|ExpKill|ExpKillBase": 612,
+            "|KilledWithAssaultRifle": 7,
+            "|KilledWithTemplate|Colt M4A1 5.56x45 assault rifle\u2605": 7,
+            "|LongestKillShot": 7453,
+            "|LongestKillShotOnBot": 7453,
+            "|BodiesLooted": 9,
+            "|MobContainers": 9,
+            "|Exp|ExpDamage": 39,
+            "|HeadShots": 4,
+            "|KilledLevel1030": 4,
+            "|KilledBear": 2,
+            "|KilledPmc": 4,
+            "|Exp|ExpKill|ExpKillBodyPartBonus": 840,
+            "|Exp|ExpKill|ExpKillStreakBonus": 261,
+            "|BartItems": 3,
+            "|ThrowWeapons": 3,
+            "|KilledUsec": 2,
+            "|Mods": 11,
+            "|BodyPartDamage|STOMACH": 14016,
+            "|CombatDamage": 21869,
+            "|Heal": 16880,
+            "|FoodDrinks": 3,
+            "|UsedDrinks": 1,
+            "|Weapons": 1,
+            "|BodyPartsDestroyed": 1,
+            "|BodyPartDamage|THORAX": 2163,
+            "|BodyPartDamage|HEAD": 1046,
+            "|BodyPartDamage|LEFT ARM": 1607,
+            "|BodyPartDamage|LeftLeg": 1718,
+            "|BodyPartDamage|RIGHT ARM": 1607,
+            "|BodyPartDamage|RightLeg": 1718,
+            "|Bloodloss": 1869,
+            "|Exp|ExpHeal": 208,
+            "|FenceStanding|ExitStanding": 2000,
+            "|Exp|ExpEnergy": 17,
+            "|Exp|ExpHydration": 25,
+            "|Exp|ExpExitStatus": 300,
+            "|Pedometer": 1873,
+            "|LongestKillStreak": 7,
+            "|ExpKill": 1713,
+            "|ExpLooting": 3004,
+            "|Ammunitions": 18,
+            "|Money|RUB": 726,
+            "looted_items": [
+                "5x Roubles",
+                "1x Hunting matches",
+                "2x Diary\u2606",
+                "1x M1A 7.62x51 10-round magazine",
+                "1x AK Magpul MOE AKM handguard (Olive Drab)\u2606",
+                "1x Glock Polymer80 PS9 pistol slide",
+                "2x M1911 Pachmayr American Legend Grip #423",
+                "1x OP-SKS dovetail mount",
+                "1x 6B47 Ratnik-BSh helmet (Olive Drab)",
+                "1x M870 12ga 508mm barrel with a fixed sight",
+                "1x Vortex Razor AMG UH-1 holographic sight\u2605",
+                "1x Magpul M-LOK AFG tactical foregrip (Stealth Grey)\u2606",
+                "1x AK Strike Industries Enhanced Pistol Grip (FDE)",
+                "1x Geissele Super Precision top ring cap (DDC)",
+                "1x Kolpak-1S riot helmet",
+                "2x Magpul MBUS Gen2 flip-up front sight (FDE)",
+                "1x P226 Sight Mount 220-239 rear sight bearing",
+                "1x UZRGM grenade fuze\u2606",
+                "1x Zenit RK-0 tactical foregrip\u2606",
+                "1x Walther MRS reflex sight",
+                "1x SA-58 Extreme Duty dust cover\u2606",
+                "1x AR-15 HK Battle Grip Beavertail pistol grip (RAL 8000)",
+                "2x 5.56x45mm M855 (54/31)\u2606",
+                "9x Default Inventory",
+                "1x B&T MP9 9x19 submachine gun\u2606",
+                "4x MP9 9x19 15-round magazine",
+                "25x 9x19mm Pst gzh (54/20)",
+                "1x MP9 9x19 sound suppressor mount\u2606",
+                "1x MP9 9x19 sound suppressor",
+                "1x SureFire XC1 tactical flashlight\u2606",
+                "1x MP9 stock",
+                "1x MP9 9x19 upper receiver",
+                "1x Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights",
+                "1x Aimpoint Micro T-1 reflex sight\u2606",
+                "1x MP9 rear sight",
+                "1x MP9 side rail",
+                "1x MP9 charging handle",
+                "1x MP9 bottom rail\u2605",
+                "1x Bars A-2607 Damascus knife",
+                "1x Galvion Caiman Hybrid helmet (Grey)\u2605",
+                "1x Hybrid composite materials\u2606",
+                "1x Hybrid composite materials\u2606",
+                "2x 6B5-15 Zh-86 Uley armored rig (Flora)",
+                "2x 13 mm aramid insert and ceramic plates\u2606",
+                "2x 13 mm aramid insert and ceramic plates\u2606",
+                "2x Aramid insert",
+                "2x 13 mm aramid insert and ceramic plates",
+                "29x 9x19mm Green Tracer (58/14)",
+                "3x Car first aid kit",
+                "9x Secure container Boss",
+                "6x Surv12 field surgical kit\u2606",
+                "60x AFAK tactical individual first aid kit\u2605",
+                "1x LBT-8005A Day Pack backpack (MultiCam Black)",
+                "5x Pockets",
+                "1x Can of green peas\u2606",
+                "1x OPSMEN Earmor M32 headset",
+                "1x Dogtag USEC\u2605",
+                "1x TOZ Simonov SKS 7.62x39 carbine\u2606",
+                "1x SKS TOZ wooden stock (56-A-231 Sb.5)",
+                "1x OP-SKS 7.62x39 520mm barrel",
+                "1x SKS upper band",
+                "1x SKS gas tube",
+                "1x SKS rear sight",
+                "1x SKS 7.62x39 10-round internal box magazine",
+                "28x 7.62x39mm T-45M1 gzh (65/30)\u2606",
+                "1x SKS dust cover",
+                "4x Bars A-2607 95Kh18 knife",
+                "1x SSh-68 steel helmet (Olive Drab)",
+                "1x Armor steel",
+                "1x Armor steel",
+                "1x Armor steel",
+                "1x Umka M33-SET1 hunter vest (Olive Drab)",
+                "2x Hazard 4 Pillbox backpack (Black)",
+                "1x 6B23-2 body armor (Mountain Flora)",
+                "1x 6B33 ballistic plate (Front)",
+                "1x 6B23-2 ballistic plate (Back)",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "4x ",
+                "1x Can of beef stew (Small)",
+                "4x RGD-5 hand grenade",
+                "1x GSSh-01 active headset",
+                "4x Dogtag BEAR\u2605",
+                "1x Armband (White)",
+                "2x Benelli M3 Super 90 12ga dual-mode shotgun",
+                "2x Benelli M3 Super 90 12ga 500mm barrel",
+                "2x Benelli M3 forend",
+                "2x Benelli M3 Super 90 12ga Toni System 11-shell magazine",
+                "2x Benelli M3 telescopic stock",
+                "2x Benelli M3 telescopic stock pistol grip",
+                "2x Benelli M3 Ghost Ring rear sight",
+                "2x Benelli M3 Super 90 charging handle",
+                "23x 12/70 5.25mm buckshot (296/1)",
+                "2x SIG P226R 9x19 pistol",
+                "1x P226 9x19 threaded barrel\u2606",
+                "1x P226 Emperor Scorpion pistol grip",
+                "2x P226R MK25 pistol slide",
+                "1x P226 Meprolight TRU-DOT Night rear sight",
+                "1x P226 Meprolight TRU-DOT Night front sight",
+                "4x P226 9x19 15-round magazine",
+                "34x 9x19mm Luger CCI (70/10)",
+                "1x Respirator",
+                "1x Beret (Blue)\u2606",
+                "1x Gear Craft GC-BSS-MK1 chest rig (A-TACS FG)",
+                "1x 12/70 Copper Sabot Premier HP slug (206/14)\u2605",
+                "5x 9x19mm PSO gzh (59/10)",
+                "2x Zarya stun grenade",
+                "4x 12/70 Poleva-3 slug (140/17)",
+                "3x 12/70 lead slug (167/15)",
+                "9x 20/70 7.5mm buckshot (200/3)",
+                "29x 5.45x39mm PS gs (56/28)",
+                "2x 5.45x39mm SP (67/15)",
+                "8x 7.62x39mm SP (68/20)",
+                "1x 5.45x39mm FMJ (55/24)",
+                "5x 7.62x51mm BCP FMJ (83/35)\u2606",
+                "6x 7.62x39mm FMJ (63/26)",
+                "7x 7.62x39mm PS gzh (61/35)\u2606",
+                "6x 12/70 6.5mm Express buckshot (315/3)",
+                "2x 7.62x54mm R SP BT (92/27)",
+                "1x 12/70 8.5mm Magnum buckshot (400/2)",
+                "1x 9x18mm PM BZhT gzh (53/18)",
+                "1x 7.62x25mm TT FMJ43 (60/11)",
+                "2x 12/70 SuperFormance HP slug (220/5)",
+                "2x 12/70 Poleva-6u slug (150/20)",
+                "31x .366 TKM Geksa (110/14)",
+                "2x 7.62x51mm TCW SP (87/30)",
+                "7x 20/70 Poleva-3 slug (120/14)",
+                "6x 20/70 5.6mm buckshot (208/1)",
+                "3x 12/70 7mm buckshot (312/3)",
+                "1x 5.56x45mm Warmageddon (88/3)",
+                "4x 7.62x25mm TT P gl (58/14)",
+                "5x 7.62x25mm TT AKBS (58/12)",
+                "1x 7.62x25mm TT LRN (64/8)",
+                "1x 6B2 body armor (Flora)",
+                "1x 1.25 mm aramid insert and titanium plates",
+                "1x 1.25 mm aramid insert and titanium plates",
+                "2x Esmarch tourniquet",
+                "1x Emelya rye croutons",
+                "1x RayBench Aviator glasses",
+                "28x 12/70 FTX Custom Lite slug (183/20)",
+                "1x Benelli M3 Super 90 upper receiver top rail\u2606",
+                "1x ADAR 2-15 5.56x45 carbine\u2605",
+                "1x AR-15 Colt A2 pistol grip",
+                "8x 5.56x45 HK PM Gen.2 STANAG 30-round magazine",
+                "26x 5.56x45mm M856 (60/18)",
+                "1x M4A1 5.56x45 upper receiver",
+                "1x Axion Kobra EKP-8-18 reflex sight",
+                "1x AR-15 Hanson Carbine 5.56x45 13.7 inch barrel",
+                "1x AR-15 Ballistic Advantage Lo-Pro Gas Block\u2606",
+                "1x AR-15 Geissele SMR MK16 13.5 inch M-LOK handguard (DDC)",
+                "1x Magpul M-LOK Cantilever Mount",
+                "1x Magpul MBUS Gen2 flip-up rear sight\u2606",
+                "1x AR-15 Colt A2 buffer tube",
+                "1x AR-15 Magpul PRS GEN3 stock (Grey)\u2606",
+                "1x AR-15 ADAR 2-15 charging handle",
+                "1x ER FULCRUM BAYONET",
+                "1x Cold Fear infrared balaclava",
+                "1x MSA Gallet TC 800 High Cut combat helmet (Black)",
+                "1x Hybrid composite materials\u2606",
+                "1x Hybrid composite materials\u2606",
+                "1x BlackHawk! Commando chest harness (Black)",
+                "3x 5.56x45mm FMJ (57/23)",
+                "4x 5.56x45mm MK 255 Mod 0 (RRLP) (72/11)",
+                "1x BNTI Kirasa-N body armor",
+                "1x NewSphereTech level III ballistic plate",
+                "3x AR500 Legacy Plate ballistic plate",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "2x Immobilizing splint",
+                "1x Analgin painkillers",
+                "2x M18 smoke grenade (Green)",
+                "2x Dogtag USEC\u2605",
+                "2x RayBench Hipster Reserve sunglasses",
+                "1x Kalashnikov AKS-74U 5.45x39 assault rifle",
+                "1x AK KGB MG-47 pistol grip (Anodized Red)\u2606",
+                "1x AKS-74/AKS-74U Zenit PT Lock",
+                "1x AK Zenit PT-1 \"Klassika\" stock",
+                "1x AK Zenit RP-1 charging handle",
+                "3x AK-74 5.45x39 6L23 30-round magazine (Plum)",
+                "1x AKS-74U Legal Arsenal Pilgrim railed dust cover",
+                "1x Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope\u2606",
+                "1x Leupold DeltaPoint Reflex Sight\u2606",
+                "1x AKS-74U gas tube",
+                "1x AKS-74U wooden handguard",
+                "1x P226 9x19 112mm barrel",
+                "1x P226 polymer pistol grip (Black)\u2606",
+                "1x P226 rear sight",
+                "1x P226 front sight",
+                "1x Smoke balaclava\u2605",
+                "1x 6B47 Ratnik-BSh helmet (Digital Flora cover)",
+                "1x Layers of aramid fiber",
+                "1x Layers of aramid fiber",
+                "1x Layers of aramid fiber",
+                "1x FirstSpear Strandhogg plate carrier (Ranger Green)",
+                "2x SPRTN Elaphros ballistic plate",
+                "3x SSAPI level III+ ballistic plate (Side)\u2606",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Scav backpack",
+                "2x Pack of sugar\u2606",
+                "2x Bottle of Pevko Light beer",
+                "2x SSD drive\u2605",
+                "1x Gas mask air filter",
+                "2x Monster Original Lo-Carb Energy Drink\u2606",
+                "1x Aramid fiber fabric",
+                "3x Peltor ComTac II headset (OD Green)",
+                "2x SR-2M Veresk 9x21 submachine gun\u2606",
+                "7x SR-2M 9x21 20-round magazine",
+                "47x 9x21mm P gzh (65/18)",
+                "2x SR-2M 9x21 hand stopper\u2606",
+                "2x SR-2M top-folding stock",
+                "2x SR-2M dust cover",
+                "2x SR-2M Zenit B-17 mount\u2606",
+                "2x SR-2M polymer handguard (Black)",
+                "2x SR-2M pistol grip (Plum)",
+                "2x 6Kh5 Bayonet",
+                "1x Spiritus Systems Bank Robber chest rig (MultiCam Black)",
+                "3x 9x18mm PM PRS gs (58/6)",
+                "5x .366 TKM EKO (73/30)",
+                "2x 12/70 Grizzly 40 slug (190/12)",
+                "1x 9x18mm PM PPT gzh (59/8)",
+                "1x 12/70 Dual Sabot slug (85/17)",
+                "2x .366 TKM FMJ (98/23)",
+                "1x 5.45x39mm PRS gs (70/13)",
+                "4x 7.62x39mm HP (80/15)",
+                "2x 9x18mm PM PPe gzh (61/7)",
+                "1x 9x19mm QuakeMaker (85/8)\u2606",
+                "1x 20/70 Poleva-6u slug (135/17)",
+                "1x 5.45x39mm HP (76/9)",
+                "2x 9x19mm FMJ M882 (56/18)",
+                "1x 9x39mm FMJ (75/17)",
+                "2x 5.45x39mm US gs (65/17)",
+                "1x BNTI Zhuk body armor (Press)",
+                "1x Zhuk-3 ballistic plate (Front)",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "2x AI-2 medkit",
+                "1x CAT hemostatic tourniquet",
+                "1x Meldonin injector\u2605",
+                "1x Ghost balaclava\u2606",
+                "1x UNTAR helmet",
+                "1x Layers of aramid fiber",
+                "1x Layers of aramid fiber",
+                "1x Layers of aramid fiber",
+                "1x Azimut SS \"Khamelion\" chest harness (Olive)",
+                "1x 9x21mm PS gzh (59/22)\u2606",
+                "1x Direct Action Dragon Egg Mark II backpack (Black)",
+                "1x NFM THOR Concealable Reinforced Vest body armor",
+                "1x SPRTN Omega ballistic plate",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "1x Aramid insert",
+                "2x Augmentin antibiotic pills\u2605",
+                "1x Molot Arms VPO-215 Gornostay .366 TKM bolt-action rifle\u2606",
+                "5x VPO-215 .366 TKM 4-round magazine",
+                "1x VPO-215 wooden stock",
+                "1x VPO-215-02 .366TKM 600mm barrel",
+                "1x VPO-215 scope rail mount",
+                "1x Monstrum Tactical Compact Prism Scope 2x32\u2606",
+                "1x Kotton beanie\u2606",
+                "1x 9x18mm PM Pst gzh (50/12)",
+                "1x 7.62x54mm R HP BT (102/23)",
+                "1x 7.62x25mm TT PT gzh (55/18)",
+                "1x Oakley SI Batwolf glasses",
+                "2x HK MP5 9x19 submachine gun (Navy 3 Round Burst)\u2605",
+                "5x HK MP5 9x19 20-round magazine",
+                "2x HK MP5 9x19 upper receiver",
+                "2x HK MP5 Wide Tropical polymer handguard",
+                "2x HK MP5 Drum rear sight",
+                "2x HK MP5 A3 old model stock",
+                "2x HK MP5 3-lug thread protector",
+                "2x HK MP5 cocking handle",
+                "1x United Cutlery M48 Tactical Kukri\u2605",
+                "1x BlackHawk! Commando chest harness (Desert Tan)",
+                "1x NPP KlASS Kora-Kulon body armor (Black)",
+                "1x Armor steel insert\u2606",
+                "1x Armor steel insert\u2606",
+                "1x Rye croutons\u2606"
+            ]
+        },
+        "skills_common": {
+            "Endurance": "4737.52",
+            "Strength": "5100.00",
+            "Vitality": "2421.63",
+            "Health": "5100.00",
+            "StressResistance": "2541.27",
+            "Metabolism": "5100.00",
+            "Immunity": "1138.40",
+            "Perception": "5100.00",
+            "Intellect": "141.95",
+            "Attention": "5100.00",
+            "Charisma": "5100.00",
+            "Pistol": "346.55",
+            "Revolver": "91.93",
+            "SMG": "644.51",
+            "Assault": "1537.72",
+            "Shotgun": "345.88",
+            "Sniper": "605.46",
+            "LMG": "434.83",
+            "HMG": "0.00",
+            "Launcher": "0.00",
+            "AttachedLauncher": "0.00",
+            "Throwing": "657.05",
+            "Melee": "113.45",
+            "DMR": "415.07",
+            "AimDrills": "1671.53",
+            "TroubleShooting": "382.68",
+            "Surgery": "2471.95",
+            "CovertMovement": "48.67",
+            "Search": "5100.00",
+            "MagDrills": "1898.01",
+            "LightVests": "602.68",
+            "HeavyVests": "643.13",
+            "WeaponTreatment": "986.00",
+            "Crafting": "1090.00",
+            "HideoutManagement": "3234.00"
+        },
+        "skills_mastering": {
+            "Mk17": "693.00",
+            "M4": "2528.75",
+            "m1911": "70.00",
+            "PP19": "126.00",
+            "P226": "0.00",
+            "AK74": "1478.75",
+            "SR25": "92.75",
+            "DVL": "22.75",
+            "GLOCK17": "59.50",
+            "SVD": "224.00",
+            "G36": "365.75",
+            "MDR": "316.75",
+            "SPEAR": "428.75",
+            "m9": "0.00",
+            "R11SRASS": "124.25",
+            "mp7": "0.00",
+            "KS23": "327.25",
+            "VECTOR": "778.75",
+            "AKM": "52.50",
+            "SKS": "225.75",
+            "mosin": "57.75",
+            "RHINO": "38.50",
+            "UMP45": "229.25",
+            "PP-91": "133.00",
+            "PPSH": "222.25",
+            "SVT-40": "201.25",
+            "M60": "232.75",
+            "ASH12": "113.75",
+            "P90": "0.00",
+            "DEAGLE": "0.00",
+            "MP9": "220.50",
+            "AKSU": "371.00",
+            "G28": "0.00",
+            "MCX": "182.00",
+            "STM-9": "246.75",
+            "VSS": "82.25",
+            "MP153": "29.75",
+            "r700": "1.75",
+            "M3S90": "175.00",
+            "RSH12": "7.00"
+        },
+        "bonuses": [
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 1
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "UnlockWeaponModification",
+                "value": 1
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "UnlockWeaponRepair",
+                "value": 1
+            },
+            {
+                "type": "DebuffEndDelay",
+                "value": -10
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 2
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 4
+            },
+            {
+                "type": "HydrationRegeneration",
+                "value": 10
+            },
+            {
+                "type": "UnlockArmorRepair",
+                "value": 1
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 10
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 8
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 6
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "RepairArmorBonus",
+                "value": 3
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 12
+            },
+            {
+                "type": "ScavCooldownTimer",
+                "value": -15
+            },
+            {
+                "type": "QuestMoneyReward",
+                "value": 5
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": -20
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 20
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 20
+            },
+            {
+                "type": "ExperienceRate",
+                "value": 12
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 12
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 2
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 20
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 7
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 5
+            },
+            {
+                "type": "RepairWeaponBonus",
+                "value": 3
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 12
+            },
+            {
+                "type": "DebuffEndDelay",
+                "value": -50
+            },
+            {
+                "type": "HydrationRegeneration",
+                "value": 20
+            },
+            {
+                "type": "RepairArmorBonus",
+                "value": 6
+            },
+            {
+                "type": "TextBonus",
+                "value": 1
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 1.24
+            },
+            {
+                "type": "TextBonus",
+                "value": 3
+            },
+            {
+                "type": "TextBonus",
+                "value": 6
+            },
+            {
+                "type": "TextBonus",
+                "value": 6
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 30
+            },
+            {
+                "type": "HydrationRegeneration",
+                "value": 20
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 20
+            },
+            {
+                "type": "QuestMoneyReward",
+                "value": 10
+            },
+            {
+                "type": "InsuranceReturnTime",
+                "value": -20
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 10
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 0
+            },
+            {
+                "type": "TextBonus",
+                "value": 6
+            },
+            {
+                "type": "TextBonus",
+                "value": 12
+            },
+            {
+                "type": "TextBonus",
+                "value": 12
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 2.24
+            },
+            {
+                "type": "TextBonus",
+                "value": 10
+            },
+            {
+                "type": "TextBonus",
+                "value": 24
+            },
+            {
+                "type": "TextBonus",
+                "value": 24
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 10
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 2
+            },
+            {
+                "type": "RepairWeaponBonus",
+                "value": 6
+            },
+            {
+                "type": "ScavCooldownTimer",
+                "value": -20
+            },
+            {
+                "type": "RagfairCommission",
+                "value": -30
+            },
+            {
+                "type": "HydrationRegeneration",
+                "value": 30
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 1
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 10
+            },
+            {
+                "type": "MaximumEnergyReserve",
+                "value": 10
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 40
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 3
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "ExperienceRate",
+                "value": 15
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 30
+            },
+            {
+                "type": "StashRows",
+                "value": 2
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 15
+            },
+            {
+                "type": "TextBonus",
+                "value": 2
+            }
+        ],
+        "mini_quest_info": {
+            "active": 70,
+            "finished": 211
+        },
+        "last_death": {
+            "killer": {
+                "name": "USA_Aaron",
+                "side": "Usec",
+                "BodyPart": "Pelvis",
+                "weapon": "UZI"
+            },
+            "cause": {
+                "damage_type": "Bullet",
+                "weapon": "\u26069A-91"
+            }
+        },
+        "victims": [
+            {
+                "time": "00:09:47.9750000",
+                "name": "\u042e\u0440\u0438\u0439 \u0425\u0430\u0440\u043e\u043d",
+                "side": "Savage",
+                "level": 42,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 20.039938
+            },
+            {
+                "time": "00:11:56.8360000",
+                "name": "NutmilkFarmer",
+                "side": "Bear",
+                "level": 16,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 29.5616188
+            },
+            {
+                "time": "00:12:22.5260000",
+                "name": "\u0425\u0440\u0438\u0441\u0442\u043e\u0444\u043e\u0440 \u0427\u0438\u0440\u0438\u0439",
+                "side": "Savage",
+                "level": 37,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 24.7389679
+            },
+            {
+                "time": "00:13:10.5780000",
+                "name": "smitthy197",
+                "side": "Usec",
+                "level": 20,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 39.5963745
+            },
+            {
+                "time": "00:15:53.7040000",
+                "name": "HoneydewBlue",
+                "side": "Bear",
+                "level": 12,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 33.0882378
+            },
+            {
+                "time": "00:17:45.6070000",
+                "name": "Denny_netTTV",
+                "side": "Usec",
+                "level": 16,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 74.5324249
+            },
+            {
+                "time": "00:19:26.1570000",
+                "name": "\u041d\u0438\u043a\u0438\u0442\u043a\u0430 \u0420\u0435\u0437\u0430\u043d\u044b\u0439",
+                "side": "Savage",
+                "level": 51,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 24.8435345
+            }
+        ],
+        "traders": {
+            "Daddy Prap": {
+                "standing": 0.83,
+                "sales_sum": 4592093
+            },
+            "Mommy": {
+                "standing": 0.94,
+                "sales_sum": 45079996
+            },
+            "Shady Mofo": {
+                "standing": 2.67,
+                "sales_sum": 90622
+            },
+            "Mox": {
+                "standing": 1.08,
+                "sales_sum": 11399783
+            },
+            "Beff Jezoes": {
+                "standing": 0.53,
+                "sales_sum": 128812
+            },
+            "Nerd": {
+                "standing": 1.13,
+                "sales_sum": 3663850
+            },
+            "Raggy": {
+                "standing": 0.68,
+                "sales_sum": 2345999
+            },
+            "Unimpressed": {
+                "standing": 0.6,
+                "sales_sum": 4897535
+            },
+            "Lightkeeper": {
+                "standing": 0.2,
+                "sales_sum": 0
+            },
+            "BTR Driver": {
+                "standing": 0.2,
+                "sales_sum": 0
+            },
+            "Shreddy": {
+                "standing": 0.26,
+                "sales_sum": 82500
+            },
+            "Pagliacci": {
+                "standing": 0.4,
+                "sales_sum": 3457346
+            },
+            "Jude Cortez": {
+                "standing": 0.88,
+                "sales_sum": 1612388
+            }
+        },
+        "hideout": {
+            "STASH": {
+                "current_level": 4,
+                "required": []
+            },
+            "VENTS": {
+                "current_level": 3,
+                "required": []
+            },
+            "SECURITY": {
+                "current_level": 3,
+                "required": []
+            },
+            "LAVATORY": {
+                "current_level": 3,
+                "required": []
+            },
+            "GENERATOR": {
+                "current_level": 3,
+                "required": []
+            },
+            "HEATING": {
+                "current_level": 3,
+                "required": []
+            },
+            "WATER COLLECTOR": {
+                "current_level": 3,
+                "required": []
+            },
+            "MEDSTATION": {
+                "current_level": 3,
+                "required": []
+            },
+            "NUTRITION UNIT": {
+                "current_level": 3,
+                "required": []
+            },
+            "REST SPACE": {
+                "current_level": 3,
+                "required": []
+            },
+            "WORKBENCH": {
+                "current_level": 3,
+                "required": []
+            },
+            "INTELLIGENCE CENTER": {
+                "current_level": 3,
+                "required": []
+            },
+            "SHOOTING RANGE": {
+                "current_level": 3,
+                "required": []
+            },
+            "LIBRARY": {
+                "current_level": 1,
+                "required": []
+            },
+            "SCAV CASE": {
+                "current_level": 0,
+                "required": [
+                    "L2 INTELLIGENCE CENTER",
+                    "3 Bronze lion figurine\u2606",
+                    "6 Gold skull ring\u2605",
+                    "8 Golden neck chain\u2605",
+                    "4 Roler Submariner gold wrist watch\u2605",
+                    "3 Bottle of Fierce Hatchling moonshine\u2605",
+                    "1 Lucky Scav Junk box",
+                    "1 Golden rooster figurine\u2606"
+                ]
+            },
+            "ILLUMINATION": {
+                "current_level": 3,
+                "required": []
+            },
+            "HALL OF FAME": {
+                "current_level": 3,
+                "required": []
+            },
+            "AIR FILTERING UNIT": {
+                "current_level": 1,
+                "required": []
+            },
+            "SOLAR POWER": {
+                "current_level": 0,
+                "required": [
+                    "L3 GENERATOR",
+                    "L3 WORKBENCH",
+                    "25000 Euros",
+                    "LL4 Beff Jezoes",
+                    "10 Military cable\u2606",
+                    "4 Phased array element\u2605",
+                    "10 Military power filter\u2605",
+                    "3 Working LCD\u2606",
+                    "1 Advanced current converter\u2605"
+                ]
+            },
+            "BOOZE GENERATOR": {
+                "current_level": 1,
+                "required": []
+            },
+            "BITCOIN FARM": {
+                "current_level": 2,
+                "required": [
+                    "L2 BITCOIN FARM",
+                    "L1 SOLAR POWER",
+                    "L3 WATER COLLECTOR",
+                    "25 CPU fan",
+                    "15 Silicone tube\u2606",
+                    "10 Electric motor\u2606",
+                    "10 Pressure gauge\u2606",
+                    "1 6-STEN-140-M military battery\u2605"
+                ]
+            },
+            "CHRISTMAS TREE": {
+                "current_level": 0,
+                "required": [
+                    "L1 GENERATOR",
+                    "10000 Roubles",
+                    "1 Christmas tree ornament (Violet)\u2605",
+                    "1 Christmas tree ornament (Silver)\u2605",
+                    "1 Christmas tree ornament (Red)\u2605"
+                ]
+            },
+            "BROKEN WALL": {
+                "current_level": 6,
+                "required": []
+            },
+            "GYM": {
+                "current_level": 1,
+                "required": []
+            },
+            "WEAPON WALL": {
+                "current_level": 2,
+                "required": [
+                    "1 Electric drill\u2606",
+                    "15 Energy-saving lamp",
+                    "10 Metal spare parts",
+                    "5 KEKTAPE duct tape\u2606",
+                    "15 Bundle of wires",
+                    "3 Shustrilo sealing foam",
+                    "1 Tech manual",
+                    "1 #FireKlean gun lube\u2605",
+                    "LL4 Nerd",
+                    "L3 SHOOTING RANGE",
+                    "L3 WORKBENCH"
+                ]
+            },
+            "SECONDARY WEAPON WALL": {
+                "current_level": 2,
+                "required": [
+                    "L3 WEAPON WALL"
+                ]
+            },
+            "GEAR RACK": {
+                "current_level": 2,
+                "required": [
+                    "L2 HALL OF FAME",
+                    "LL4 Raggy",
+                    "1 Ratchet wrench\u2605",
+                    "1 Set of files \"Master\"",
+                    "15 Energy-saving lamp",
+                    "5 KEKTAPE duct tape\u2606",
+                    "15 Metal spare parts",
+                    "10 Cordura polyamide fabric",
+                    "1 Body armor repair kit\u2605",
+                    "1200000 Roubles"
+                ]
+            },
+            "CULTIST CIRCLE": {
+                "current_level": 1,
+                "required": []
+            }
+        },
+        "overall_accuracy": "33.70%",
+        "session_accuracy": "23.58%"
+    },
+    "objectives": [
+        {
+            "name": "The Punisher - Part 4",
+            "conditions": [
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate Scavs while using a 12ga shotgun on Lighthouse"
+                },
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate PMC operatives while wearing a balaclava and Scav vest on Lighthouse"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Find Bars A-2607 95Kh18 knives in raid"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Hand over the knives"
+                }
+            ]
+        },
+        {
+            "name": "Spa Tour - Part 1",
+            "conditions": [
+                {
+                    "progress": "0/7",
+                    "description": "Eliminate Scavs with headshots while using a 12ga shotgun on Shoreline"
+                }
+            ]
+        },
+        {
+            "name": "The Cult - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the missing informant on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Health Care Privacy - Part 5",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the drop spot on night-time Factory"
+                },
+                {
+                    "progress": "0/3",
+                    "description": "Obtain 3 packs of Gunpowder \"Kite\" and stash them in the designated spot"
+                }
+            ]
+        },
+        {
+            "name": "Sew it Good - Part 4",
+            "conditions": [
+                {
+                    "progress": "0/2",
+                    "description": "Find WARTECH TV-109 + TV-106 chest rigs in raid"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Hand over the chest rigs"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find BlackRock chest rigs in raid</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the chest rigs</s>"
+                }
+            ]
+        },
+        {
+            "name": "The Key to Success",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the first book of clothes design on Interchange"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the first book"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the second book of clothes design on Interchange"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the second book"
+                }
+            ]
+        },
+        {
+            "name": "Sales Night",
+            "conditions": [
+                {
+                    "progress": "0/7",
+                    "description": "Survive and extract from Interchange"
+                }
+            ]
+        },
+        {
+            "name": "Living High is Not a Crime - Part 1",
+            "conditions": [
+                {
+                    "progress": "0/2",
+                    "description": "Find Bronze lion figurines in raid"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Hand over the figurines"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Find Horse figurines in raid"
+                },
+                {
+                    "progress": "1/2",
+                    "description": "Hand over the figurines"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find a Cat figurine in raid</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the figurine</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Find a Roler Submariner gold wrist watch in raid"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the wrist watch"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Golden egg in raid</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the figurine</s>"
+                }
+            ]
+        },
+        {
+            "name": "Hot Delivery",
+            "conditions": [
+                {
+                    "progress": "0/2",
+                    "description": "Stash Peltor ComTac 2 in the specified place"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Stash 6B47 Helmets in the specified place"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Stash BNTI Gzhel-K armor in the specified place"
+                }
+            ]
+        },
+        {
+            "name": "Informed Means Armed",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera to watch the sawmill dock on Woods</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera to watch the road to the port on Customs</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange"
+                }
+            ]
+        },
+        {
+            "name": "The Tarkov Shooter - Part 7",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives from over 45 meters away while using a suppressed bolt-action rifle"
+                }
+            ]
+        },
+        {
+            "name": "A Shooter Born in Heaven",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Woods"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Reserve"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Shoreline"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Customs"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Lighthouse "
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Streets of Tarkov"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Interchange"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives with a headshot while using a bolt-action rifle on Ground Zero"
+                }
+            ]
+        },
+        {
+            "name": "Peacekeeping Mission",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Scavs while wearing a UN uniform (UNTAR helmet, MF-UNTAR body armor, M4A1 rifle) on Woods</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Scavs while wearing a UN uniform (UNTAR helmet, MF-UNTAR body armor, M4A1 rifle) on Customs</s>"
+                },
+                {
+                    "progress": "8/12",
+                    "description": "Eliminate Scavs while wearing a UN uniform (UNTAR helmet, MF-UNTAR body armor, M4A1 rifle) on Interchange"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Scavs while wearing a UN uniform (UNTAR helmet, MF-UNTAR body armor, M4A1 rifle) on Shoreline</s>"
+                },
+                {
+                    "progress": "0/12",
+                    "description": "Eliminate Scavs while wearing a UN uniform (UNTAR helmet, MF-UNTAR body armor, M4A1 rifle) on Streets of Tarkov"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Scavs while wearing a UN uniform (UNTAR helmet, MF-UNTAR body armor, M4A1 rifle) on Ground Zero</s>"
+                }
+            ]
+        },
+        {
+            "name": "Perfect Mediator",
+            "conditions": [
+                {
+                    "progress": "0/4",
+                    "description": "Reach level 4 loyalty with Ragman"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Reach level 4 loyalty with Skier</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Reach level 4 loyalty with Mechanic</s>"
+                },
+                {
+                    "progress": "0/4",
+                    "description": "Reach level 4 loyalty with Peacekeeper"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Reach level 4 loyalty with Prapor</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Reach level 4 loyalty with Therapist</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Reach level 4 loyalty with Jaeger</s>"
+                }
+            ]
+        },
+        {
+            "name": "The Survivalist Path - Eagle-Owl",
+            "conditions": [
+                {
+                    "progress": "0/6",
+                    "description": "Eliminate Scavs in the time period of 21:00-04:00 without using any NVGs or thermal sights (Excluding Factory)"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Trophy",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and neutralize Reshala"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Reshala's Golden TT in raid</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over Reshala's Golden TT pistol</s>"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Controller",
+            "conditions": [
+                {
+                    "progress": "0/2",
+                    "description": "Eliminate PMC operatives while they are suffering from the stun effect"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Woods Keeper",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and neutralize Shturman"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Shturman's stash key in raid</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over Shturman's stash key</s>"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Justice",
+            "conditions": [
+                {
+                    "progress": "0/3",
+                    "description": "Eliminate Scavs dressed in police uniform (Reshala's bodyguards)"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Evil Watchman",
+            "conditions": [
+                {
+                    "progress": "2/5",
+                    "description": "Eliminate PMC operatives in the Dorms area on Customs"
+                }
+            ]
+        },
+        {
+            "name": "Hunter",
+            "conditions": [
+                {
+                    "progress": "0/20",
+                    "description": "Locate and neutralize Shturman"
+                }
+            ]
+        },
+        {
+            "name": "Documents",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the first folder with military documents in the command bunker offices on Reserve"
+                },
+                {
+                    "progress": "",
+                    "description": "Obtain the second folder with military documents in the command bunker offices on Reserve"
+                },
+                {
+                    "progress": "",
+                    "description": "Obtain the third folder with military documents in the command bunker offices on Reserve"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the first documents"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the second documents"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the third documents"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Factory Chief",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and neutralize Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Find Tagilla's BOSS cap in raid"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the BOSS cap"
+                }
+            ]
+        },
+        {
+            "name": "Easy Job - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the helicopter at the water treatment plant on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Mark the helicopter with an MS2000 Marker"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Outcasts",
+            "conditions": [
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate Rogues on Lighthouse"
+                }
+            ]
+        },
+        {
+            "name": "Lost Contact",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Find the lost group in the chalet area on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Energy Crisis",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Find and mark the group of fuel tanks with an MS2000 Marker on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Find and mark the first tanker truck with an MS2000 Marker on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Find and mark the second tanker truck with an MS2000 Marker on Lighthouse"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find and mark the third tanker truck with an MS2000 Marker on Lighthouse</s>"
+                }
+            ]
+        },
+        {
+            "name": "Corporate Secrets",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Find the data on the water pump operation on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the extracted data"
+                },
+                {
+                    "progress": "",
+                    "description": "Find the data on the pumping station operation on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the extracted data"
+                }
+            ]
+        },
+        {
+            "name": "Revision - Lighthouse",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and mark the first BRDM with an MS2000 Marker on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the second BRDM with an MS2000 Marker on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the first Stryker with an MS2000 Marker on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the second Stryker with an MS2000 Marker on Lighthouse"
+                }
+            ]
+        },
+        {
+            "name": "Broadcast - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the hidden recording studio on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Place a Signal Jammer inside the studio"
+                }
+            ]
+        },
+        {
+            "name": "Audit",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the financial records on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the journal"
+                }
+            ]
+        },
+        {
+            "name": "You've Got Mail",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the registered mail on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the letter"
+                }
+            ]
+        },
+        {
+            "name": "Population Census",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the journal containing resident details on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the journal"
+                }
+            ]
+        },
+        {
+            "name": "Revision - Streets of Tarkov",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and mark the first LAV III with an MS2000 Marker on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the Stryker with an MS2000 Marker on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the second LAV III with an MS2000 Marker on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "The Huntsman Path - Administrator",
+            "conditions": [
+                {
+                    "progress": "0/20",
+                    "description": "Eliminate any target at the Pinewood hotel on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Shoot a yellow signal flare in the hotel's courtyard"
+                }
+            ]
+        },
+        {
+            "name": "Test Drive - Part 2",
+            "conditions": [
+                {
+                    "progress": "0/20",
+                    "description": "Eliminate PMC operatives while using an SR-2M with a suppressor and KP-SR2 sight on Streets of Tarkov"
+                }
+            ]
+        },
+        {
+            "name": "The Delicious Sausage",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Scout the Shestyorochka store at Nikitskaya street"
+                },
+                {
+                    "progress": "",
+                    "description": "Scout the Sparja store at Primorsky ave"
+                },
+                {
+                    "progress": "",
+                    "description": "Scout the Sparja store in Pinewood hotel"
+                },
+                {
+                    "progress": "",
+                    "description": "Scout the Goshan store in Concordia"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the found in raid Salty Dog beef sausage</s>"
+                }
+            ]
+        },
+        {
+            "name": "Dangerous Road",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex"
+                }
+            ]
+        },
+        {
+            "name": "The Door",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the cause of the signal jamming on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera to watch the door"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera to watch the stairwell"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Survive and extract from the location</s>"
+                }
+            ]
+        },
+        {
+            "name": "Beyond the Red Meat - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and obtain information on culinary secrets at the Beluga restaurant on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the found data"
+                }
+            ]
+        },
+        {
+            "name": "Gunsmith - Part 24",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Modify a KAC SR-25 to comply with the given specifications"
+                }
+            ]
+        },
+        {
+            "name": "Pyramid Scheme",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the first ATM on Nizhnaya Sadovaya Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the second ATM on Nizhnaya Sadovaya Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the ATM on Razvedchikov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the first group of ATMs on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the first ATM on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the group of ATMs on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the second ATM on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the fourth group of ATMs on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the fifth group of ATMs on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the third ATM on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the fourth ATM on Klimov Street on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the first ATM on Primorsky Ave on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the second ATM on Primorsky Ave on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the third ATM on Primorsky Ave on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the ATM at the expo on Streets of Tarkov"
+                }
+            ]
+        },
+        {
+            "name": "Balancing - Part 2",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMCs while using AKS-74UB and PACA body armor on Streets of Tarkov"
+                }
+            ]
+        },
+        {
+            "name": "Drip-Out - Part 1",
+            "conditions": [
+                {
+                    "progress": "7/100",
+                    "description": "Eliminate Raiders"
+                },
+                {
+                    "progress": "6/50",
+                    "description": "Hand over the found in raid WARTECH brand equipment"
+                }
+            ]
+        },
+        {
+            "name": "Circulate",
+            "conditions": [
+                {
+                    "progress": "4/250",
+                    "description": "Sell Ragman any backpacks or tactical rigs"
+                }
+            ]
+        },
+        {
+            "name": "Hell on Earth - Part 2",
+            "conditions": [
+                {
+                    "progress": "0/3",
+                    "description": "Eliminate the hooded men while using the double barrel shotgun"
+                }
+            ]
+        },
+        {
+            "name": "Airmail",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Launch a red signal flare at the old sawmill on Woods"
+                }
+            ]
+        },
+        {
+            "name": "Claustrophobia",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate any target in the old cellars while using a shotgun on Factory"
+                }
+            ]
+        },
+        {
+            "name": "The Walls Have Eyes",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera in the first crane's cockpit on Factory</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera in the second crane's cockpit on Factory"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera in the third crane's cockpit on Factory</s>"
+                }
+            ]
+        },
+        {
+            "name": "Capacity Check",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Fix the first reactor mixer with a Toolset on Factory"
+                },
+                {
+                    "progress": "",
+                    "description": "Fix the second reactor mixer with a Toolset on Factory"
+                },
+                {
+                    "progress": "",
+                    "description": "Fix the third reactor mixer with a Toolset on Factory"
+                }
+            ]
+        },
+        {
+            "name": "Know Your Place!",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate any target on Streets of Tarkov (In one raid)"
+                },
+                {
+                    "progress": "",
+                    "description": "Use the transit from Streets of Tarkov to Interchange (In one raid)"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate any target on Interchange (In one raid)"
+                }
+            ]
+        },
+        {
+            "name": "Forester's Duty",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate Scavs at the village on Lighthouse (In one raid)"
+                },
+                {
+                    "progress": "",
+                    "description": "Use the transit from Lighthouse to Shoreline (In one raid)"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate Scavs at the village on Shoreline (In one raid)"
+                }
+            ]
+        },
+        {
+            "name": "Is This a Reference?",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the amphibian pizza lovers' hideout on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the barbed wire body on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the really scary hole in the wall on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the high rise where one die-hard guy kicked ass on Ground Zero"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the computer with a joke for programmers on Ground Zero"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the little chair surrounded by big black chairs on Ground Zero"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera by your friend Wilson on Lighthouse</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the kindled rest place on Lighthouse</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the ominous welcome sign on Lighthouse"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the megagenius scientist's seat on Lighthouse</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the place where conscripts did a very important task on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the two chair riddle on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at every tank driver's first videogame on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the bucket-head villain on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at Anvil 3-4 crew member's execution site on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at every indie developer's worst nightmare on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera in the room where the firefighter burned the books to become happy on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the place where some valve technicians couldn't finish their third project on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the dangerous Russian chocolate beauty on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera in the conspiracy theorist's room on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera near where someone thought he'd get transported to the magic school on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the mother of all strategy games on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the stairway to the skies on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the bear who sat into a flaming car on Woods</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the upside-down chair on Shoreline</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline</s>"
+                }
+            ]
+        },
+        {
+            "name": "668c18eb12542b3c3ff6e20f",
+            "conditions": [
+                {
+                    "progress": "44/100",
+                    "description": "Eliminate 100 PMC"
+                }
+            ]
+        },
+        {
+            "name": "Targeting Hopefulness",
+            "conditions": [
+                {
+                    "progress": "3/5",
+                    "description": "Eliminate any target near the dormitories between 21:00 and 07:00"
+                }
+            ]
+        },
+        {
+            "name": "Going Rampage",
+            "conditions": [
+                {
+                    "progress": "0/15",
+                    "description": "Eliminate SCAVs at the Factory"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Do NOT eliminate Tagilla</s>"
+                }
+            ]
+        },
+        {
+            "name": "Grab That Cash, Make a Stash II",
+            "conditions": [
+                {
+                    "progress": "0/2000000",
+                    "description": "Handover specified amount of Roubles"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Acquisition III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Handover the custom M700"
+                }
+            ]
+        },
+        {
+            "name": "Armour Delivery III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the dead drop at the Mantis outlet store"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Leave the BNTI Kirasa body armours at the dead drop"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Goldmember",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Handover the found in raid Gold Skull rings</s>"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Handover the found in raid Golden Rooster figurines"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Handover the found in raid Roler Gold watches</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Handover the found in raid Golden Eggs</s>"
+                },
+                {
+                    "progress": "3/5",
+                    "description": "Handover the found in raid Golden 1GPhones"
+                },
+                {
+                    "progress": "3/5",
+                    "description": "Handover the found in raid Golden Necklaces"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - ARs III",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Sanitar</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Killa"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Reshala"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Shturman</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Gluhar</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kolontay"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kaban"
+                },
+                {
+                    "progress": "3/8",
+                    "description": "Eliminate all targets with an AR"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - SMGs III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Eliminate Sanitar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Killa"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Reshala"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Shturman"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Gluhar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kolontay"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kaban"
+                },
+                {
+                    "progress": "0/8",
+                    "description": "Eliminate all targets with a SMG"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Snipers",
+            "conditions": [
+                {
+                    "progress": "1/10",
+                    "description": "Using a sniper, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Marksman",
+            "conditions": [
+                {
+                    "progress": "6/10",
+                    "description": "Using a marksman rifle, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Shotguns II",
+            "conditions": [
+                {
+                    "progress": "7/10",
+                    "description": "Using a shotgun, eliminate PMCs with headshots"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Pistols",
+            "conditions": [
+                {
+                    "progress": "5/10",
+                    "description": "Using a pistol, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - LMGs III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Eliminate Sanitar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Killa"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Reshala"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Shturman"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Gluhar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kolontay"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kaban"
+                },
+                {
+                    "progress": "0/8",
+                    "description": "Eliminate all targets with a LMG"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Carbines III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Eliminate Sanitar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Killa"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Reshala"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Shturman"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Gluhar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kolontay"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kaban"
+                },
+                {
+                    "progress": "0/8",
+                    "description": "Eliminate all targets with a Carbine"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Melee",
+            "conditions": [
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate...no, stab PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Explosives",
+            "conditions": [
+                {
+                    "progress": "8/25",
+                    "description": "Eliminate..no, explode PMCs"
+                }
+            ]
+        }
+    ],
+    "hideout": {
+        "STASH": {
+            "current_level": 4,
+            "required": []
+        },
+        "VENTS": {
+            "current_level": 3,
+            "required": []
+        },
+        "SECURITY": {
+            "current_level": 3,
+            "required": []
+        },
+        "LAVATORY": {
+            "current_level": 3,
+            "required": []
+        },
+        "GENERATOR": {
+            "current_level": 3,
+            "required": []
+        },
+        "HEATING": {
+            "current_level": 3,
+            "required": []
+        },
+        "WATER COLLECTOR": {
+            "current_level": 3,
+            "required": []
+        },
+        "MEDSTATION": {
+            "current_level": 3,
+            "required": []
+        },
+        "NUTRITION UNIT": {
+            "current_level": 3,
+            "required": []
+        },
+        "REST SPACE": {
+            "current_level": 3,
+            "required": []
+        },
+        "WORKBENCH": {
+            "current_level": 3,
+            "required": []
+        },
+        "INTELLIGENCE CENTER": {
+            "current_level": 3,
+            "required": []
+        },
+        "SHOOTING RANGE": {
+            "current_level": 3,
+            "required": []
+        },
+        "LIBRARY": {
+            "current_level": 1,
+            "required": []
+        },
+        "SCAV CASE": {
+            "current_level": 0,
+            "required": [
+                "L2 INTELLIGENCE CENTER",
+                "3 Bronze lion figurine\u2606",
+                "6 Gold skull ring\u2605",
+                "8 Golden neck chain\u2605",
+                "4 Roler Submariner gold wrist watch\u2605",
+                "3 Bottle of Fierce Hatchling moonshine\u2605",
+                "1 Lucky Scav Junk box",
+                "1 Golden rooster figurine\u2606"
+            ]
+        },
+        "ILLUMINATION": {
+            "current_level": 3,
+            "required": []
+        },
+        "HALL OF FAME": {
+            "current_level": 3,
+            "required": []
+        },
+        "AIR FILTERING UNIT": {
+            "current_level": 1,
+            "required": []
+        },
+        "SOLAR POWER": {
+            "current_level": 0,
+            "required": [
+                "L3 GENERATOR",
+                "L3 WORKBENCH",
+                "25000 Euros",
+                "LL4 Beff Jezoes",
+                "10 Military cable\u2606",
+                "4 Phased array element\u2605",
+                "10 Military power filter\u2605",
+                "3 Working LCD\u2606",
+                "1 Advanced current converter\u2605"
+            ]
+        },
+        "BOOZE GENERATOR": {
+            "current_level": 1,
+            "required": []
+        },
+        "BITCOIN FARM": {
+            "current_level": 2,
+            "required": [
+                "L2 BITCOIN FARM",
+                "L1 SOLAR POWER",
+                "L3 WATER COLLECTOR",
+                "25 CPU fan",
+                "15 Silicone tube\u2606",
+                "10 Electric motor\u2606",
+                "10 Pressure gauge\u2606",
+                "1 6-STEN-140-M military battery\u2605"
+            ]
+        },
+        "CHRISTMAS TREE": {
+            "current_level": 0,
+            "required": [
+                "L1 GENERATOR",
+                "10000 Roubles",
+                "1 Christmas tree ornament (Violet)\u2605",
+                "1 Christmas tree ornament (Silver)\u2605",
+                "1 Christmas tree ornament (Red)\u2605"
+            ]
+        },
+        "BROKEN WALL": {
+            "current_level": 6,
+            "required": []
+        },
+        "GYM": {
+            "current_level": 1,
+            "required": []
+        },
+        "WEAPON WALL": {
+            "current_level": 2,
+            "required": [
+                "1 Electric drill\u2606",
+                "15 Energy-saving lamp",
+                "10 Metal spare parts",
+                "5 KEKTAPE duct tape\u2606",
+                "15 Bundle of wires",
+                "3 Shustrilo sealing foam",
+                "1 Tech manual",
+                "1 #FireKlean gun lube\u2605",
+                "LL4 Nerd",
+                "L3 SHOOTING RANGE",
+                "L3 WORKBENCH"
+            ]
+        },
+        "SECONDARY WEAPON WALL": {
+            "current_level": 2,
+            "required": [
+                "L3 WEAPON WALL"
+            ]
+        },
+        "GEAR RACK": {
+            "current_level": 2,
+            "required": [
+                "L2 HALL OF FAME",
+                "LL4 Raggy",
+                "1 Ratchet wrench\u2605",
+                "1 Set of files \"Master\"",
+                "15 Energy-saving lamp",
+                "5 KEKTAPE duct tape\u2606",
+                "15 Metal spare parts",
+                "10 Cordura polyamide fabric",
+                "1 Body armor repair kit\u2605",
+                "1200000 Roubles"
+            ]
+        },
+        "CULTIST CIRCLE": {
+            "current_level": 1,
+            "required": []
+        }
+    }
+}

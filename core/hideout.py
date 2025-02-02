@@ -1,7 +1,6 @@
 import json
 from collections import defaultdict
-from helpers import load_json, id_lookup
-from httprequest import get_hideout_areas, get_profile
+from utils.helpers import load_json, id_lookup, get_hideout_areas, get_profile
 
 
 def get_all_hideout(pid):

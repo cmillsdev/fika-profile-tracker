@@ -1,0 +1,2735 @@
+{
+    "overview": {
+        "basic": {
+            "exp_gained": 1377782,
+            "level": 33,
+            "reg_date": 1733218284,
+            "faction": "Usec",
+            "nickname": "b0rnToShit",
+            "total_insured_items": 594,
+            "ragfair_rating": "20.76",
+            "survivor_class": "Marauder",
+            "ingame_time": 135420,
+            "scav_karma": 0.2,
+            "car_extract_count": {
+                "Sandbox_VExit": 2,
+                "South V-Ex": 2,
+                "Dorms V-Ex": 6,
+                "PP Exfil": 1
+            }
+        },
+        "overall_accuracy": "27.94%",
+        "session_accuracy": "31.25%",
+        "task_items": [
+            "Package of graphics cards"
+        ],
+        "health": {
+            "health": {
+                "Chest": {
+                    "Health": {
+                        "Current": 85,
+                        "Maximum": 85
+                    }
+                },
+                "Head": {
+                    "Health": {
+                        "Current": 35,
+                        "Maximum": 35
+                    },
+                    "Effects": {}
+                },
+                "LeftArm": {
+                    "Health": {
+                        "Current": 60,
+                        "Maximum": 60
+                    }
+                },
+                "LeftLeg": {
+                    "Health": {
+                        "Current": 65,
+                        "Maximum": 65
+                    }
+                },
+                "RightArm": {
+                    "Health": {
+                        "Current": 60,
+                        "Maximum": 60
+                    }
+                },
+                "RightLeg": {
+                    "Health": {
+                        "Current": 65,
+                        "Maximum": 65
+                    }
+                },
+                "Stomach": {
+                    "Health": {
+                        "Current": 70,
+                        "Maximum": 70
+                    },
+                    "Effects": {}
+                }
+            },
+            "energy": {
+                "Current": 37,
+                "Maximum": 100
+            },
+            "hydration": {
+                "Current": 45,
+                "Maximum": 100
+            }
+        },
+        "last_raid": {
+            "last_death": {
+                "killer": {
+                    "name": "Denny_netTTV",
+                    "side": "Usec",
+                    "BodyPart": "LeftCalf",
+                    "weapon": ""
+                },
+                "cause": {
+                    "damage_type": "Bullet",
+                    "weapon": "\u2606MP5K-N"
+                }
+            },
+            "victims": [
+                {
+                    "time": "00:09:54.5340000",
+                    "name": "ackbaer",
+                    "side": "Usec",
+                    "level": 13,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 43.4851646
+                },
+                {
+                    "time": "00:10:04.2490000",
+                    "name": "Ferjl",
+                    "side": "Usec",
+                    "level": 18,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 36.1641655
+                },
+                {
+                    "time": "00:10:23.5910000",
+                    "name": "T1Ts",
+                    "side": "Usec",
+                    "level": 12,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 11.9108353
+                },
+                {
+                    "time": "00:12:54.8560000",
+                    "name": "\u041b\u0451\u0445\u0430 \u041a\u043b\u0435\u0439",
+                    "side": "Savage",
+                    "level": 33,
+                    "body_part": "Stomach",
+                    "weapon": "\u2605M4A1",
+                    "distance": 11.2062016
+                },
+                {
+                    "time": "00:15:00.7750000",
+                    "name": "kioShiMa_ff-TTV",
+                    "side": "Bear",
+                    "level": 12,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 49.2101364
+                },
+                {
+                    "time": "00:15:04.3140000",
+                    "name": "Bloodthirst",
+                    "side": "Bear",
+                    "level": 13,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 31.0849533
+                },
+                {
+                    "time": "00:15:12.7060000",
+                    "name": "Empty_KD",
+                    "side": "Bear",
+                    "level": 18,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 78.10402
+                },
+                {
+                    "time": "00:18:07.5740000",
+                    "name": "DrBoobz",
+                    "side": "Bear",
+                    "level": 19,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 40.1872177
+                },
+                {
+                    "time": "00:19:04.2800000",
+                    "name": "\u0421\u0432\u044f\u0442\u043e\u0441\u043b\u0430\u0432 \u0411\u0443\u0431\u0435\u043b\u044d\u0434\u044b\u0441",
+                    "side": "Savage",
+                    "level": 53,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 33.5770149
+                },
+                {
+                    "time": "00:20:36.4580000",
+                    "name": "USA_Aaron",
+                    "side": "Usec",
+                    "level": 19,
+                    "body_part": "Chest",
+                    "weapon": "\u2605M4A1",
+                    "distance": 48.0037422
+                },
+                {
+                    "time": "00:21:25.8520000",
+                    "name": "\u041f\u043e\u0440\u0444\u0438\u0440\u0438\u0439 \u0428\u043f\u0430\u043b\u0430",
+                    "side": "Savage",
+                    "level": 49,
+                    "body_part": "Head",
+                    "weapon": "\u2605M4A1",
+                    "distance": 29.3489132
+                }
+            ],
+            "damage_history": []
+        }
+    },
+    "stats": {
+        "cheevos": {
+            "First Time Always Hurts": "Survive a raid without the Run-through status for the first time",
+            "Welcome to Tarkov": "Die in Tarkov for the first time",
+            "Killer7": "Eliminate 7 PMC operatives in a single raid while playing as a PMC",
+            "Lost": "Locate the crashed plane on Woods while playing as a PMC",
+            "That's What She Said": "Search the office in Factory while playing as a PMC",
+            "BEAR With Me": "Eliminate 50 BEAR PMC operators",
+            "Call Your Brother": "Eliminate Tagilla for the first time while playing as a PMC",
+            "U-SUCC": "Eliminate 50 USEC PMC operators",
+            "Time To Clean My Karma": "Eliminate Partisan for the first time while playing as a PMC",
+            "Sanatorium Orderly": "Eliminate Sanitar for the first time while playing as a PMC",
+            "Art of Style": "Eliminate Killa for the first time while playing as a PMC",
+            "Justice": "Eliminate Kollontay for the first time while playing as a PMC",
+            "Ready for Anything": "Survive 10 consecutive raids while playing as a PMC",
+            "Deal to Make": "Eliminate Reshala for the first time while playing as a PMC",
+            "Silence of the Sawmill": "Eliminate Shturman for the first time while playing as a PMC",
+            "Grouse Hunting": "Eliminate Glukhar for the first time while playing as a PMC"
+        },
+        "inv_len": 3497,
+        "encyc_len": "228/275",
+        "misc": {
+            "exp_gained": 1377782,
+            "level": 33,
+            "reg_date": 1733218284,
+            "faction": "Usec",
+            "nickname": "b0rnToShit",
+            "total_insured_items": 594,
+            "ragfair_rating": "20.76",
+            "survivor_class": "Marauder",
+            "ingame_time": 135420,
+            "scav_karma": 0.2,
+            "car_extract_count": {
+                "Sandbox_VExit": 2,
+                "South V-Ex": 2,
+                "Dorms V-Ex": 6,
+                "PP Exfil": 1
+            }
+        },
+        "overall_counters": {
+            "|TriggerVisited|Sandbox_2_AGS_exploration": 4,
+            "|Triggers": 160,
+            "|TriggerVisited|Sandbox_2_Kord_exploration": 23,
+            "|TriggerVisited|Sandbox_5_DeadGroup_exploration": 16,
+            "|TriggerVisited|Sandbox_5_Laborant_exploration": 3,
+            "|TriggerVisited|Sandbox_1_MedicalArea_exploration": 10,
+            "|CurrentWinStreak|PMC": 4,
+            "|Sessions|PMC": 139,
+            "|ExitStatus|Survived|PMC": 73,
+            "|LifeTime|PMC": 142195,
+            "|Exp|ExpHeal": 23204,
+            "|Exp|ExpExitStatus": 21900,
+            "|Kills": 843,
+            "|Deaths": 66,
+            "|KilledLevel0010": 96,
+            "|KilledLevel1030": 156,
+            "|KilledLevel3050": 65,
+            "|KilledLevel5070": 2,
+            "|KilledLevel7099": 0,
+            "|KilledLevel100": 0,
+            "|KilledBear": 163,
+            "|KilledUsec": 156,
+            "|KilledSavage": 471,
+            "|KilledPmc": 319,
+            "|KilledBoss": 53,
+            "|KilledWithKnife": 1,
+            "|KilledWithPistol": 39,
+            "|KilledWithSmg": 34,
+            "|KilledWithShotgun": 23,
+            "|KilledWithAssaultRifle": 516,
+            "|KilledWithAssaultCarbine": 6,
+            "|KilledWithGrenadeLauncher": 0,
+            "|KilledWithMachineGun": 21,
+            "|KilledWithMarksmanRifle": 153,
+            "|KilledWithSniperRifle": 23,
+            "|KilledWithSpecialWeapon": 0,
+            "|KilledWithThrowWeapon": 24,
+            "|KilledWithTripwires": 0,
+            "|BodyPartDamage|HEAD": 301930,
+            "|BodyPartDamage|THORAX": 855952,
+            "|BodyPartDamage|STOMACH": 864709,
+            "|BodyPartDamage|LEFT ARM": 636492,
+            "|BodyPartDamage|RIGHT ARM": 566245,
+            "|BodyPartDamage|LeftLeg": 610490,
+            "|BodyPartDamage|RightLeg": 631619,
+            "|HeadShots": 522,
+            "|Bloodloss": 530614,
+            "|BodyPartsDestroyed": 351,
+            "|Heal": 1786446,
+            "|Fractures": 32,
+            "|Contusions": 2,
+            "|Dehydrations": 7,
+            "|Exhaustions": 2,
+            "|Medicines": 22,
+            "|UsedFoods": 53,
+            "|UsedDrinks": 97,
+            "|Pedometer": 263235,
+            "|BodiesLooted": 682,
+            "|SafeLooted": 35,
+            "|LockableContainers": 0,
+            "|Weapons": 123,
+            "|Ammunitions": 4718,
+            "|Mods": 1470,
+            "|ThrowWeapons": 312,
+            "|SpecialItems": 0,
+            "|FoodDrinks": 398,
+            "|Keys": 486,
+            "|BartItems": 776,
+            "|MobContainers": 682,
+            "|Equipments": 6336,
+            "|CauseBodyDamage": 19191571,
+            "|CauseArmorDamage": 5799257,
+            "|HitCount": 5538,
+            "|LongShots": 35,
+            "|LongestKillShot": 28673,
+            "|LongestKillShotOnBot": 28627,
+            "|LongestKillStreak": 23,
+            "|ExpKill": 281118,
+            "|ExpLooting": 312401,
+            "|Money|RUB": 1228080,
+            "|Money|EUR": 1423,
+            "|Money|USD": 1149,
+            "|AmmoUsed": 11153,
+            "|AmmoReached": 3116,
+            "|TriggerVisited": 0,
+            "|CombatDamage": 4221702,
+            "|TriggerVisited|Sandbox_5_Office_exploration": 5,
+            "|LongestWinStreak|PMC": 10,
+            "|ExitStatus|Killed|PMC": 66,
+            "|TriggerVisited|achiv_plane": 3,
+            "|TriggerVisited|huntsman_001": 2,
+            "|LongestShot": 28730,
+            "|TriggerVisited|nf2024_2_9": 6,
+            "|TriggerVisited|achiv_office": 16,
+            "|TriggerVisited|office01": 18,
+            "|TriggerVisited|roof02": 4,
+            "|TriggerVisited|pumproom": 20,
+            "|TriggerVisited|nf2024_2_8": 21,
+            "|TriggerVisited|showers": 10,
+            "|TriggerVisited|nf2024_2_1": 7,
+            "|TriggerVisited|place_pacemaker_SCOUT_03": 17,
+            "|TriggerVisited|exit3zone": 19,
+            "|TriggerVisited|nf2024_2_12": 18,
+            "|TriggerVisited|nf2024_2_6": 9,
+            "|TriggerVisited|nf2024_2_5": 5,
+            "|TriggerVisited|nf2024_2_7": 8,
+            "|TriggerVisited|dungeon07": 3,
+            "|TriggerVisited|Sandbox_3_Vino_exploration": 52,
+            "|TriggerVisited|prapor_27_1": 21,
+            "|TriggerVisited|pr_scout_base": 12,
+            "|TriggerVisited|quest_zone_keeper5": 7,
+            "|TriggerVisited|Woods_mine_quest": 6,
+            "|TriggerVisited|pr_scout_col": 2,
+            "|TriggerVisited|NosQuests_5_Flaer_off": 1,
+            "|TriggerVisited|dead_posylni": 2,
+            "|TriggerVisited|vremyan_case": 4,
+            "|TriggerVisited|huntsman_020": 25,
+            "|TriggerVisited|gazel": 3,
+            "|TriggerVisited|Check_mine_zone_custom": 48,
+            "|TriggerVisited|q_ny_kill_christmas_guys_cust": 52,
+            "|TriggerVisited|quest_terminal_final_zone": 21,
+            "|TriggerVisited|q_ny_find_christmas_tree_cust": 17,
+            "|TriggerVisited|nf2024_2_11": 8,
+            "|TriggerVisited|dungeon05": 7,
+            "|TriggerVisited|caseextr": 4,
+            "|TriggerVisited|catwalk06": 2,
+            "|TriggerVisited|scorpion_2fl_dorms_213": 1,
+            "|TriggerVisited|scorpion_3fl_dorms_310": 9,
+            "|TriggerVisited|scorpion_3fl_dorms_206": 15,
+            "|TriggerVisited|ref_overseer_room_find": 43,
+            "|TriggerVisited|scorpion_3fl_dorms_212": 8,
+            "|TriggerVisited|scorpion_3fl_dorms_115": 5,
+            "|TriggerVisited|Prospect_mira": 7,
+            "|TriggerVisited|Sandbox_mine_quest": 1,
+            "|TriggerVisited|room114": 5,
+            "|TriggerVisited|vaz_feld": 6,
+            "|TriggerVisited|place_SADOVOD_03": 20,
+            "|TriggerVisited|exit1zone": 1,
+            "|TriggerVisited|prapor_27_2": 3,
+            "|TriggerVisited|scorpion_event_woods_useccamp": 4,
+            "|TriggerVisited|scorpion_event_woods_useccamp2": 11,
+            "|TriggerVisited|catwalk02": 4,
+            "|TriggerVisited|place_pacemaker_SCOUT_04": 3,
+            "|TriggerVisited|marafon_kill_village_shoreline": 7,
+            "|TriggerVisited|ter_013_area_1": 3,
+            "|TriggerVisited|ter_013_area_4": 2,
+            "|TriggerVisited|prapor_27_3": 13,
+            "|TriggerVisited|place_peacemaker_005_N1": 3,
+            "|TriggerVisited|q_ny_kill_christmas_guys_shorl": 6,
+            "|TriggerVisited|q_ny_find_christmas_tree_shorl": 1,
+            "|TriggerVisited|ter_013_area_3": 18,
+            "|TriggerVisited|place_peacemaker_008_2_N1": 6,
+            "|TriggerVisited|ter_023_area_1_1": 4,
+            "|TriggerVisited|tadeush_tunguska_area_check_8": 2,
+            "|TriggerVisited|tadeush_bmp2_area_check_11": 4,
+            "|TriggerVisited|place_meh_sanitar_room": 1,
+            "|TriggerVisited|q14_10_kill": 8,
+            "|TriggerVisited|q14_10_point_area": 7,
+            "|TriggerVisited|place_peacemaker_004_N2": 2,
+            "|TriggerVisited|place_pacemaker_SCOUT_02": 3,
+            "|TriggerVisited|nf2024_2_4": 1,
+            "|TriggerVisited|nf2024_2_10": 3,
+            "|TriggerVisited|nf2024_2_2": 6,
+            "|TriggerVisited|dungeon03": 2,
+            "|TriggerVisited|place_pacemaker_SCOUT_01": 1,
+            "|TriggerVisited|secretpassage": 1,
+            "|TriggerVisited|dungeon02": 4,
+            "|TriggerVisited|Check_mine_zone_factory": 4,
+            "|TriggerVisited|ter_017_area_1": 2,
+            "|TriggerVisited|locked_office": 4,
+            "|TriggerVisited|catwalk04": 9,
+            "|TriggerVisited|scorpion_factory_pumping_visit": 4,
+            "|TriggerVisited|place_merch_022_7": 2,
+            "|TriggerVisited|place_merch_022_1": 11,
+            "|TriggerVisited|place_merch_022_3": 15,
+            "|TriggerVisited|place_merch_022_2": 20,
+            "|TriggerVisited|scorpion_interchange_techlight_visit": 1,
+            "|TriggerVisited|nf2024_3_exit": 1,
+            "|TriggerVisited|eger_barracks_area_2": 11,
+            "|TriggerVisited|prapor_025_area_3": 7,
+            "|TriggerVisited|prapor_024_area_2": 23,
+            "|TriggerVisited|prapor_hq_area_check_1": 29,
+            "|TriggerVisited|prapor_025_area_2": 7,
+            "|TriggerVisited|prapor_025_area_5": 10,
+            "|TriggerVisited|mechanik_exit_area_1": 3,
+            "|TriggerVisited|q_ny_kill_christmas_guys_rez": 11,
+            "|TriggerVisited|q_ny_find_christmas_tree_rez": 2,
+            "|TriggerVisited|tadeush_tunguska_area_check_7": 6,
+            "|TriggerVisited|tadeush_tunguska_area_check_6": 4,
+            "|TriggerVisited|eger_barracks_area_1": 8,
+            "|TriggerVisited|prapor_024_area_1": 1,
+            "|TriggerVisited|scorpion_event_woods_scav": 1,
+            "|TriggerVisited|scorpion_event_woods_radio": 2,
+            "|TriggerVisited|dungeon01": 4,
+            "|TriggerVisited|exit0zone": 1,
+            "|TriggerVisited|room206_water": 2,
+            "|TriggerVisited|huntsman_024_3": 4,
+            "|TriggerVisited|place_peacemaker_007_1_N1": 1,
+            "|TriggerVisited|place_SIGNAL_01_2": 3,
+            "|TriggerVisited|place_peacemaker_003_N3": 1,
+            "|TriggerVisited|place_peacemaker_004_N1": 3,
+            "|TriggerVisited|arena_champ_room": 5,
+            "|TriggerVisited|ref_overseer_room_inside": 4,
+            "|TriggerVisited|arena_champ_corpse": 7,
+            "|TriggerVisited|room214": 7,
+            "|TriggerVisited|place_merch_022_4": 5,
+            "|TriggerVisited|place_merch_022_5": 4,
+            "|TriggerVisited|scorpion_interchange_power": 7,
+            "|TriggerVisited|prapor_025_area_4": 4,
+            "|TriggerVisited|prapor_025_area_1": 5,
+            "|TriggerVisited|tadeush_stryker_area_check_4": 1,
+            "|TriggerVisited|catwalk03": 4,
+            "|TriggerVisited|nf2024_2_3": 3,
+            "|TriggerVisited|place_SADOVOD_01_1": 3,
+            "|TriggerVisited|dungeon06": 2,
+            "|TriggerVisited|quest_zone_keeper6_kiba_kill": 11,
+            "|TriggerVisited|place_merch_022_6": 4,
+            "|TriggerVisited|place_SALE_03_TREND": 1,
+            "|TriggerVisited|place_SALE_03_DINO": 1,
+            "|TriggerVisited|place_SALE_03_TOPBRAND": 1,
+            "|TriggerVisited|place_SALE_03_AVOKADO": 2,
+            "|TriggerVisited|place_SALE_03_KOSTIN": 1,
+            "|TriggerVisited|quest_terminal_find_zone": 1,
+            "|TriggerVisited|ter_015_area_1": 1,
+            "|TriggerVisited|ter_013_area_2": 3,
+            "|TriggerVisited|ter_023_area_3_1": 2,
+            "|TriggerVisited|scorpion_shoreline_pier_visit": 1,
+            "|TriggerVisited|q14_11_jeep": 1,
+            "|TriggerVisited|place_peacemaker_005_N2": 2,
+            "|TriggerVisited|place_peacemaker_001": 1,
+            "|TriggerVisited|place_peacemaker_003_N2": 2,
+            "|TriggerVisited|bomj_place": 3,
+            "|TriggerVisited|Halloween_lab_section1": 1,
+            "|TriggerVisited|peace_027_area": 1,
+            "|TriggerVisited|Transits_streets": 1,
+            "|TriggerVisited|q_ny_kill_christmas_guys_int": 3,
+            "|TriggerVisited|place_SADOVOD_01_2": 2,
+            "|TriggerVisited|exit2zone": 2,
+            "|TriggerVisited|tadeush_bmp2_area_check_12": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_3": 1,
+            "|TriggerVisited|baraholshik_dejurniy_area_2": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_1": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_5": 1,
+            "|TriggerVisited|baraholshik_arsenal_area_4": 1
+        },
+        "session_counters": {
+            "|Exp|ExpLooting|ExpItemLooting": 2032,
+            "|BartItems": 6,
+            "|Equipments": 46,
+            "|AmmoUsed": 128,
+            "|CauseBodyDamage": 243255,
+            "|CauseArmorDamage": 25715,
+            "|HitCount": 70,
+            "|AmmoReached": 40,
+            "|Kills|PMC": 11,
+            "|Kills": 11,
+            "|KilledLevel1030": 8,
+            "|KilledUsec": 4,
+            "|KilledPmc": 8,
+            "|Exp|ExpKill|ExpKillBase": 1205,
+            "|KilledWithAssaultRifle": 11,
+            "|KilledWithTemplate|Colt M4A1 5.56x45 assault rifle\u2605": 11,
+            "|LongestKillShot": 7810,
+            "|HeadShots": 5,
+            "|Exp|ExpKill|ExpKillBodyPartBonus": 672,
+            "|Exp|ExpKill|ExpKillStreakBonus": 629,
+            "|Exp|ExpDamage": 12,
+            "|BodiesLooted": 5,
+            "|MobContainers": 5,
+            "|ThrowWeapons": 1,
+            "|FoodDrinks": 2,
+            "|KilledSavage": 3,
+            "|KilledCasualSavage": 3,
+            "|KilledBear": 4,
+            "|BodyPartDamage|STOMACH": 1732,
+            "|CombatDamage": 10449,
+            "|BodyPartDamage|THORAX": 315,
+            "|BodyPartDamage|LEFT ARM": 1774,
+            "|BodyPartDamage|HEAD": 390,
+            "|Keys": 1,
+            "|BodyPartDamage|RightLeg": 3994,
+            "|BodyPartDamage|LeftLeg": 3194,
+            "|Bloodloss": 1120,
+            "|BodyPartDamage|RIGHT ARM": 158,
+            "|Heal": 11568,
+            "|Exp|ExpHeal": 140,
+            "|FenceStanding|ExitStanding": 2000,
+            "|Exp|ExpExitStatus": 300,
+            "|Pedometer": 1776,
+            "|LongestKillStreak": 11,
+            "|ExpKill": 2506,
+            "|ExpLooting": 2032,
+            "looted_items": [
+                "1x 7.62x39mm SP (68/20)",
+                "1x MPX 9x19 20-round magazine",
+                "2x Apollo Soyuz cigarettes",
+                "1x RB-MP11 key",
+                "2x Graphics card\u2605",
+                "1x Stechkin APS 9x18PM machine pistol",
+                "1x AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black)",
+                "1x AK-74M CAA AKTS AK74 buffer tube",
+                "1x Gemtech SFN-57 5.7x28 sound suppressor\u2606",
+                "1x 12/70 lead slug (167/15)",
+                "1x USEC baseball cap (Black)",
+                "1x AK CNC Warrior 5.56x45 muzzle device adapter\u2606",
+                "1x USB Adapter\u2606",
+                "1x RayBench Hipster Reserve sunglasses",
+                "1x 12/70 RIP (265/2)",
+                "1x Pack of Russian Army pineapple juice",
+                "1x Kolpak-1S face shield",
+                "1x HK 416A5 Midwest Industries 9 inch M-LOK handguard\u2606",
+                "1x NPZ USP-1 Tyulpan 4x scope\u2606",
+                "5x Default Inventory",
+                "1x HK MP5 9x19 submachine gun (Navy 3 Round Burst)\u2605",
+                "4x HK MP5 9x19 20-round magazine",
+                "25x 9x19mm Green Tracer (58/14)",
+                "1x HK MP5 9x19 upper receiver",
+                "1x HK MP5 Wide Tropical polymer handguard",
+                "1x HK MP5 Drum rear sight",
+                "1x HK MP5 A3 old model stock",
+                "1x HK MP5 3-lug thread protector",
+                "1x HK MP5 cocking handle",
+                "1x United Cutlery M48 Tactical Kukri\u2605",
+                "1x BlackHawk! Commando chest harness (Desert Tan)",
+                "5x Secure container Boss",
+                "5x Surv12 field surgical kit\u2606",
+                "50x AFAK tactical individual first aid kit\u2605",
+                "2x NPP KlASS Kora-Kulon body armor (Black)",
+                "2x Armor steel insert\u2606",
+                "2x Armor steel insert\u2606",
+                "1x ",
+                "3x Rye croutons\u2606",
+                "4x Propital regenerative stimulant injector\u2605",
+                "2x F-1 hand grenade",
+                "3x Peltor ComTac II headset (OD Green)",
+                "2x Dogtag USEC\u2605",
+                "1x B&T MP9 9x19 submachine gun\u2606",
+                "4x MP9 9x19 15-round magazine",
+                "24x 9x19mm Pst gzh (54/20)",
+                "1x MP9 9x19 sound suppressor mount\u2606",
+                "1x MP9 9x19 sound suppressor",
+                "1x SureFire XC1 tactical flashlight\u2606",
+                "1x MP9 stock",
+                "1x MP9 9x19 upper receiver",
+                "1x Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights",
+                "1x Aimpoint Micro T-1 reflex sight\u2606",
+                "1x MP9 rear sight",
+                "1x MP9 side rail",
+                "1x MP9 charging handle",
+                "1x MP9 bottom rail\u2605",
+                "1x Bars A-2607 Damascus knife",
+                "1x Galvion Caiman Hybrid helmet (Grey)\u2605",
+                "1x Hybrid composite materials\u2606",
+                "1x Hybrid composite materials\u2606",
+                "1x 6B5-15 Zh-86 Uley armored rig (Flora)",
+                "1x 13 mm aramid insert and ceramic plates\u2606",
+                "1x 13 mm aramid insert and ceramic plates\u2606",
+                "1x Aramid insert",
+                "1x 13 mm aramid insert and ceramic plates",
+                "2x Car first aid kit",
+                "3x LBT-8005A Day Pack backpack (MultiCam Black)",
+                "4x Pockets",
+                "2x Can of green peas\u2606",
+                "1x OPSMEN Earmor M32 headset",
+                "2x Dogtag USEC\u2605",
+                "1x Alyonka chocolate bar\u2606",
+                "1x Gunpowder \"Hawk\"\u2606",
+                "1x Kalashnikov AK-101 5.56x45 assault rifle",
+                "1x AK UltiMAK M1-B gas tube & handguard",
+                "1x AK Molot bakelite pistol grip",
+                "1x AK AKademia Bastion dust cover",
+                "1x VOMZ Pilad P1x42 Weaver reflex sight",
+                "1x AK-74M polymer stock",
+                "3x AK-101 5.56x45 6L29 30-round magazine",
+                "23x 5.56x45mm FMJ (57/23)",
+                "2x AK Zenit RP-1 charging handle",
+                "1x PB 9x18PM silenced pistol",
+                "4x PM 9x18PM 90-93 8-round magazine",
+                "22x 9x18mm PM PRS gs (58/6)",
+                "1x PB bakelite side grips\u2605",
+                "1x Kiba Arms Tactical Tomahawk\u2606",
+                "1x Balaclava",
+                "2x UMTBS 6Sh112 Scout-Sniper chest rig (Digital Flora)",
+                "1x 9x18mm PM BZhT gzh (53/18)",
+                "1x 9x18mm PM PPT gzh (59/8)",
+                "1x 5.56x45mm M856 (60/18)",
+                "1x 9x18mm PM Pst gzh (50/12)",
+                "1x Salewa first aid kit\u2606",
+                "1x Aseptic bandage",
+                "4x Dogtag BEAR\u2605",
+                "1x SAG AK-545 5.45x39 carbine",
+                "1x AK-545 Mk. 2.1 gas tube",
+                "1x AK-545 Mk.3 handguard",
+                "1x Magpul M-LOK Cantilever Mount",
+                "1x AK-545 railed dust cover\u2605",
+                "1x AK-545 rear sight",
+                "1x Leapers UTG reflex sight\u2606",
+                "1x AK-74 bakelite pistol grip",
+                "1x AK-545 buffer tube\u2606",
+                "1x AR-15 Magpul CTR Carbine stock (Black)\u2606",
+                "4x AK-74 5.45x39 6L20 30-round magazine",
+                "23x 5.45x39mm PS gs (56/28)",
+                "2x Bars A-2607 95Kh18 knife",
+                "1x Tac-Kek FAST MT helmet (Replica)",
+                "1x Layer of plastic",
+                "1x Layer of plastic",
+                "1x 5.45x39mm FMJ (55/24)",
+                "1x 5.45x39mm BT gs (54/37)\u2605",
+                "1x Peltor Tactical Sport headset",
+                "2x Shared bedroom marked key\u2605",
+                "1x Fleece fabric",
+                "2x NFM THOR Concealable Reinforced Vest body armor",
+                "2x AR500 Legacy Plate ballistic plate",
+                "2x SSAPI level III+ ballistic plate (Side)\u2606",
+                "2x Aramid insert",
+                "2x Aramid insert",
+                "2x Aramid insert",
+                "2x Aramid insert",
+                "1x GSSh-01 active headset",
+                "2x Dogtag BEAR\u2605",
+                "1x SR-2M Veresk 9x21 submachine gun\u2606",
+                "4x SR-2M 9x21 20-round magazine",
+                "23x 9x21mm P gzh (65/18)",
+                "1x SR-2M 9x21 hand stopper\u2606",
+                "1x SR-2M top-folding stock",
+                "1x SR-2M dust cover",
+                "1x SR-2M Zenit B-17 mount\u2606",
+                "1x SR-2M polymer handguard (Black)",
+                "1x SR-2M pistol grip (Plum)",
+                "1x Ghost balaclava\u2606",
+                "1x UNTAR helmet",
+                "1x Layers of aramid fiber",
+                "1x Layers of aramid fiber",
+                "1x Layers of aramid fiber",
+                "1x Azimut SS \"Khamelion\" chest harness (Olive)",
+                "1x 9x21mm PS gzh (59/22)\u2606",
+                "1x Direct Action Dragon Egg Mark II backpack (Black)",
+                "1x SPRTN Omega ballistic plate",
+                "1x AI-2 medkit",
+                "1x Augmentin antibiotic pills\u2605"
+            ]
+        },
+        "skills_common": {
+            "Endurance": "2694.43",
+            "Strength": "4815.54",
+            "Vitality": "2046.75",
+            "Health": "5100.00",
+            "StressResistance": "2310.04",
+            "Metabolism": "5100.00",
+            "Immunity": "649.44",
+            "Perception": "5100.00",
+            "Intellect": "107.01",
+            "Attention": "5100.00",
+            "Charisma": "5100.00",
+            "Pistol": "421.97",
+            "Revolver": "6.83",
+            "SMG": "331.01",
+            "Assault": "1405.68",
+            "Shotgun": "415.74",
+            "Sniper": "624.61",
+            "LMG": "209.36",
+            "HMG": "0.00",
+            "Launcher": "0.00",
+            "AttachedLauncher": "0.00",
+            "Throwing": "656.55",
+            "Melee": "13.65",
+            "DMR": "740.91",
+            "AimDrills": "1654.64",
+            "TroubleShooting": "226.37",
+            "Surgery": "1588.75",
+            "CovertMovement": "48.04",
+            "Search": "5100.00",
+            "MagDrills": "762.61",
+            "LightVests": "398.53",
+            "HeavyVests": "380.33",
+            "WeaponTreatment": "300.00",
+            "Crafting": "0.00",
+            "HideoutManagement": "1020.00"
+        },
+        "skills_mastering": {
+            "SR25": "180.00",
+            "DEAGLE": "20.25",
+            "MDR": "302.75",
+            "STM-9": "24.50",
+            "VPO101": "3.50",
+            "MP9": "115.50",
+            "M4": "3743.25",
+            "P226": "14.00",
+            "Mk17": "360.50",
+            "M3S90": "0.00",
+            "M590": "66.50",
+            "m1911": "43.75",
+            "MP153": "542.50",
+            "GLOCK17": "243.25",
+            "MP5": "35.00",
+            "mp7": "98.00",
+            "AK74": "607.25",
+            "r700": "22.75",
+            "SV98": "5.25",
+            "G28": "0.00",
+            "M870": "36.75",
+            "UZI-PRO": "50.75",
+            "SKS": "45.50",
+            "M1A": "449.75",
+            "MCX": "274.75",
+            "RFB": "82.25",
+            "RPD": "33.25",
+            "57": "10.50",
+            "PP19": "8.75",
+            "mosin": "92.75",
+            "R11SRASS": "31.50",
+            "M60": "206.50",
+            "AKSU": "75.25",
+            "AKM": "318.50",
+            "PL15": "10.50",
+            "SPEAR": "154.00",
+            "VSS": "602.00",
+            "USP": "5.25",
+            "VECTOR": "192.50",
+            "UMP45": "0.00",
+            "P90": "22.75",
+            "PPSH": "10.50",
+            "MP133": "273.00",
+            "MPX": "28.00",
+            "TT": "0.00",
+            "RHINO": "5.25",
+            "SVD": "29.75",
+            "ASH12": "36.75"
+        },
+        "bonuses": [
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "StashSize",
+                "value": 0
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 1
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "StashRows",
+                "value": 4
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 4
+            },
+            {
+                "type": "DebuffEndDelay",
+                "value": -10
+            },
+            {
+                "type": "UnlockWeaponModification",
+                "value": 1
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "UnlockWeaponRepair",
+                "value": 1
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 2
+            },
+            {
+                "type": "UnlockArmorRepair",
+                "value": 1
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 10
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 6
+            },
+            {
+                "type": "TextBonus",
+                "value": 0
+            },
+            {
+                "type": "HydrationRegeneration",
+                "value": 10
+            },
+            {
+                "type": "RepairArmorBonus",
+                "value": 3
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 8
+            },
+            {
+                "type": "ScavCooldownTimer",
+                "value": -15
+            },
+            {
+                "type": "QuestMoneyReward",
+                "value": 5
+            },
+            {
+                "type": "AdditionalSlots",
+                "value": 2
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 5
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": 5
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": -5
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": -5
+            },
+            {
+                "type": "ExperienceRate",
+                "value": -3
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": -3
+            },
+            {
+                "type": "FuelConsumption",
+                "value": -20
+            },
+            {
+                "type": "EnergyRegeneration",
+                "value": 20
+            },
+            {
+                "type": "HealthRegeneration",
+                "value": 20
+            },
+            {
+                "type": "ExperienceRate",
+                "value": 12
+            },
+            {
+                "type": "SkillGroupLevelingBoost",
+                "value": 12
+            }
+        ],
+        "mini_quest_info": {
+            "active": 53,
+            "finished": 101
+        },
+        "last_death": {
+            "killer": {
+                "name": "Denny_netTTV",
+                "side": "Usec",
+                "BodyPart": "LeftCalf",
+                "weapon": ""
+            },
+            "cause": {
+                "damage_type": "Bullet",
+                "weapon": "\u2606MP5K-N"
+            }
+        },
+        "victims": [
+            {
+                "time": "00:09:54.5340000",
+                "name": "ackbaer",
+                "side": "Usec",
+                "level": 13,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 43.4851646
+            },
+            {
+                "time": "00:10:04.2490000",
+                "name": "Ferjl",
+                "side": "Usec",
+                "level": 18,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 36.1641655
+            },
+            {
+                "time": "00:10:23.5910000",
+                "name": "T1Ts",
+                "side": "Usec",
+                "level": 12,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 11.9108353
+            },
+            {
+                "time": "00:12:54.8560000",
+                "name": "\u041b\u0451\u0445\u0430 \u041a\u043b\u0435\u0439",
+                "side": "Savage",
+                "level": 33,
+                "body_part": "Stomach",
+                "weapon": "\u2605M4A1",
+                "distance": 11.2062016
+            },
+            {
+                "time": "00:15:00.7750000",
+                "name": "kioShiMa_ff-TTV",
+                "side": "Bear",
+                "level": 12,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 49.2101364
+            },
+            {
+                "time": "00:15:04.3140000",
+                "name": "Bloodthirst",
+                "side": "Bear",
+                "level": 13,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 31.0849533
+            },
+            {
+                "time": "00:15:12.7060000",
+                "name": "Empty_KD",
+                "side": "Bear",
+                "level": 18,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 78.10402
+            },
+            {
+                "time": "00:18:07.5740000",
+                "name": "DrBoobz",
+                "side": "Bear",
+                "level": 19,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 40.1872177
+            },
+            {
+                "time": "00:19:04.2800000",
+                "name": "\u0421\u0432\u044f\u0442\u043e\u0441\u043b\u0430\u0432 \u0411\u0443\u0431\u0435\u043b\u044d\u0434\u044b\u0441",
+                "side": "Savage",
+                "level": 53,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 33.5770149
+            },
+            {
+                "time": "00:20:36.4580000",
+                "name": "USA_Aaron",
+                "side": "Usec",
+                "level": 19,
+                "body_part": "Chest",
+                "weapon": "\u2605M4A1",
+                "distance": 48.0037422
+            },
+            {
+                "time": "00:21:25.8520000",
+                "name": "\u041f\u043e\u0440\u0444\u0438\u0440\u0438\u0439 \u0428\u043f\u0430\u043b\u0430",
+                "side": "Savage",
+                "level": 49,
+                "body_part": "Head",
+                "weapon": "\u2605M4A1",
+                "distance": 29.3489132
+            }
+        ],
+        "traders": {
+            "Daddy Prap": {
+                "standing": 0.6,
+                "sales_sum": 12943638
+            },
+            "Mommy": {
+                "standing": 0.54,
+                "sales_sum": 8471936
+            },
+            "Shady Mofo": {
+                "standing": 1.88,
+                "sales_sum": 31937
+            },
+            "Mox": {
+                "standing": 0.87,
+                "sales_sum": 1729266
+            },
+            "Beff Jezoes": {
+                "standing": 0.29,
+                "sales_sum": 27242
+            },
+            "Nerd": {
+                "standing": 0.33,
+                "sales_sum": 1829366
+            },
+            "Raggy": {
+                "standing": 0.38,
+                "sales_sum": 1648514
+            },
+            "Unimpressed": {
+                "standing": 0.39,
+                "sales_sum": 2014496
+            },
+            "Lightkeeper": {
+                "standing": 0.2,
+                "sales_sum": 0
+            },
+            "BTR Driver": {
+                "standing": 0.2,
+                "sales_sum": 0
+            },
+            "Shreddy": {
+                "standing": 0.2,
+                "sales_sum": 22500
+            },
+            "Pagliacci": {
+                "standing": 0.32,
+                "sales_sum": 6823723
+            },
+            "Jude Cortez": {
+                "standing": 0.78,
+                "sales_sum": 1625996
+            }
+        },
+        "hideout": {
+            "STASH": {
+                "current_level": 4,
+                "required": []
+            },
+            "VENTS": {
+                "current_level": 2,
+                "required": [
+                    "L2 GENERATOR",
+                    "4 Electric motor\u2606",
+                    "14 Bundle of wires",
+                    "5 Printed circuit board",
+                    "4 Car battery",
+                    "L2 Strength",
+                    "L2 VENTS",
+                    "5 Metal spare parts"
+                ]
+            },
+            "SECURITY": {
+                "current_level": 2,
+                "required": [
+                    "L3 ILLUMINATION",
+                    "2 Working LCD\u2606",
+                    "4 Bundle of wires",
+                    "8 NIXXOR lens\u2606",
+                    "1 SSD drive\u2605",
+                    "LL2 Nerd",
+                    "L2 SECURITY"
+                ]
+            },
+            "LAVATORY": {
+                "current_level": 2,
+                "required": [
+                    "6 Corrugated hose",
+                    "2 Pressure gauge\u2606",
+                    "1 Toolset",
+                    "L2 VENTS",
+                    "L2 WATER COLLECTOR",
+                    "3 Xenomorph sealing foam",
+                    "L2 LAVATORY"
+                ]
+            },
+            "GENERATOR": {
+                "current_level": 2,
+                "required": [
+                    "L3 SECURITY",
+                    "L3 VENTS",
+                    "6 Phase control relay",
+                    "3 Electric motor\u2606",
+                    "10 Spark plug",
+                    "5 Power supply unit",
+                    "LL3 Nerd",
+                    "L2 GENERATOR",
+                    "7 Metal spare parts"
+                ]
+            },
+            "HEATING": {
+                "current_level": 2,
+                "required": [
+                    "8 Radiator helix\u2606",
+                    "8 Bundle of wires",
+                    "L2 GENERATOR",
+                    "L2 WORKBENCH",
+                    "LL2 Raggy",
+                    "L2 HEATING",
+                    "4 Phase control relay",
+                    "2 Military corrugated tube\u2606"
+                ]
+            },
+            "WATER COLLECTOR": {
+                "current_level": 1,
+                "required": [
+                    "6 Corrugated hose",
+                    "2 Electric motor\u2606",
+                    "2 Toolset",
+                    "L3 Attention",
+                    "L2 WORKBENCH",
+                    "L1 WATER COLLECTOR",
+                    "LL2 Unimpressed",
+                    "2 KEKTAPE duct tape\u2606"
+                ]
+            },
+            "MEDSTATION": {
+                "current_level": 1,
+                "required": [
+                    "L1 GENERATOR",
+                    "150000 Roubles",
+                    "L2 Health",
+                    "LL2 Mommy",
+                    "2 Medical bloodset\u2606",
+                    "3 Bottle of saline solution\u2606",
+                    "L1 MEDSTATION",
+                    "5 Esmarch tourniquet",
+                    "3 Medical tools\u2606"
+                ]
+            },
+            "NUTRITION UNIT": {
+                "current_level": 1,
+                "required": [
+                    "L2 LAVATORY",
+                    "4 Wrench",
+                    "2 Corrugated hose",
+                    "2 Alkaline cleaner for heat exchangers",
+                    "L1 NUTRITION UNIT",
+                    "1 Phase control relay"
+                ]
+            },
+            "REST SPACE": {
+                "current_level": 2,
+                "required": [
+                    "L3 GENERATOR",
+                    "L3 HEATING",
+                    "4 Power cord",
+                    "5 Capacitors",
+                    "7 Bundle of wires",
+                    "5 GreenBat lithium battery\u2605",
+                    "LL3 Mox",
+                    "L2 REST SPACE"
+                ]
+            },
+            "WORKBENCH": {
+                "current_level": 1,
+                "required": [
+                    "L2 ILLUMINATION",
+                    "3 Toolset",
+                    "2 Electric drill\u2606",
+                    "6 Bolts",
+                    "LL2 Nerd",
+                    "L1 WORKBENCH",
+                    "3 Weapon parts",
+                    "1 Set of files \"Master\""
+                ]
+            },
+            "INTELLIGENCE CENTER": {
+                "current_level": 1,
+                "required": [
+                    "3 Intelligence folder\u2605",
+                    "3 Secure Flash drive\u2606",
+                    "7 Power cord",
+                    "4 Damaged hard drive",
+                    "L3 SECURITY",
+                    "L3 MEDSTATION",
+                    "L3 NUTRITION UNIT",
+                    "L3 Attention",
+                    "L1 INTELLIGENCE CENTER",
+                    "LL2 Nerd"
+                ]
+            },
+            "SHOOTING RANGE": {
+                "current_level": 1,
+                "required": [
+                    "L3 ILLUMINATION",
+                    "L2 WORKBENCH",
+                    "1 Toolset",
+                    "5 Metal spare parts",
+                    "1 Construction measuring tape",
+                    "3 Bundle of wires",
+                    "3 Pack of screws",
+                    "1 Tube of Poxeram cold welding\u2606",
+                    "6 Electric motor\u2606",
+                    "6 Energy-saving lamp",
+                    "3 WI-FI Camera\u2605",
+                    "1 Electric drill\u2606"
+                ]
+            },
+            "LIBRARY": {
+                "current_level": 0,
+                "required": [
+                    "L3 REST SPACE",
+                    "400000 Roubles",
+                    "L5 HideoutManagement",
+                    "1 Horse figurine",
+                    "2 Chainlet",
+                    "5 Tech manual",
+                    "2 Diary\u2606",
+                    "2 Slim diary\u2605",
+                    "1 BakeEzy cook book\u2606"
+                ]
+            },
+            "SCAV CASE": {
+                "current_level": 0,
+                "required": [
+                    "L2 INTELLIGENCE CENTER",
+                    "3 Bronze lion figurine\u2606",
+                    "6 Gold skull ring\u2605",
+                    "8 Golden neck chain\u2605",
+                    "4 Roler Submariner gold wrist watch\u2605",
+                    "3 Bottle of Fierce Hatchling moonshine\u2605",
+                    "1 Lucky Scav Junk box",
+                    "1 Golden rooster figurine\u2606"
+                ]
+            },
+            "ILLUMINATION": {
+                "current_level": 3,
+                "required": []
+            },
+            "HALL OF FAME": {
+                "current_level": 0,
+                "required": [
+                    "L2 ILLUMINATION",
+                    "LL2 Nerd",
+                    "1 Round pliers\u2606",
+                    "5 Fleece fabric",
+                    "1 Cat figurine\u2606",
+                    "5 Light bulb",
+                    "5 Pack of nails",
+                    "2 Insulating tape\u2606"
+                ]
+            },
+            "AIR FILTERING UNIT": {
+                "current_level": 0,
+                "required": [
+                    "L3 GENERATOR",
+                    "L3 VENTS",
+                    "25000 Dollars",
+                    "LL3 Mox",
+                    "5 Military power filter\u2605",
+                    "5 Gas mask air filter",
+                    "3 Military corrugated tube\u2606"
+                ]
+            },
+            "SOLAR POWER": {
+                "current_level": 0,
+                "required": [
+                    "L3 GENERATOR",
+                    "L3 WORKBENCH",
+                    "25000 Euros",
+                    "LL4 Beff Jezoes",
+                    "10 Military cable\u2606",
+                    "4 Phased array element\u2605",
+                    "10 Military power filter\u2605",
+                    "3 Working LCD\u2606",
+                    "1 Advanced current converter\u2605"
+                ]
+            },
+            "BOOZE GENERATOR": {
+                "current_level": 0,
+                "required": [
+                    "L3 WATER COLLECTOR",
+                    "L3 NUTRITION UNIT",
+                    "4 Silicone tube\u2606",
+                    "2 Analog thermometer\u2606",
+                    "2 Pressure gauge\u2606",
+                    "5 Corrugated hose",
+                    "1 Pipe grip wrench\u2605",
+                    "3 Radiator helix\u2606",
+                    "2 Metal spare parts"
+                ]
+            },
+            "BITCOIN FARM": {
+                "current_level": 0,
+                "required": [
+                    "L2 INTELLIGENCE CENTER",
+                    "15 CPU fan",
+                    "10 Power supply unit",
+                    "10 Power cord",
+                    "1 VPX Flash Storage Module\u2605",
+                    "5 T-Shaped plug"
+                ]
+            },
+            "CHRISTMAS TREE": {
+                "current_level": 0,
+                "required": [
+                    "L1 GENERATOR",
+                    "10000 Roubles",
+                    "1 Christmas tree ornament (Violet)\u2605",
+                    "1 Christmas tree ornament (Silver)\u2605",
+                    "1 Christmas tree ornament (Red)\u2605"
+                ]
+            },
+            "BROKEN WALL": {
+                "current_level": 6,
+                "required": []
+            },
+            "GYM": {
+                "current_level": 0,
+                "required": [
+                    "1 Toolset",
+                    "1 Electric drill\u2606",
+                    "1 Metal cutting scissors",
+                    "3 Screw nuts",
+                    "3 Bolts",
+                    "1 WD-40 (100ml)",
+                    "1 Insulating tape\u2606",
+                    "L2 ILLUMINATION",
+                    "L2 VENTS"
+                ]
+            },
+            "WEAPON WALL": {
+                "current_level": 0,
+                "required": [
+                    "1 Hand drill",
+                    "1 Metal cutting scissors",
+                    "5 Energy-saving lamp",
+                    "3 Xenomorph sealing foam",
+                    "15 Bolts",
+                    "5 Insulating tape\u2606",
+                    "5 Pack of nails",
+                    "L3 ILLUMINATION",
+                    "LL2 Nerd",
+                    "L2 STASH"
+                ]
+            },
+            "SECONDARY WEAPON WALL": {
+                "current_level": 0,
+                "required": [
+                    "L1 WEAPON WALL"
+                ]
+            },
+            "GEAR RACK": {
+                "current_level": 0,
+                "required": [
+                    "L6 BROKEN WALL",
+                    "L2 ILLUMINATION",
+                    "LL2 Raggy",
+                    "1 Leatherman Multitool\u2606",
+                    "10 Fleece fabric",
+                    "1 Sewing kit\u2605",
+                    "8 Energy-saving lamp",
+                    "15 Bolts",
+                    "1 Awl\u2605",
+                    "1 Electric drill\u2606",
+                    "300000 Roubles"
+                ]
+            },
+            "CULTIST CIRCLE": {
+                "current_level": 1,
+                "required": []
+            }
+        },
+        "overall_accuracy": "27.94%",
+        "session_accuracy": "31.25%"
+    },
+    "objectives": [
+        {
+            "name": "General Wares",
+            "conditions": [
+                {
+                    "progress": "0/15",
+                    "description": "Find Cans of beef stew (Small) in raid"
+                },
+                {
+                    "progress": "6/15",
+                    "description": "Hand over the cans"
+                }
+            ]
+        },
+        {
+            "name": "Car Repair",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Car batteries in raid</s>"
+                },
+                {
+                    "progress": "0/8",
+                    "description": "Find Spark plugs in raid"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the batteries</s>"
+                },
+                {
+                    "progress": "3/8",
+                    "description": "Hand over the spark plugs"
+                }
+            ]
+        },
+        {
+            "name": "The Punisher - Part 1",
+            "conditions": [
+                {
+                    "progress": "0/15",
+                    "description": "Eliminate Scavs while using an AKM series weapon on Shoreline"
+                }
+            ]
+        },
+        {
+            "name": "Scrap Metal",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and mark the first T-90 tank with an MS2000 Marker on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the second T-90 tank with an MS2000 Marker on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and mark the third T-90 tank with an MS2000 Marker on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Health Care Privacy - Part 2",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and obtain any info about TerraGroup's research in Health Resort west wing on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the retrieved information"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Farming - Part 3",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Locate the warehouse of seized goods on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Obtain the package of graphics cards</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the package"
+                }
+            ]
+        },
+        {
+            "name": "Signal - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the first signal source on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate the second signal source on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Bad Habit",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Malboro cigarettes in raid</s>"
+                },
+                {
+                    "progress": "4/5",
+                    "description": "Hand over the items"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Strike cigarettes in raid</s>"
+                },
+                {
+                    "progress": "4/5",
+                    "description": "Hand over the items"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find Wilston cigarettes in raid</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the items</s>"
+                }
+            ]
+        },
+        {
+            "name": "Gunsmith - Part 6",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Modify an AKM to comply with the given specifications"
+                }
+            ]
+        },
+        {
+            "name": "Dressed to Kill",
+            "conditions": [
+                {
+                    "progress": "0/2",
+                    "description": "Find Kinda Cowboy hats in raid"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Find Ushanka ear-flap hats in raid"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Hand over the ushankas"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Hand over the hats"
+                }
+            ]
+        },
+        {
+            "name": "Database - Part 2",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the OLI cargo route documents on Interchange"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the documents"
+                }
+            ]
+        },
+        {
+            "name": "Vitamins - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the first chemical container on Shoreline"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the first container"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the second chemical container on Interchange"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the second container"
+                },
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the third chemical container on Interchange"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the third container"
+                }
+            ]
+        },
+        {
+            "name": "Informed Means Armed",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera to watch the sawmill dock on Woods</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera to watch the road to the port on Customs</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange"
+                }
+            ]
+        },
+        {
+            "name": "The Tarkov Shooter - Part 3",
+            "conditions": [
+                {
+                    "progress": "2/3",
+                    "description": "Eliminate PMC operatives from less than 25 meters away while using a bolt-action rifle"
+                }
+            ]
+        },
+        {
+            "name": "Test Drive - Part 1",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope"
+                }
+            ]
+        },
+        {
+            "name": "Lend-Lease - Part 2",
+            "conditions": [
+                {
+                    "progress": "0/2",
+                    "description": "Find Virtex programmable processors in raid"
+                },
+                {
+                    "progress": "",
+                    "description": "Find Military COFDM Wireless Signal Transmitter in raid"
+                },
+                {
+                    "progress": "1/2",
+                    "description": "Hand over the processors"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the transmitter"
+                }
+            ]
+        },
+        {
+            "name": "The Survivalist Path - Zhivchik",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Survive for 5 minutes while suffering from complete dehydration (excluding Factory)"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Ambulance",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Hand over the defibrillator"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Find CMS surgical kits in raid</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Find Portable defibrillator in raid"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the CMS kits</s>"
+                }
+            ]
+        },
+        {
+            "name": "Regulated Materials",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Find 6-STEN-140-M military battery in raid"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the military battery"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Find OFZ 30x165mm shells in raid"
+                },
+                {
+                    "progress": "0/5",
+                    "description": "Hand over the OFZ shells"
+                }
+            ]
+        },
+        {
+            "name": "The Bunker - Part 2",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Locate the hermetic door leading to the hospital (White Bishop) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Locate one of the two hermetic doors leading to the academy building (Black Bishop) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Locate one of the two hermetic doors leading to barracks #1 (Black Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Locate one of the two hermetic doors leading to barracks #2 (White Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Locate the hermetic door leading to the building of the air control center (King) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Survive and extract from the location</s>"
+                }
+            ]
+        },
+        {
+            "name": "Safe Corridor",
+            "conditions": [
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate Scavs in the underground warehouse on Reserve"
+                }
+            ]
+        },
+        {
+            "name": "Inventory Check",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Check the first arsenal in the eastern barracks (Black Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Check the duty room in the eastern barracks (Black Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Check the second arsenal in the eastern barracks (Black Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Check the first arsenal in the southern barracks (White Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Check the second arsenal in the southern barracks (White Pawn) on Reserve</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location"
+                }
+            ]
+        },
+        {
+            "name": "Seaside Vacation",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Find the informant's briefcase on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the found package"
+                }
+            ]
+        },
+        {
+            "name": "Long Road",
+            "conditions": [
+                {
+                    "progress": "0/8",
+                    "description": "Eliminate Scavs along the shore and the main road on Lighthouse"
+                }
+            ]
+        },
+        {
+            "name": "Broadcast - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the hidden recording studio on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Place a Signal Jammer inside the studio"
+                }
+            ]
+        },
+        {
+            "name": "Audit",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the financial records on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the journal"
+                }
+            ]
+        },
+        {
+            "name": "You've Got Mail",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the registered mail on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the letter"
+                }
+            ]
+        },
+        {
+            "name": "Population Census",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Obtain the journal containing resident details on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the journal"
+                }
+            ]
+        },
+        {
+            "name": "The Delicious Sausage",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Scout the Shestyorochka store at Nikitskaya street"
+                },
+                {
+                    "progress": "",
+                    "description": "Scout the Sparja store at Primorsky ave"
+                },
+                {
+                    "progress": "",
+                    "description": "Scout the Sparja store in Pinewood hotel"
+                },
+                {
+                    "progress": "",
+                    "description": "Scout the Goshan store in Concordia"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the found in raid Salty Dog beef sausage</s>"
+                }
+            ]
+        },
+        {
+            "name": "Dangerous Road",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex"
+                }
+            ]
+        },
+        {
+            "name": "Easy Money - Part 2",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the found in raid item: Bottle of Tarkovskaya vodka</s>"
+                },
+                {
+                    "progress": "5/7",
+                    "description": "Hand over the found in raid item: Bottle of Pevko Light beer"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Hand over the found in raid item: Alyonka chocolate bar</s>"
+                },
+                {
+                    "progress": "4/5",
+                    "description": "Hand over the found in raid item: Pack of Tarker dried meat"
+                }
+            ]
+        },
+        {
+            "name": "Hell on Earth - Part 1",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Modify an MP-43-1C shotgun to comply with the given specifications"
+                }
+            ]
+        },
+        {
+            "name": "The Good Times - Part 1",
+            "conditions": [
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate PMC operatives while using Colt M4A1, 6B43 body armor, and Kiver-M helmet on Factory"
+                }
+            ]
+        },
+        {
+            "name": "Possessor",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate and obtain the helicopter logbook on Factory"
+                },
+                {
+                    "progress": "",
+                    "description": "Hand over the found information"
+                }
+            ]
+        },
+        {
+            "name": "Is This a Reference?",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the amphibian pizza lovers' hideout on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the burned girl's sickroom on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the barbed wire body on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the really scary hole in the wall on Streets of Tarkov"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the high rise where one die-hard guy kicked ass on Ground Zero"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the computer with a joke for programmers on Ground Zero"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the little chair surrounded by big black chairs on Ground Zero"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera by your friend Wilson on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the kindled rest place on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the ominous welcome sign on Lighthouse"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the megagenius scientist's seat on Lighthouse"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the place where conscripts did a very important task on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the two chair riddle on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at every tank driver's first videogame on Reserve</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the bucket-head villain on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at Anvil 3-4 crew member's execution site on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at every indie developer's worst nightmare on Customs</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera in the room where the firefighter burned the books to become happy on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the place where some valve technicians couldn't finish their third project on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the dangerous Russian chocolate beauty on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera in the conspiracy theorist's room on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera near where someone thought he'd get transported to the magic school on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the mother of all strategy games on Factory</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the stairway to the skies on Factory</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Install a WI-FI Camera at the bear who sat into a flaming car on Woods"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the upside-down chair on Shoreline</s>"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Install a WI-FI Camera at the not-so-lonely bathroom on Shoreline</s>"
+                }
+            ]
+        },
+        {
+            "name": "668aad49a21e4d37c83d4ffc",
+            "conditions": [
+                {
+                    "progress": "0/15",
+                    "description": "Eliminate 15 PMCs on Shoreline"
+                }
+            ]
+        },
+        {
+            "name": "The Next Source",
+            "conditions": [
+                {
+                    "progress": "0/5",
+                    "description": "Eliminate ex-USEC traitors around the water treatment plant"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract through the Armoured Train up North"
+                }
+            ]
+        },
+        {
+            "name": "Going the Distance",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Find and turn in his baseball cap"
+                }
+            ]
+        },
+        {
+            "name": "Hungry Men",
+            "conditions": [
+                {
+                    "progress": "3/4",
+                    "description": "Handover the found in raid Slickers candy bars"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Handover the found in raid Alyonka candy bars</s>"
+                },
+                {
+                    "progress": "2/4",
+                    "description": "Handover the found in raid TarCola soda cans"
+                }
+            ]
+        },
+        {
+            "name": "Grab That Cash, Make a Stash III",
+            "conditions": [
+                {
+                    "progress": "0/3000000",
+                    "description": "Handover specified amount of Roubles"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Acquisition",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Handover the custom ADAR"
+                }
+            ]
+        },
+        {
+            "name": "Armour Delivery",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Locate the dead drop in the pumping station at night"
+                },
+                {
+                    "progress": "0/2",
+                    "description": "Leave the PACA soft armours at the dead drop at night"
+                },
+                {
+                    "progress": "",
+                    "description": "Survive and extract from the location at night"
+                }
+            ]
+        },
+        {
+            "name": "The Finer Things Club",
+            "conditions": [
+                {
+                    "progress": "DONE",
+                    "description": "<s>Handover the found in raid antique teapots</s>"
+                },
+                {
+                    "progress": "1/4",
+                    "description": "Handover the found in raid signature blend teas"
+                },
+                {
+                    "progress": "2/3",
+                    "description": "Handover the found in raid antique books"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - ARs III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Eliminate Sanitar"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Killa</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Reshala"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Shturman"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Gluhar</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kolontay"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kaban"
+                },
+                {
+                    "progress": "3/8",
+                    "description": "Eliminate all targets with an AR"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - SMGs",
+            "conditions": [
+                {
+                    "progress": "8/10",
+                    "description": "Using a SMG, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Snipers",
+            "conditions": [
+                {
+                    "progress": "1/10",
+                    "description": "Using a sniper, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Marksman III",
+            "conditions": [
+                {
+                    "progress": "",
+                    "description": "Eliminate Sanitar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Killa"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Tagilla"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Reshala"
+                },
+                {
+                    "progress": "DONE",
+                    "description": "<s>Eliminate Shturman</s>"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Gluhar"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kolontay"
+                },
+                {
+                    "progress": "",
+                    "description": "Eliminate Kaban"
+                },
+                {
+                    "progress": "1/8",
+                    "description": "Eliminate all targets with a marksman rifle"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Shotguns",
+            "conditions": [
+                {
+                    "progress": "9/10",
+                    "description": "Using a shotgun, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Pistols II",
+            "conditions": [
+                {
+                    "progress": "1/10",
+                    "description": "Using a pistol, eliminate PMCs with headshots"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - LMGs",
+            "conditions": [
+                {
+                    "progress": "4/10",
+                    "description": "Using a LMG, eliminate PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Carbines II",
+            "conditions": [
+                {
+                    "progress": "9/10",
+                    "description": "Using an assault carbine, eliminate PMCs with headshots"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Melee",
+            "conditions": [
+                {
+                    "progress": "0/10",
+                    "description": "Eliminate...no, stab PMCs"
+                }
+            ]
+        },
+        {
+            "name": "Weapon Proficiency - Explosives",
+            "conditions": [
+                {
+                    "progress": "9/25",
+                    "description": "Eliminate..no, explode PMCs"
+                }
+            ]
+        }
+    ],
+    "hideout": {
+        "STASH": {
+            "current_level": 4,
+            "required": []
+        },
+        "VENTS": {
+            "current_level": 2,
+            "required": [
+                "L2 GENERATOR",
+                "4 Electric motor\u2606",
+                "14 Bundle of wires",
+                "5 Printed circuit board",
+                "4 Car battery",
+                "L2 Strength",
+                "L2 VENTS",
+                "5 Metal spare parts"
+            ]
+        },
+        "SECURITY": {
+            "current_level": 2,
+            "required": [
+                "L3 ILLUMINATION",
+                "2 Working LCD\u2606",
+                "4 Bundle of wires",
+                "8 NIXXOR lens\u2606",
+                "1 SSD drive\u2605",
+                "LL2 Nerd",
+                "L2 SECURITY"
+            ]
+        },
+        "LAVATORY": {
+            "current_level": 2,
+            "required": [
+                "6 Corrugated hose",
+                "2 Pressure gauge\u2606",
+                "1 Toolset",
+                "L2 VENTS",
+                "L2 WATER COLLECTOR",
+                "3 Xenomorph sealing foam",
+                "L2 LAVATORY"
+            ]
+        },
+        "GENERATOR": {
+            "current_level": 2,
+            "required": [
+                "L3 SECURITY",
+                "L3 VENTS",
+                "6 Phase control relay",
+                "3 Electric motor\u2606",
+                "10 Spark plug",
+                "5 Power supply unit",
+                "LL3 Nerd",
+                "L2 GENERATOR",
+                "7 Metal spare parts"
+            ]
+        },
+        "HEATING": {
+            "current_level": 2,
+            "required": [
+                "8 Radiator helix\u2606",
+                "8 Bundle of wires",
+                "L2 GENERATOR",
+                "L2 WORKBENCH",
+                "LL2 Raggy",
+                "L2 HEATING",
+                "4 Phase control relay",
+                "2 Military corrugated tube\u2606"
+            ]
+        },
+        "WATER COLLECTOR": {
+            "current_level": 1,
+            "required": [
+                "6 Corrugated hose",
+                "2 Electric motor\u2606",
+                "2 Toolset",
+                "L3 Attention",
+                "L2 WORKBENCH",
+                "L1 WATER COLLECTOR",
+                "LL2 Unimpressed",
+                "2 KEKTAPE duct tape\u2606"
+            ]
+        },
+        "MEDSTATION": {
+            "current_level": 1,
+            "required": [
+                "L1 GENERATOR",
+                "150000 Roubles",
+                "L2 Health",
+                "LL2 Mommy",
+                "2 Medical bloodset\u2606",
+                "3 Bottle of saline solution\u2606",
+                "L1 MEDSTATION",
+                "5 Esmarch tourniquet",
+                "3 Medical tools\u2606"
+            ]
+        },
+        "NUTRITION UNIT": {
+            "current_level": 1,
+            "required": [
+                "L2 LAVATORY",
+                "4 Wrench",
+                "2 Corrugated hose",
+                "2 Alkaline cleaner for heat exchangers",
+                "L1 NUTRITION UNIT",
+                "1 Phase control relay"
+            ]
+        },
+        "REST SPACE": {
+            "current_level": 2,
+            "required": [
+                "L3 GENERATOR",
+                "L3 HEATING",
+                "4 Power cord",
+                "5 Capacitors",
+                "7 Bundle of wires",
+                "5 GreenBat lithium battery\u2605",
+                "LL3 Mox",
+                "L2 REST SPACE"
+            ]
+        },
+        "WORKBENCH": {
+            "current_level": 1,
+            "required": [
+                "L2 ILLUMINATION",
+                "3 Toolset",
+                "2 Electric drill\u2606",
+                "6 Bolts",
+                "LL2 Nerd",
+                "L1 WORKBENCH",
+                "3 Weapon parts",
+                "1 Set of files \"Master\""
+            ]
+        },
+        "INTELLIGENCE CENTER": {
+            "current_level": 1,
+            "required": [
+                "3 Intelligence folder\u2605",
+                "3 Secure Flash drive\u2606",
+                "7 Power cord",
+                "4 Damaged hard drive",
+                "L3 SECURITY",
+                "L3 MEDSTATION",
+                "L3 NUTRITION UNIT",
+                "L3 Attention",
+                "L1 INTELLIGENCE CENTER",
+                "LL2 Nerd"
+            ]
+        },
+        "SHOOTING RANGE": {
+            "current_level": 1,
+            "required": [
+                "L3 ILLUMINATION",
+                "L2 WORKBENCH",
+                "1 Toolset",
+                "5 Metal spare parts",
+                "1 Construction measuring tape",
+                "3 Bundle of wires",
+                "3 Pack of screws",
+                "1 Tube of Poxeram cold welding\u2606",
+                "6 Electric motor\u2606",
+                "6 Energy-saving lamp",
+                "3 WI-FI Camera\u2605",
+                "1 Electric drill\u2606"
+            ]
+        },
+        "LIBRARY": {
+            "current_level": 0,
+            "required": [
+                "L3 REST SPACE",
+                "400000 Roubles",
+                "L5 HideoutManagement",
+                "1 Horse figurine",
+                "2 Chainlet",
+                "5 Tech manual",
+                "2 Diary\u2606",
+                "2 Slim diary\u2605",
+                "1 BakeEzy cook book\u2606"
+            ]
+        },
+        "SCAV CASE": {
+            "current_level": 0,
+            "required": [
+                "L2 INTELLIGENCE CENTER",
+                "3 Bronze lion figurine\u2606",
+                "6 Gold skull ring\u2605",
+                "8 Golden neck chain\u2605",
+                "4 Roler Submariner gold wrist watch\u2605",
+                "3 Bottle of Fierce Hatchling moonshine\u2605",
+                "1 Lucky Scav Junk box",
+                "1 Golden rooster figurine\u2606"
+            ]
+        },
+        "ILLUMINATION": {
+            "current_level": 3,
+            "required": []
+        },
+        "HALL OF FAME": {
+            "current_level": 0,
+            "required": [
+                "L2 ILLUMINATION",
+                "LL2 Nerd",
+                "1 Round pliers\u2606",
+                "5 Fleece fabric",
+                "1 Cat figurine\u2606",
+                "5 Light bulb",
+                "5 Pack of nails",
+                "2 Insulating tape\u2606"
+            ]
+        },
+        "AIR FILTERING UNIT": {
+            "current_level": 0,
+            "required": [
+                "L3 GENERATOR",
+                "L3 VENTS",
+                "25000 Dollars",
+                "LL3 Mox",
+                "5 Military power filter\u2605",
+                "5 Gas mask air filter",
+                "3 Military corrugated tube\u2606"
+            ]
+        },
+        "SOLAR POWER": {
+            "current_level": 0,
+            "required": [
+                "L3 GENERATOR",
+                "L3 WORKBENCH",
+                "25000 Euros",
+                "LL4 Beff Jezoes",
+                "10 Military cable\u2606",
+                "4 Phased array element\u2605",
+                "10 Military power filter\u2605",
+                "3 Working LCD\u2606",
+                "1 Advanced current converter\u2605"
+            ]
+        },
+        "BOOZE GENERATOR": {
+            "current_level": 0,
+            "required": [
+                "L3 WATER COLLECTOR",
+                "L3 NUTRITION UNIT",
+                "4 Silicone tube\u2606",
+                "2 Analog thermometer\u2606",
+                "2 Pressure gauge\u2606",
+                "5 Corrugated hose",
+                "1 Pipe grip wrench\u2605",
+                "3 Radiator helix\u2606",
+                "2 Metal spare parts"
+            ]
+        },
+        "BITCOIN FARM": {
+            "current_level": 0,
+            "required": [
+                "L2 INTELLIGENCE CENTER",
+                "15 CPU fan",
+                "10 Power supply unit",
+                "10 Power cord",
+                "1 VPX Flash Storage Module\u2605",
+                "5 T-Shaped plug"
+            ]
+        },
+        "CHRISTMAS TREE": {
+            "current_level": 0,
+            "required": [
+                "L1 GENERATOR",
+                "10000 Roubles",
+                "1 Christmas tree ornament (Violet)\u2605",
+                "1 Christmas tree ornament (Silver)\u2605",
+                "1 Christmas tree ornament (Red)\u2605"
+            ]
+        },
+        "BROKEN WALL": {
+            "current_level": 6,
+            "required": []
+        },
+        "GYM": {
+            "current_level": 0,
+            "required": [
+                "1 Toolset",
+                "1 Electric drill\u2606",
+                "1 Metal cutting scissors",
+                "3 Screw nuts",
+                "3 Bolts",
+                "1 WD-40 (100ml)",
+                "1 Insulating tape\u2606",
+                "L2 ILLUMINATION",
+                "L2 VENTS"
+            ]
+        },
+        "WEAPON WALL": {
+            "current_level": 0,
+            "required": [
+                "1 Hand drill",
+                "1 Metal cutting scissors",
+                "5 Energy-saving lamp",
+                "3 Xenomorph sealing foam",
+                "15 Bolts",
+                "5 Insulating tape\u2606",
+                "5 Pack of nails",
+                "L3 ILLUMINATION",
+                "LL2 Nerd",
+                "L2 STASH"
+            ]
+        },
+        "SECONDARY WEAPON WALL": {
+            "current_level": 0,
+            "required": [
+                "L1 WEAPON WALL"
+            ]
+        },
+        "GEAR RACK": {
+            "current_level": 0,
+            "required": [
+                "L6 BROKEN WALL",
+                "L2 ILLUMINATION",
+                "LL2 Raggy",
+                "1 Leatherman Multitool\u2606",
+                "10 Fleece fabric",
+                "1 Sewing kit\u2605",
+                "8 Energy-saving lamp",
+                "15 Bolts",
+                "1 Awl\u2605",
+                "1 Electric drill\u2606",
+                "300000 Roubles"
+            ]
+        },
+        "CULTIST CIRCLE": {
+            "current_level": 1,
+            "required": []
+        }
+    }
+}

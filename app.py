@@ -1,11 +1,10 @@
 from flask import Flask, render_template, request, session, redirect, url_for
-from profile import Profile
-from helpers import id_lookup, load_json
-from httprequest import get_all_players
-from quests import get_all_objectives
-from hideout import get_all_hideout
-from stats import get_all_stats
-from overview import get_overview
+from utils.helpers import id_lookup, load_json, get_all_players
+from core.quests import get_all_objectives
+from core.hideout import get_all_hideout
+from core.stats import get_all_stats
+from core.overview import get_overview
+
 app = Flask(__name__)
 #my_profile = Profile(load_json('profiles/674e8d5e000124d3a4adc638.json'))
 

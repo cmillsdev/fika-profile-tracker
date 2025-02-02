@@ -1,8 +1,8 @@
-from httprequest import get_profile
-from helpers import id_lookup
-from stats import get_last_death, get_last_victims, get_accuracy, get_misc_info
+from utils.helpers import id_lookup, get_profile
+from core.stats import get_last_death, get_last_victims, get_accuracy, get_misc_info
 from collections import defaultdict
 import json
+
 # -- todo
 # task items to turn in
 # do you need to heal

@@ -1,15 +1,25 @@
-import requests
 import json
+import requests
 import zlib
 import time
 import os
-from endpoint import Endpoint
-
-# session_id = "674e50640003077d50d67c44" me
-# session_id = "677df13900028976aab5cb0f" web profile
+from utils.endpoint import Endpoint
 
 CACHE_FILE = "client_locale_cache.json"
 CACHE_TTL = 300  # Cache Time-to-Live in seconds (5 minutes)
+
+def id_lookup(i):
+    lookup = get_client_locale()['data']
+    keys = [f"{i} Name", f"{i} name", i]
+    
+    for key in keys:
+        if key in lookup:
+            return lookup[key]
+    return i
+
+def load_json(filename):
+    with open(filename, 'r') as f:
+        return json.load(f)
 
 def http_request(sid, endpoint, write=False):
     url = "http://wafflefm:6969/"
@@ -67,7 +77,32 @@ def get_profile_quests(profile_id):
 def get_hideout_areas(profile_id):
     return http_request(profile_id, Endpoint.HIDEOUT_AREAS)['data']
 
-# def test_endpoint(endpoint, pid='674e8d5e000124d3a4adc638'):
-#     with open(f'{endpoint.replace('/', '-')}.json', 'w') as f:
-#         r = http_request(pid, endpoint)
-#         json.dump(r, f, indent=4)
+def test_endpoint(endpoint, pid='674e8d5e000124d3a4adc638'):
+    with open(f'{endpoint.replace('/', '-')}.json', 'w') as f:
+        r = http_request(pid, endpoint)
+        json.dump(r, f, indent=4)
+
+def dump_page_json(pid):
+    from core.quests import get_all_objectives
+    from core.hideout import get_all_hideout
+    from core.stats import get_all_stats
+    from core.overview import get_overview
+
+    # "674e50640003077d50d67c44" iain
+    # "674e8d5e000124d3a4adc638" me
+    # "677df13900028976aab5cb0f" web profile
+
+    objs = get_all_objectives(pid)
+    print('Got objectives.')
+    hideout = get_all_hideout(pid)
+    print('Got hideout')
+    stats = get_all_stats(pid)
+    print('Got stats')
+    overview = get_overview(pid)
+    print('Got overview')
+
+    dump = {"overview": overview, "stats": stats, "objectives": objs, "hideout": hideout}
+    print('dumped')
+
+    with open(f"pages-{pid}.json", 'w') as f:
+        json.dump(dump, f, indent=4)
