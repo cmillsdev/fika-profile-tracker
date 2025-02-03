@@ -61,7 +61,7 @@ def get_all_objectives(pid):
     return tasks_dict
 
 def is_quest_completed(qid, cid, profile):
-    for q in profile[0]["Quests"]:
+    for q in profile["Quests"]:
         if q['qid'] == qid:
             if cid in q['completedConditions']:
                 return True
@@ -80,7 +80,7 @@ def get_condition_target_value(qid, cid, quests):
 
 def get_condition_value_complete(cid, profile):
     try:
-        return profile[0]['TaskConditionCounters'][cid]['value']
+        return profile['TaskConditionCounters'][cid]['value']
     except:
         return ''
 

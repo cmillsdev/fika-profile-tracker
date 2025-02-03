@@ -4,7 +4,7 @@ from core.quests import get_all_objectives
 from core.hideout import get_all_hideout
 from core.stats import get_all_stats
 from core.overview import get_overview
-
+from core.alerts import get_alerts
 app = Flask(__name__)
 #my_profile = Profile(load_json('profiles/674e8d5e000124d3a4adc638.json'))
 
@@ -30,8 +30,9 @@ def overview(pid):
     if 'player_id' not in session or session['player_id'] != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
     overview = get_overview(pid)
+    alerts = get_alerts(pid)
     players = get_all_players()  # Fetch players
-    return render_template("overview.html", overview=overview, player_id=pid, players=players)
+    return render_template("overview.html", overview=overview, alerts=alerts, player_id=pid, players=players)
 
 @app.route("/quests/<pid>")
 def quests(pid):

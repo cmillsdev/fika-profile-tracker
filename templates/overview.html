@@ -9,13 +9,22 @@
             <h2>Alerts</h2>
         </div>
         <div class="card-body">
-            {% if overview.task_items %}
-                <h3>TASK ITEMS IN INVENTORY</h3>
-                {% for task in overview.task_items %}
+            {% if alerts.task_items %}
+                <h4>TASK ITEMS IN INVENTORY</h4>
+                {% for item in alerts.task_items %}
                     <ul>
-                        <li>{{ task }}</li>
+                        <li>{{ item }}</li>
                     </ul>
                 {% endfor %}
+            {% endif %}
+            {% if not alerts.health %}
+                <h4><b style="color: #f44336">HEAL YOUR MAN</b></h4>
+            {% endif %}
+            {% if not alerts.energy %}
+                <h4><b style="color: #088695">FEED YOUR MAN</b></h4>
+            {% endif %}
+            {% if not alerts.hydration %}
+                <h4><b style="color: #088695">WATER YOUR MAN</b></h4>
             {% endif %}
         </div>
 
@@ -36,35 +45,6 @@
                 <li><strong>Ragfair Rating:</strong> {{ overview.basic.ragfair_rating }}</li>
                 <li><strong>Playtime:</strong> {{ overview.basic.ingame_time}}</li>
                 <li><strong>Scav Karma:</strong> {{ overview.basic.scav_karma }}</li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- Health Section -->
-    <div class="card mb-3">
-        <div class="card-header">
-            <h2>Health</h2>
-        </div>
-        <div class="card-body">
-            <ul>
-                <li><strong>Energy:</strong> {{ overview.health.energy.Current }}/{{ overview.health.energy.Maximum }}</li>
-                <li><strong>Hydration:</strong> {{ overview.health.hydration.Current }}/{{ overview.health.hydration.Maximum }}</li>
-                <li><strong>Body Parts:</strong>
-                    <ul>
-                        {% for part, details in overview.health.health.items() %}
-                            <li>
-                                <strong>{{ part }}:</strong> {{ details.Health.Current }}/{{ details.Health.Maximum }}
-                                {% if details.Effects %}
-                                    <ul>
-                                        {% for effect, value in details.Effects.items() %}
-                                            <li><strong>{{ effect }}:</strong> {{ value.Time }}</li>
-                                        {% endfor %}
-                                    </ul>
-                                {% endif %}
-                            </li>
-                        {% endfor %}
-                    </ul>
-                </li>
             </ul>
         </div>
     </div>

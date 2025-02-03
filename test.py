@@ -1,3 +1,3 @@
-from utils.helpers import test_endpoint
+from core.alerts import get_alerts
 
-test_endpoint(endpoint='client/mail/dialog/info', pid='674e8d5e000124d3a4adc638')
+get_alerts('674e8d5e000124d3a4adc638')
