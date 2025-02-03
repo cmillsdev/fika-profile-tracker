@@ -89,7 +89,7 @@ def get_hideout_areas(profile_id):
     return http_request(profile_id, Endpoint.HIDEOUT_AREAS)['data']
 
 def test_endpoint(endpoint, pid):
-    with open(f'{endpoint.replace('/', '-')}.json', 'w') as f:
+    with open(f"{endpoint.replace('/', '-')}.json", 'w') as f:
         r = http_request(pid, endpoint)
         json.dump(r, f, indent=4)
 
