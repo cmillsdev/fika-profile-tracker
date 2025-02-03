@@ -48,7 +48,7 @@ def get_last_round(profile):
     stats['damage_history'] = profile[0]['Stats']['Eft']['DamageHistory']
     is_lethal = stats['damage_history'].get('LethalDamage')
     if is_lethal:
-        stats['damage_history']['LethalDamage']['SourceId'] = id_lookup(stats['LethalDamage']['SourceId'])
+        stats['damage_history']['LethalDamage'] = id_lookup(stats['LethalDamage'].get('SourceId'))
     if stats.get('damage_history'):
         for bodypart in stats['damage_history']['BodyParts']:
             if stats['damage_history']['BodyParts'][bodypart]:
