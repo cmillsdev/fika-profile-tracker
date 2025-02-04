@@ -18,13 +18,13 @@
                 {% endfor %}
             {% endif %}
             {% if not alerts.health %}
-                <h4><b style="color: #f44336">HEAL YOUR MAN</b></h4>
+                <h4><b class="text-red-600">HEAL YOUR MAN</b></h4>
             {% endif %}
             {% if not alerts.energy %}
-                <h4><b style="color: #088695">FEED YOUR MAN</b></h4>
+                <h4><b class="text-blue-600">FEED YOUR MAN</b></h4>
             {% endif %}
             {% if not alerts.hydration %}
-                <h4><b style="color: #088695">WATER YOUR MAN</b></h4>
+                <h4><b class="text-blue-600">WATER YOUR MAN</b></h4>
             {% endif %}
         </div>
 
@@ -36,7 +36,7 @@
             <h2>Basic Information</h2>
         </div>
         <div class="card-body">
-            <h3>Level {{ overview.basic.level }} {{ overview.basic.faction }} {{ overview.basic.survivor_class }}</h3>
+            <h4>Level {{ overview.basic.level }} {{ overview.basic.faction }} {{ overview.basic.survivor_class }}</h4>
             <ul>
                 <li><strong>Experience Gained:</strong> {{ overview.basic.exp_gained }}</li>
                 <li><strong>Accuracy [Session | Overall]:</strong> {{ overview.session_accuracy }} | {{ overview.overall_accuracy }}</li>

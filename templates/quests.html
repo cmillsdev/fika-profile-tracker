@@ -4,7 +4,7 @@
 
 {% block content %}
     <h1 align="center">QUESTS</h1>
-    <table id="quests" class="display">
+    <table id="quests" class="display mt-2 w-full border">
         <thead>
             <tr>
                 <th align="left">QUEST</th>
@@ -24,9 +24,4 @@
             {% endfor %}
         </tbody>
     </table>
-    <script>
-        $(document).ready(function() {
-            $('#quests').DataTable();
-        });
-    </script>
 {% endblock %}
