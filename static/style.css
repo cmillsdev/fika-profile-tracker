@@ -37,7 +37,7 @@
     color: white;
 }
 
-h1 {
+h1, h2 {
     font-size: 72px;
     background-color: var(--color-gunmetal);
 }
@@ -73,4 +73,8 @@ td, s {
 /* Optional: Add padding to cells for better readability */
 #hideout td, #hideout th {
     padding: 8px;
+}
+
+#navbar {
+    color: black;
 }
