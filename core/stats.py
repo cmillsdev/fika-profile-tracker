@@ -19,7 +19,7 @@ def get_all_stats(pid):
     stats['skills_mastering'] = get_skills_mastering(profile['Skills']['Mastering'])
     stats['bonuses'] = get_profile_bonuses(profile['Bonuses'])
     stats['mini_quest_info'] = get_mini_quest_info(profile['Quests'])
-    stats['last_death'] = get_last_death(profile['Stats']['Eft'].get('Aggressor'), profile[0]['Stats']['Eft'].get('DeathCause'))
+    stats['last_death'] = get_last_death(profile['Stats']['Eft'].get('Aggressor'), profile['Stats']['Eft'].get('DeathCause'))
     stats['victims'] = get_last_victims(profile['Stats']['Eft']['Victims'])
     stats['traders'] = get_trader_info(profile['TradersInfo'])
     stats['hideout'] = get_all_hideout(pid)
