@@ -41,7 +41,7 @@ def get_hideout_templates(pid):
     return get_hideout_areas(pid)
 
 def get_hideout_profile(pid):
-    return get_profile(pid)[0]["Hideout"]
+    return get_profile(pid)["Hideout"]
 
 def get_area_type(area_num):
     area_types = [
