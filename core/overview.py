@@ -1,5 +1,5 @@
 from utils.helpers import id_lookup, get_profile
-from core.stats import get_last_death, get_last_victims, get_accuracy, get_misc_info
+from core.stats import get_last_death, get_last_victims, get_accuracy, get_misc_info, get_counter
 from collections import defaultdict
 import json
 
@@ -17,8 +17,13 @@ def get_overview(pid):
     profile = get_profile(pid)
     overview = defaultdict(dict)
     overview['basic'] = get_misc_info(profile)
-    overview['overall_accuracy'] = get_accuracy(profile['Stats']['Eft']['OverallCounters']['Items'])
-    overview['session_accuracy'] = get_accuracy(profile['Stats']['Eft']['SessionCounters']['Items'])
+    overview['overall']['accuracy'] = get_accuracy(profile['Stats']['Eft']['OverallCounters']['Items'])
+    overview['session']['accuracy'] = get_accuracy(profile['Stats']['Eft']['SessionCounters']['Items'])
+    overview['overall']['kills'] = get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], "Kills")
+    overview['overall']['deaths'] = get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], "Deaths")
+    overview['session']['kills'] = get_counter(profile['Stats']['Eft']['SessionCounters']['Items'], "Kills")
+    overview['session']['deaths'] = get_counter(profile['Stats']['Eft']['SessionCounters']['Items'], "Deaths")
+    #overview['overall']['raids'] = get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], ["Sessions", "PMC"])
     overview['last_raid'] = get_last_round(profile)
 
     return overview

@@ -6,12 +6,12 @@
     <h1>Stats for Player {{ player_id }}</h1>
 
     <!-- Cheevos Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#cheevosSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Achievements</h2>
         </div>
-        <div class="collapse" id="cheevosSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for achievement, description in stats.cheevos.items() %}
                         <li><strong>{{ achievement }}:</strong> {{ description }}</li>
@@ -22,12 +22,11 @@
     </div>
 
     <!-- Misc Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#miscSection" role="button">
+    <div class="">
             <h2>Miscellaneous</h2>
         </div>
-        <div class="collapse" id="miscSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for key, value in stats.misc.items() %}
                         <li><strong>{{ key }}:</strong> {{ value }}</li>
@@ -38,12 +37,11 @@
     </div>
 
     <!-- Overall Counters Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#overallCountersSection" role="button">
+    <div class="">
             <h2>Overall Counters</h2>
         </div>
-        <div class="collapse" id="overallCountersSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for key, value in stats.overall_counters.items() %}
                         <li><strong>{{ key }}:</strong> {{ value }}</li>
@@ -54,12 +52,12 @@
     </div>
 
     <!-- Session Counters Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#sessionCountersSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Session Counters</h2>
         </div>
-        <div class="collapse" id="sessionCountersSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for key, value in stats.session_counters.items() %}
                         <li><strong>{{ key }}:</strong> {{ value }}</li>
@@ -70,12 +68,12 @@
     </div>
 
     <!-- Skills Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#skillsSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Skills</h2>
         </div>
-        <div class="collapse" id="skillsSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <h3>Common Skills</h3>
                 <ul>
                     {% for skill, level in stats.skills_common.items() %}
@@ -93,12 +91,12 @@
     </div>
 
     <!-- Traders Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#tradersSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Traders</h2>
         </div>
-        <div class="collapse" id="tradersSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for trader, details in stats.traders.items() %}
                         <li>
@@ -115,12 +113,12 @@
     </div>
 
     <!-- Hideout Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#hideoutSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Hideout</h2>
         </div>
-        <div class="collapse" id="hideoutSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for area, details in stats.hideout.items() %}
                         <li>
@@ -142,12 +140,12 @@
     </div>
 
     <!-- Last Death Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#lastDeathSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Last Death</h2>
         </div>
-        <div class="collapse" id="lastDeathSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     <li><strong>Killer:</strong> {{ stats.last_death.killer.name }} ({{ stats.last_death.killer.side }})</li>
                     <li><strong>Weapon:</strong> {{ stats.last_death.killer.weapon }}</li>
@@ -158,13 +156,13 @@
     </div>
 
     <!-- Victims Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#victimsSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Victims</h2>
         </div>
-        <div class="collapse" id="victimsSection">
-            <div class="card-body">
-                <table class="table">
+        <div class="">
+            <div class="">
+                <table class="">
                     <thead>
                         <tr>
                             <th>Time</th>
@@ -195,12 +193,12 @@
     </div>
 
     <!-- Bonuses Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#bonusesSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Bonuses</h2>
         </div>
-        <div class="collapse" id="bonusesSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     {% for bonus in stats.bonuses %}
                         <li><strong>{{ bonus.type }}:</strong> {{ bonus.value }}</li>
@@ -211,12 +209,12 @@
     </div>
 
     <!-- Mini Quest Info Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#miniQuestInfoSection" role="button">
+    <div class="">
+        <div class="">
             <h2>Mini Quest Info</h2>
         </div>
-        <div class="collapse" id="miniQuestInfoSection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     <li><strong>Active Quests:</strong> {{ stats.mini_quest_info.active }}</li>
                     <li><strong>Finished Quests:</strong> {{ stats.mini_quest_info.finished }}</li>
@@ -226,17 +224,16 @@
     </div>
 
     <!-- Accuracy Section -->
-    <div class="card mb-3">
-        <div class="card-header" data-bs-toggle="collapse" href="#accuracySection" role="button">
+    <div class="">
+        <div class="">
             <h2>Accuracy</h2>
         </div>
-        <div class="collapse" id="accuracySection">
-            <div class="card-body">
+        <div class="">
+            <div class="">
                 <ul>
                     <li><strong>Overall Accuracy:</strong> {{ stats.overall_accuracy }}</li>
                     <li><strong>Session Accuracy:</strong> {{ stats.session_accuracy }}</li>
                 </ul>
             </div>
         </div>
-    </div>
 {% endblock %}

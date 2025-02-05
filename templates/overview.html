@@ -3,7 +3,7 @@
 {% block title %}Overview - {{ overview.basic.nickname }}{% endblock %}
 
 {% block content %}
-    <h1 class="border-b-1 text-center text-3xl">Overview | {{ overview.basic.nickname }}</h1>
+    <h1 class="border-b-1 text-center text-3xl bg-gray-600/30">Overview | {{ overview.basic.nickname }}</h1>
     {% if alerts.task_items or not alerts.health or not alerts.energy or not alerts.hydrations %}
         <div class="flex">
             <div class="w-1/3"></div>
@@ -33,23 +33,26 @@
         <div class="w-1/3"></div>
         </div>
     <!-- Basic Information Section -->
-    <div class="card mb-3">
-        <div class="card-header">
-            <h2>Basic Information</h2>
-        </div>
+    <h4 class="border-b-1 border-t-1 bold text-center">Level {{ overview.basic.level }} {{ overview.basic.faction }} {{ overview.basic.survivor_class }}</h4>
+    <div class="w-1/2">
         <div class="card-body">
-            <h4>Level {{ overview.basic.level }} {{ overview.basic.faction }} {{ overview.basic.survivor_class }}</h4>
-            <ul>
-                <li><strong>Experience Gained:</strong> {{ overview.basic.exp_gained }}</li>
-                <li><strong>Accuracy [Session | Overall]:</strong> {{ overview.session_accuracy }} | {{ overview.overall_accuracy }}</li>
-                <li><strong>Registration Date:</strong> {{ overview.basic.reg_date }}</li>
-                <li><strong>Lifetime Insured Items:</strong> {{ overview.basic.total_insured_items }}</li>
+            <!-- <ul>k/d
+                kills
+                exp
+                surv. rate
+                raids -->
+                <li><strong><i>- [Session | Overall]</li></strong></i>
+                <li><strong>Accuracy: </strong> {{ overview.session.accuracy }} | {{ overview.overall.accuracy }}</li>
+                <li><strong>K/D: </strong>{{ overview.session.kills/(overview.session.deaths or 1) }} | {{ (overview.overall.kills/overview.overall.deaths)|round(1, 'floor') }}</li>
+                <li><strong>Kills: </strong>{{ overview.session.kills or 0}} | {{ overview.overall.kills }}</li>
+                <li><strong>Raids: </strong> {{ overview.overall.raids }}</li>
                 <li><strong>Ragfair Rating:</strong> {{ overview.basic.ragfair_rating }}</li>
                 <li><strong>Playtime:</strong> {{ overview.basic.ingame_time}}</li>
                 <li><strong>Scav Karma:</strong> {{ overview.basic.scav_karma }}</li>
             </ul>
         </div>
     </div>
+    <div class="w-1/2"></div>
 
     <!-- Last Raid Section -->
     <div class="card mb-3">

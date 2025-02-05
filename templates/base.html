@@ -15,30 +15,28 @@
 </head>
 <body class="dark:bg-gray-800">
     <nav class="border border-t-0 flex text-white bg-black border-slate-900">
-        <div>
-            <h1 class="font-bold text-2x1 bg-black py-2 px-4 w-fit">pewpew</h1>
-        </div>
-                <a class="grid place-items-center px-4 underline" href="{{ url_for('overview', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
-                    Overview</a>
-                <a class="grid place-items-center px-4 underline" href="{{ url_for('stats', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
-                    Stats</a>
-                <a class="grid place-items-center px-4 underline" href="{{ url_for('quests', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
-                    Quests</a>
-                <a class="grid place-items-center px-4 underline" href="{{ url_for('hideout', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
-                    Hideout</a>
-                <div class="grid place-items-center w-full"></div>
-                <form class="text-right inset-y-0 right-0 place-items-center grid" action="{{ url_for('select_player') }}" method="POST">
-                    <select class="" name="player_id" onchange="this.form.submit()">
-                        <option value="">Select Player</option>
-                        {% for username, pid in players.items() %}
-                            <option value="{{ pid }}" {% if session.get('player_id') == pid %}selected{% endif %}>
-                                {{ username }}
-                            </option>
-                        {% endfor %}
-                    </select>
-                </form>
-            </div>
-        </div>
+    <div>
+        <h1 class="font-bold text-2x1 bg-black py-2 px-4 w-fit">pewpew</h1>
+    </div>
+            <a class="grid place-items-center px-4 underline" href="{{ url_for('overview', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
+                Overview</a>
+            <a class="grid place-items-center px-4 underline" href="{{ url_for('stats', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
+                Stats</a>
+            <a class="grid place-items-center px-4 underline" href="{{ url_for('quests', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
+                Quests</a>
+            <a class="grid place-items-center px-4 underline" href="{{ url_for('hideout', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
+                Hideout</a>
+            <div class="grid place-items-center w-full"></div>
+            <form class="text-right inset-y-0 right-0 place-items-center grid" action="{{ url_for('select_player') }}" method="POST">
+                <select class="" name="player_id" onchange="this.form.submit()">
+                    <option value="">Select Player</option>
+                    {% for username, pid in players.items() %}
+                        <option value="{{ pid }}" {% if session.get('player_id') == pid %}selected{% endif %}>
+                            {{ username }}
+                        </option>
+                    {% endfor %}
+                </select>
+            </form>
     </nav>
     <div>
         {% block content %}{% endblock %}

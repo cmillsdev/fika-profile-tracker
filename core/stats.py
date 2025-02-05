@@ -82,6 +82,12 @@ def get_accuracy(counters):
             reached = counter['Value']
     return f"{get_percent(reached, used):.2f}%"
 
+def get_counter(counters, key):
+    for k in counters:
+        if key in k['Key']:
+            value = k['Value']
+            return value
+
 def get_counters(counters):
     overall = defaultdict(dict)
     looted_items = []
@@ -94,7 +100,7 @@ def get_counters(counters):
             looted_items.append(f"{counter['Value']}x {counter_string}")
         else:
             for key in counter['Key']:
-                counter_string += f"|{id_lookup(key)}"
+                counter_string += f"/{id_lookup(key)}"
             overall[counter_string] = counter['Value']
     if looted_items:
         overall['looted_items'] = looted_items
