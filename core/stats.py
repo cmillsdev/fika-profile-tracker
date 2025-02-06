@@ -106,24 +106,6 @@ def get_counters(counters):
         overall['looted_items'] = looted_items
     return overall
 
-def get_skills_common(skills):
-    skip = ['BotReload', 'BotSound', 'FieldMedicine', 'FirstAid', 'NightOps', 'SilentOps', 'Auctions', 'Cleanoperations', 'Shadowconnections', 'Taskperformance']
-    common_skills = defaultdict(dict)
-
-    for skill in skills:
-        if skill['Id'] not in skip:
-            common_skills[skill['Id']] = f"{skill['Progress']:.2f}"
-
-    return common_skills
-
-def get_skills_mastering(skills):
-    mastering = defaultdict(dict)
-
-    for skill in skills:
-            mastering[skill['Id']] = f"{skill['Progress']:.2f}"
-
-    return mastering
-
 def get_misc_info(profile):
     stats = defaultdict(dict)
     stats['exp_gained'] = profile['Info']['Experience']

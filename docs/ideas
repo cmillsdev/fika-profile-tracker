@@ -4,7 +4,13 @@ exp
 surv. rate
 raids
 
+got flea api from tarkov.dev, use flea endpoint as a backup
+
 match in-game stats screen
+active raids
+active players
+
+version check
 
 Quest/Hideout Progress Bars: 
 Visual indicators showing completion % for each quest/hideout module, with nested requirements (e.g., "Find 5/10 Gas Analyzers").

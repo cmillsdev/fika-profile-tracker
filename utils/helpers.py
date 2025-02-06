@@ -7,6 +7,8 @@ from utils.endpoint import Endpoint
 
 CACHE_FILE = "client_locale_cache.json"
 CACHE_TTL = 300  # Cache Time-to-Live in seconds (5 minutes)
+FLEA_CACHE_TTL = 3600
+FLEA_FILE = "flea_tdev.json"
 
 def get_percent(part, whole):
     if whole == 0:
@@ -117,3 +119,81 @@ def dump_page_json(pid):
 
     with open(f"pages-{pid}.json", 'w') as f:
         json.dump(dump, f, indent=4)
+
+def flea_tarkovdev_gql():
+    tarkovdevflea = """
+            query TarkovDevItems {
+            items(lang: en, gameMode: regular, limit: 20000, offset: 0) {
+            id
+            name
+            shortName
+            basePrice
+            normalizedName
+            backgroundColor
+            types
+            weight
+            avg24hPrice
+            changeLast48h
+            changeLast48hPercent
+            low24hPrice
+            high24hPrice
+            lastLowPrice
+            lastOfferCount
+            iconLink
+            baseImageLink
+            image512pxLink
+            image8xLink
+            sellFor {
+                ...ItemPriceFragment
+            }
+            buyFor {
+                ...ItemPriceFragment
+            }
+            }
+        }
+        fragment ItemPriceFragment on ItemPrice {
+            vendor {
+            name
+            normalizedName
+            __typename
+            ... on TraderOffer {
+                trader {
+                id
+                }
+                minTraderLevel
+            }
+            }
+            price
+            currency
+            priceRUB
+            requirements {
+            type
+            value
+            }
+        }
+        """
+    
+    headers = {"Content-Type": "application/json"}
+    response = requests.post('https://api.tarkov.dev/graphql', headers=headers, json={'query': tarkovdevflea})
+    if response.status_code == 200:
+        return response.json()
+    else:
+        raise Exception("Query failed to run by returning code of {}. {}".format(response.status_code, query))
+def is_flea_valid():
+    if not os.path.exists(FLEA_FILE):
+        return False
+    cache_age = time.time() - os.path.getmtime(FLEA_FILE)
+    return cache_age < FLEA_CACHE_TTL
+
+def get_flea_prices():
+    if is_flea_valid():
+        # Read from cache
+        with open(FLEA_FILE, 'r') as f:
+            return json.load(f)
+    else:
+        # Fetch new data and update cache
+        data = flea_tarkovdev_gql()
+        if data:
+            with open(FLEA_FILE, 'w') as f:
+                json.dump(data, f, indent=4)
+        return data

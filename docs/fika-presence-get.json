@@ -1,0 +1,24 @@
+[
+    {
+        "nickname": "b0rnToShit",
+        "level": 34,
+        "activity": 1,
+        "activityStartedTimestamp": 1738837668,
+        "raidInformation": {
+            "location": "Interchange",
+            "side": "Pmc",
+            "time": "PAST"
+        }
+    },
+    {
+        "nickname": "b0rnToShit",
+        "level": 34,
+        "activity": 1,
+        "activityStartedTimestamp": 1738837600,
+        "raidInformation": {
+            "location": "factory4_day",
+            "side": "Pmc",
+            "time": "CURR"
+        }
+    }
+]

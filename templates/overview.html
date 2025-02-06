@@ -40,7 +40,7 @@
                 <ul>
                     <li><strong><i>[Session | Overall]</li></strong></i>
                     <li><strong>Accuracy: </strong> {{ overview.session.accuracy }} | {{ overview.overall.accuracy }}</li>
-                    <li><strong>K/D: </strong>{{ overview.session.kills/(overview.session.deaths or 1) }} | {{ (overview.overall.kills/overview.overall.deaths)|round(1, 'floor') }}</li>
+                    <li><strong>K/D: </strong>{{ (overview.session.kills or 0)/(overview.session.deaths or 1) }} | {{ (overview.overall.kills or 0 )/(overview.overall.deaths or 1)|round(1, 'floor') }}</li>
                     <li><strong>Kills: </strong>{{ overview.session.kills or 0}} | {{ overview.overall.kills }}</li>
                     <li><strong>Raids: </strong> {{ overview.overall.raids }}</li>
                     <li><strong>Ragfair Rating:</strong> {{ overview.basic.ragfair_rating }}</li>

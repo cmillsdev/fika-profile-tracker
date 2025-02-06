@@ -44,3 +44,10 @@ class Endpoint(StrEnum):
     CLIENT_MODS = "launcher/server/serverModsUsedByProfile"
 
     FIKA_RAIDS = "fika/location/raids"
+
+    VERSION_EFT = 'client/checkVersion'
+    VERSION_FIKA = 'fika/client/check/version'
+    VERSION_SPT = 'launcher/server/version'
+
+    FIKA_PRESENCE = 'fika/presence/get'
+    TIME_WEATHER = 'client/weather'
