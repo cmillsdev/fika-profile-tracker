@@ -1,3 +1,4 @@
-from core.alerts import get_alerts
+from utils.helpers import test_endpoint
+from utils.endpoint import Endpoint
 
-get_alerts('674e8d5e000124d3a4adc638')
+test_endpoint(Endpoint.ALL_PROFILES, '674e8d5e000124d3a4adc638')
