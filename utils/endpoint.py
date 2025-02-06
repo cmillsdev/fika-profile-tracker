@@ -2,7 +2,7 @@ from enum import StrEnum
 
 class Endpoint(StrEnum):
     # General stuff
-    ALL_PROFILES = "fika/senditem/availablereceivers" # user /launcher/profiles
+    ALL_PROFILES = "fika/senditem/availablereceivers"
     CLIENT_LOCALE = "client/locale/en"
     # Profile
     ITEMS = "client/items"
