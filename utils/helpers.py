@@ -73,13 +73,10 @@ def get_client_locale():
         return data
 
 # flag for pmc/scav
-def get_profile(pid, pmc=True, scav=False):
-    if pmc:
-        return http_request(pid, Endpoint.PROFILE)['data'][0]
-    elif scav:
+def get_profile(pid, scav=False):
+    if scav:
         return http_request(pid, Endpoint.PROFILE)['data'][1]
-    else:
-        return http_request(pid, Endpoint.PROFILE)['data']
+    return http_request(pid, Endpoint.PROFILE)['data'][0]
 
 def get_all_players():
         return http_request('677df13900028976aab5cb0f', Endpoint.ALL_PROFILES)

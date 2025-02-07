@@ -5,8 +5,7 @@ import json
 # inventory count - figure out how to break it down by category
 # get damage history
 
-def get_all_stats(pid):
-    profile = get_profile(pid)
+def get_all_stats(pid, profile):
     stats = defaultdict(dict)
     stats['cheevos'] = get_cheevos(profile)
     stats['inv_len'] = get_inventory_count(profile)
@@ -87,6 +86,7 @@ def get_counter(counters, key):
         if key in k['Key']:
             value = k['Value']
             return value
+    return None
 
 def get_counters(counters):
     overall = defaultdict(dict)

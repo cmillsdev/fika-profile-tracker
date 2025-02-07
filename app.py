@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, session, redirect, url_for
-from utils.helpers import id_lookup, load_json, get_all_players
+from utils.helpers import id_lookup, load_json, get_all_players, get_profile
 from core.quests import get_all_objectives
 from core.hideout import get_all_hideout
 from core.stats import get_all_stats
@@ -23,12 +23,14 @@ def player_selection():
 def select_player():
     player_id = request.form.get("player_id")
     session['player_id'] = player_id  # Store player_id in session
+    session['profile'] = get_profile(player_id)
     return redirect(url_for("overview", pid=player_id))
     
 @app.route("/overview/<pid>")
 def overview(pid):
     if 'player_id' not in session or session['player_id'] != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
+    profile = session.get('profile') or get_profile(pid)
     overview = get_overview(pid)
     alerts = get_alerts(pid)
     players = get_all_players()  # Fetch players
@@ -38,7 +40,8 @@ def overview(pid):
 def quests(pid):
     if 'player_id' not in session or session['player_id'] != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
-    quests = get_all_objectives(pid)
+    profile = session.get('profile') or get_profile(pid)
+    quests = get_all_objectives(pid, profile['Quests'])
     players = get_all_players()  # Fetch players
     return render_template("quests.html", quests=quests, player_id=pid, players=players)
 
@@ -46,7 +49,8 @@ def quests(pid):
 def stats(pid):
     if 'player_id' not in session or session['player_id'] != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
-    stats = get_all_stats(pid)
+    profile = session.get('profile') or get_profile(pid)
+    stats = get_all_stats(pid, profile)
     players = get_all_players()  # Fetch players
     return render_template("stats.html", stats=stats, player_id=pid, players=players)
 
@@ -54,7 +58,8 @@ def stats(pid):
 def hideout(pid):
     if 'player_id' not in session or session['player_id'] != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
-    hideout = get_all_hideout(pid)
+    profile = session.get('profile') or get_profile(pid)
+    hideout = get_all_hideout(pid, profile['Hideout'])
     players = get_all_players()  # Fetch players
     return render_template("hideout.html", hideout=hideout, player_id=pid, players=players)
 

@@ -12,22 +12,27 @@ active players
 
 version check
 
-Quest/Hideout Progress Bars: 
-Visual indicators showing completion % for each quest/hideout module, with nested requirements (e.g., "Find 5/10 Gas Analyzers").
+overview:
+Extraction Status & Raid Duration
+Session profit/loss and XP gained
+Durability Alerts
+Loadout Overview
+Reputation Levels
+Available Quests
+Session Summary Panel
+Quest/Hideout Progress Bars: Visual indicators showing completion % for each quest/hideout module, with nested requirements (e.g., "Find 5/10 Gas Analyzers").
+Dynamic Task/Hideout Checklists: Highlight FiR items needed for active quests or hideout upgrades (e.g., "You need 3 more Corrugated Hoses").
+"Next Raid" Recommendations: Suggest quests/maps to prioritize based on progress (e.g., "You’re 2 kills away from completing Punisher – Queue for Shoreline").
+Track each other’s active quests/hideout upgrades (e.g., “Alex needs 2 more fuel cans for Generator 3”).
+Shared Progression: Allow friends/teammates to sync quest progress (e.g., "We both need to kill Reshala – Queue together").
+Hideout Craft/Bitcoin Farm Timers: Countdowns for active crafts (e.g., "5m until bullets done"). Bitcoin farm efficiency (profit per hour, time to next coin).
+
 
 Trader Reputation Dashboard: Track loyalty levels, required spend thresholds, and locked items/quests.
-
-Dynamic Task/Hideout Checklists: Highlight FiR items needed for active quests or hideout upgrades (e.g., "You need 3 more Corrugated Hoses").
 
 Gear Presets: Pre-configure loadouts for specific quests/maps (e.g., "Shoreline – Sanitar Kill – Loadout: Mosin, CMS, SJ6").
 
 Crafting Profit Calculator: Compare craft costs (materials) vs. flea market sale prices to identify profitable crafts.
-
-"Next Raid" Recommendations: Suggest quests/maps to prioritize based on progress (e.g., "You’re 2 kills away from completing Punisher – Queue for Shoreline").
-
-Shared Progression: Allow friends/teammates to sync quest progress (e.g., "We both need to kill Reshala – Queue together").
-
-Track each other’s active quests/hideout upgrades (e.g., “Alex needs 2 more fuel cans for Generator 3”).
 
 Stats like “Most Headshots,” “Longest Survival Streak,” or “Most Modded Boss Kills.”
 
@@ -50,8 +55,6 @@ Loadout Roulette: Generate a random loadout from your stash (weapons, armor, med
 Survival Bingo: Pre-raid bingo cards with challenges like: "Loot 3 GPUs" | "Die to a Scav with a TOZ" | "Extract with 0.1 health."
 
 "Skill Issue" Calculator: Compare your stats to friends: "Alex’s survival rate is 12%… but he has 300% more grenade kills than you. 🤔"
-
-Hideout Craft/Bitcoin Farm Timers: Countdowns for active crafts (e.g., "5m until bullets done"). Bitcoin farm efficiency (profit per hour, time to next coin).
 
 Stash Value Snapshot: Total stash value (roubles/items) + most valuable single item. Flea listings expiring soon (e.g., "Your GPU listing ends in 20m").
 

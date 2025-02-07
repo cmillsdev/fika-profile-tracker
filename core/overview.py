@@ -23,7 +23,9 @@ def get_overview(pid):
     overview['overall']['deaths'] = get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], "Deaths")
     overview['session']['kills'] = get_counter(profile['Stats']['Eft']['SessionCounters']['Items'], "Kills")
     overview['session']['deaths'] = get_counter(profile['Stats']['Eft']['SessionCounters']['Items'], "Deaths")
-    #overview['overall']['raids'] = get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], ["Sessions", "PMC"])
+    overview['overall']['raids'] = get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], ["Sessions", "PMC"])
+    overview['session']['kd'] = get_kd_ratio((get_counter(profile['Stats']['Eft']['SessionCounters']['Items'], "Kills") or 0), (get_counter(profile['Stats']['Eft']['SessionCounters']['Items'], "Deaths") or 0))
+    overview['overall']['kd'] = get_kd_ratio((get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], "Kills") or 0), (get_counter(profile['Stats']['Eft']['OverallCounters']['Items'], "Deaths") or 0))
     overview['last_raid'] = get_last_round(profile)
 
     return overview
@@ -42,6 +44,11 @@ def get_last_round(profile):
                 for key, damage in enumerate(stats['damage_history']['BodyParts'][bodypart]):
                     stats['damage_history']['BodyParts'][bodypart][key]['SourceId'] = id_lookup(damage['SourceId'])
     return stats
+
+def get_kd_ratio(kills, deaths):
+    if not deaths:
+        return kills
+    return round((kills/deaths),1)
 
 def get_insurance(pid):
     pass
