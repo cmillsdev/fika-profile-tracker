@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request, session, redirect, url_for
+from datetime import timedelta
 from utils.helpers import id_lookup, load_json, get_all_players, get_profile
 from core.quests import get_all_objectives
 from core.hideout import get_all_hideout
@@ -14,6 +15,7 @@ app = Flask(__name__)
 #print(quests.get_all_objectives(my_profile.profile_id))
 
 app.secret_key = 'your_secret_key_here'  # Required for sessions
+app.permanent_session_lifetime = timedelta(days=30)
 
 @app.route("/")
 def player_selection():
@@ -23,15 +25,18 @@ def player_selection():
 @app.route("/select_player", methods=["POST"])
 def select_player():
     player_id = request.form.get("player_id")
+    if not player_id:
+        return redirect(url_for("player_selection"))
+    session.permanent = True  # Ensure session lasts beyond a single request
     session['player_id'] = player_id  # Store player_id in session
-    session['profile'] = get_profile(player_id)
     return redirect(url_for("overview", pid=player_id))
     
 @app.route("/overview/<pid>")
 def overview(pid):
-    if 'player_id' not in session or session['player_id'] != pid:
+    if session.get('player_id') != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
     profile = session.get('profile') or get_profile(pid)
+    print(f"Session player_id: {session.get('player_id')}, URL pid: {pid}")
     overview = get_overview(pid)
     alerts = get_alerts(pid)
     players = get_all_players()  # Fetch players
@@ -40,7 +45,7 @@ def overview(pid):
 
 @app.route("/quests/<pid>")
 def quests(pid):
-    if 'player_id' not in session or session['player_id'] != pid:
+    if session.get('player_id') != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
     profile = session.get('profile') or get_profile(pid)
     quests = get_all_objectives(pid, profile['Quests'])
@@ -50,7 +55,7 @@ def quests(pid):
 
 @app.route("/stats/<pid>")
 def stats(pid):
-    if 'player_id' not in session or session['player_id'] != pid:
+    if session.get('player_id') != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
     profile = session.get('profile') or get_profile(pid)
     stats = get_all_stats(pid, profile)
@@ -60,7 +65,7 @@ def stats(pid):
 
 @app.route("/hideout/<pid>")
 def hideout(pid):
-    if 'player_id' not in session or session['player_id'] != pid:
+    if session.get('player_id') != pid:
         return redirect(url_for("player_selection"))  # Redirect if player_id is not in session
     profile = session.get('profile') or get_profile(pid)
     hideout = get_all_hideout(pid, profile['Hideout'])
