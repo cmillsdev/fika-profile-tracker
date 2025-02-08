@@ -6,7 +6,22 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js"></script>
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-        new Tablesort(document.getElementById("quests"));
+        const table = document.getElementById("quests");
+        new Tablesort(table);
+
+        // Override Tablesort's default string sorting function
+        Tablesort.extend('string', function(item) {
+            return typeof item === 'string';
+        }, function(a, b) {
+            const aText = a.trim();
+            const bText = b.trim();
+
+            // Handle empty values: push empty strings to the bottom
+            if (!aText) return 1;  // If 'a' is empty, push it down
+            if (!bText) return -1; // If 'b' is empty, 'a' stays above
+
+            return aText.localeCompare(bText);
+        });
     });
 </script>
 
