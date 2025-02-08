@@ -10,7 +10,6 @@ def get_all_hideout(pid, hideout_profile):
         current_level = area["level"]
         areas[area_type]["current_level"] = current_level
         areas[area_type]["next_required"] = get_next_level_requirements(hideout_templates, area['type'], current_level+1)
-
     return areas
 
 def get_next_level_requirements(hideout_templates, area_num, next_level):

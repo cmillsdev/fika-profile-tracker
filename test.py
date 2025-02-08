@@ -9,7 +9,7 @@ pid = '674e8d5e000124d3a4adc638'
 # #print(profile.skills.mastering)
 #test_endpoint('launcher/profiles', '674e8d5e000124d3a4adc638')
 
-ep = ['client/game/profile/list']
+ep = [Endpoint.VERSION_EFT, Endpoint.VERSION_FIKA, Endpoint.VERSION_SPT]
 
 for e in ep:
     test_endpoint(e, pid)

@@ -5,6 +5,7 @@ from core.hideout import get_all_hideout
 from core.stats import get_all_stats
 from core.overview import get_overview
 from core.alerts import get_alerts
+from core.version import get_version
 app = Flask(__name__)
 #my_profile = Profile(load_json('profiles/674e8d5e000124d3a4adc638.json'))
 
@@ -34,7 +35,8 @@ def overview(pid):
     overview = get_overview(pid)
     alerts = get_alerts(pid)
     players = get_all_players()  # Fetch players
-    return render_template("overview.html", overview=overview, alerts=alerts, player_id=pid, players=players)
+    version = get_version(pid)
+    return render_template("overview.html", overview=overview, alerts=alerts, player_id=pid, players=players, version=version)
 
 @app.route("/quests/<pid>")
 def quests(pid):
@@ -43,7 +45,8 @@ def quests(pid):
     profile = session.get('profile') or get_profile(pid)
     quests = get_all_objectives(pid, profile['Quests'])
     players = get_all_players()  # Fetch players
-    return render_template("quests.html", quests=quests, player_id=pid, players=players)
+    version = get_version(pid)
+    return render_template("quests.html", quests=quests, player_id=pid, players=players, version=version)
 
 @app.route("/stats/<pid>")
 def stats(pid):
@@ -52,7 +55,8 @@ def stats(pid):
     profile = session.get('profile') or get_profile(pid)
     stats = get_all_stats(pid, profile)
     players = get_all_players()  # Fetch players
-    return render_template("stats.html", stats=stats, player_id=pid, players=players)
+    version = get_version(pid)
+    return render_template("stats.html", stats=stats, player_id=pid, players=players, version=version)
 
 @app.route("/hideout/<pid>")
 def hideout(pid):
@@ -61,7 +65,8 @@ def hideout(pid):
     profile = session.get('profile') or get_profile(pid)
     hideout = get_all_hideout(pid, profile['Hideout'])
     players = get_all_players()  # Fetch players
-    return render_template("hideout.html", hideout=hideout, player_id=pid, players=players)
+    version = get_version(pid)
+    return render_template("hideout.html", hideout=hideout, player_id=pid, players=players, version=version)
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', debug=True)

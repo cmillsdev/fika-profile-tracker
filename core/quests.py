@@ -11,6 +11,9 @@ def get_all_objectives(pid, profile):
             qid = quest["_id"]
             task_name = id_lookup(quest['_id'])
             conditions_dict = []
+            location = quest.get('location')
+            if location and location != 'any':
+                location = id_lookup(location)
 
             for condition in quest['conditions']['AvailableForFinish']:
                 cid = condition['id']
@@ -34,14 +37,13 @@ def get_all_objectives(pid, profile):
                                 progress_string = ""
                         else:
                             progress_string = ""
-                        conditions_dict.append({"progress": progress_string,"description":lup})
+                        conditions_dict.append({"progress": progress_string,"location":location,"description":lup})
 
         if task_name:
             if last_dict != conditions_dict:
                 tasks_dict[task_name] = conditions_dict
 
             last_dict = conditions_dict
-            
     return tasks_dict
 
 def is_quest_completed(qid, cid, profile):

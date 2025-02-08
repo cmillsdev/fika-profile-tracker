@@ -3,22 +3,31 @@
 {% block title %}Quests - {{ player_id }}{% endblock %}
 
 {% block content %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        new Tablesort(document.getElementById("quests"));
+    });
+</script>
+
     <h1 class="border-b-1 text-center text-3xl">QUESTS</h1>
-    <table id="quests" class="display mt-2 w-full border">
+    <table id="quests" class="display mt-2 w-full border pl-5">
         <thead>
             <tr>
-                <th align="left">QUEST</th>
-                <th align="left">PROGRESS</th>
-                <th align="left">CONDITIONS</th>
+                <th align="left", class="cursor-pointer">QUEST</th>
+                <th align="left", class="cursor-pointer">PROGRESS</th>
+                <th align="left", class="cursor-pointer">LOCATION</th>
+                <th align="left", class="cursor-pointer">CONDITIONS</th>
             </tr>
         </thead>
         <tbody>
-            {% for quest in quests %}
-                {% for condition in quest.conditions %}
+            {% for name, details in quests.items() %}
+                {% for d in details %}
                 <tr>
-                    <td>{{ quest.name }}</td>
-                    <td align="center">{{ condition.progress }}</td>
-                    <td>{{ condition.description|safe }}</td>
+                    <td>{{ name }}</td>
+                    <td align="center">{{ d.progress }}</td>
+                    <td>{{ d.location }}</td>
+                    <td>{{ d.description|safe }}</td>
                 </tr>
                 {% endfor %}
             {% endfor %}
