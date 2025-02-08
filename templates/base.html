@@ -27,9 +27,9 @@
             <a class="grid place-items-center px-4 underline" href="{{ url_for('hideout', pid=session.get('player_id')) if session.get('player_id') else '#' }}">
                 Hideout</a>
             <div class="grid place-items-center px-4 underline md:hidden"></div>
-            {{ if version }}
+            {%if version %}
             <div class="grid place-items-center w-full text-gray-600">EFT: {{ version.eft }} | SPT: {{ version.spt }} | FIKA: {{ version.fika }}</div>
-            {{ endif }}
+            {% endif %}
             <form class="text-right inset-y-0 right-0 place-items-center grid" action="{{ url_for('select_player') }}" method="POST">
                 <select class="" name="player_id" onchange="this.form.submit()">
                     <option value="">Select Player</option>
