@@ -14,14 +14,14 @@ def get_all_stats(pid, profile):
     
     stats['overall_counters'] = get_counters(profile['Stats']['Eft']['OverallCounters']['Items'])
     stats['session_counters'] = get_counters(profile['Stats']['Eft']['SessionCounters']['Items'])
-    stats['skills_common'] = get_skills_common(profile['Skills']['Common'])
-    stats['skills_mastering'] = get_skills_mastering(profile['Skills']['Mastering'])
+    stats['skills_common'] = get_skills(profile['Skills']['Common'], requires_last_access=True)
+    stats['skills_mastering'] = get_skills(profile['Skills']['Mastering'])
     stats['bonuses'] = get_profile_bonuses(profile['Bonuses'])
     stats['mini_quest_info'] = get_mini_quest_info(profile['Quests'])
     stats['last_death'] = get_last_death(profile['Stats']['Eft'].get('Aggressor'), profile['Stats']['Eft'].get('DeathCause'))
     stats['victims'] = get_last_victims(profile['Stats']['Eft']['Victims'])
     stats['traders'] = get_trader_info(profile['TradersInfo'])
-    stats['hideout'] = get_all_hideout(pid)
+    stats['hideout'] = get_all_hideout(pid, profile['Hideout'])
     stats['overall_accuracy'] = get_accuracy(profile['Stats']['Eft']['OverallCounters']['Items'])
     stats['session_accuracy'] = get_accuracy(profile['Stats']['Eft']['SessionCounters']['Items'])
     return stats
@@ -32,6 +32,19 @@ def get_profile_bonuses(bonuses):
         bonii.append({'type': bonus['type'], 'value': bonus.get('value', 0)})
 
     return bonii
+
+def get_skills(data, requires_last_access=False):
+    if requires_last_access:
+        return {skill['Id']: skill for skill in data if (skill.get('LastAccess')) and skill['LastAccess'] > 0}
+    else:
+        skills_dict = {}
+        for skill in data:
+            progress = int(skill.get("Progress", 0))
+            # Other field conversions as needed
+            skills_dict[skill["Id"]] = {
+                "Progress": progress,
+            }
+        return skills_dict
 
 def get_trader_info(trader_info):
     traders = defaultdict(dict)

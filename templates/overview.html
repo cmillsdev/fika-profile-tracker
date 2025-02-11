@@ -1,70 +1,122 @@
-{% extends "base.html" %}
-
-{% block title %}Overview - {{ overview.basic.nickname }}{% endblock %}
-
-{% block content %}
-    <h1 class="border-b-1 text-center text-3xl bg-gray-600/30">Overview | {{ overview.basic.nickname }}</h1>
-        <div class="flex">
-            <div class="w-1/3"></div>
-                {% if alerts.task_items or not alerts.health or not alerts.energy or not alerts.hydrations %}
-                    <div class="w-1/3 border text-center text-red-500 border-red-400 bg-red-500/30">
-                        <div class="bg-red-500/40 text-center">
-                            <h2>!! ALERT !!</h2>
-                        </div>
-                {% endif %}
-                {% if alerts.task_items %}
-                    <h4>TASK ITEMS IN INVENTORY</h4>
-                    {% for item in alerts.task_items %}
-                        <ul>
-                            <li>{{ item }}</li>
-                        </ul>
-                    {% endfor %}
-                {% endif %}
-                {% if not alerts.health %}
-                    <h4><b class="text-red-600">HEAL YOUR MAN</b></h4>
-                {% endif %}
-                {% if not alerts.energy %}
-                    <h4><b class="text-blue-600">FEED YOUR MAN</b></h4>
-                {% endif %}
-                {% if not alerts.hydration %}
-                    <h4><b class="text-blue-600">WATER YOUR MAN</b></h4>
-                {% endif %}
-            </div>
-        <div class="w-1/3"></div>
-        </div>
-    <!-- Basic Information Section -->
-    <h4 class="border-b-1 border-t-1 bold text-center text-white">Level {{ overview.basic.level }} {{ overview.basic.faction }} {{ overview.basic.survivor_class }}</h4>
-    <div class="flex">
-        <div class="w-1/2">
-            <div class="card-body">
-                <ul>
-                    <li><strong><i>[Session | Overall]</li></strong></i>
-                    <li><strong>Accuracy: </strong> {{ overview.session.accuracy }} | {{ overview.overall.accuracy }}</li>
-                    <li><strong>K/D: </strong>{{ overview.session.kd }} ({{ overview.session.kills or 0 }}/{{ overview.session.deaths or 0 }}) | {{ overview.overall.kd }} ({{overview.overall.kills or 0 }}/{{ overview.overall.deaths or 0 }})</li>
-                    <li><strong>Raids: </strong> {{ overview.overall.raids }}</li>
-                    <li><strong>Ragfair Rating:</strong> {{ overview.basic.ragfair_rating }}</li>
-                    <li><strong>Playtime:</strong> {{ overview.basic.ingame_time}}</li>
-                    <li><strong>Scav Karma:</strong> {{ overview.basic.scav_karma }}</li>
-                </ul>
-            </div>
-        </div>
-
-    <!-- Last Raid Section -->
-    <div class="w-1/2">
-        <div class="">
-            <h2>Last Raid</h2>
-        </div>
-        <div class="">
-            <ul>
-                <li><strong>Last Death:</strong>
-                    <ul>
-                        <li><strong>Killer:</strong> {{ overview.last_raid.last_death.killer.name }} ({{ overview.last_raid.last_death.killer.side }})</li>
-                        <li><strong>Weapon:</strong> {{ overview.last_raid.last_death.killer.weapon }}</li>
-                        <li><strong>Body Part:</strong> {{ overview.last_raid.last_death.killer.BodyPart }}</li>
-                        <li><strong>Cause:</strong> {{ overview.last_raid.last_death.cause.damage_type }} ({{ overview.last_raid.last_death.cause.weapon }})</li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
+{% extends "base.html" %} {% block title %}Overview - {{ overview.basic.nickname
+}}{% endblock %} {% block content %}
+<h1 class="border-b-1 text-center text-3xl bg-gray-600/30">
+  Overview | {{ overview.basic.nickname }}
+</h1>
+<div class="flex">
+  <div class="w-1/3"></div>
+  {% if alerts.task_items or not alerts.health or not alerts.energy or not
+  alerts.hydration %}
+  <div
+    class="w-1/3 border text-center text-red-500 border-red-400 bg-red-500/30"
+  >
+    <div class="bg-red-500/40 text-center">
+      <h2>!! ALERT !!</h2>
     </div>
+    {% endif %} {% if alerts.task_items %}
+    <h4>TASK ITEMS IN INVENTORY</h4>
+    {% for item in alerts.task_items %}
+    <ul>
+      <li>{{ item }}</li>
+    </ul>
+    {% endfor %} {% endif %} {% if not alerts.health %}
+    <h4><b class="text-red-600">HEAL YOUR MAN</b></h4>
+    {% endif %} {% if not alerts.energy %}
+    <h4><b class="text-blue-600">FEED YOUR MAN</b></h4>
+    {% endif %} {% if not alerts.hydration %}
+    <h4><b class="text-blue-600">WATER YOUR MAN</b></h4>
+    {% endif %}
+  </div>
+</div>
+<!-- Basic Information Section -->
+<h4 class="border-b-1 border-t-1 bold text-center text-white">
+  Level {{ overview.basic.level }} {{ overview.basic.faction }} {{
+  overview.basic.survivor_class }}
+</h4>
+<div class="flex">
+  <div class="w-1/2">
+    <div class="card-body">
+      <ul>
+        <li>
+          <strong><i>[Session | Overall]</i></strong>
+        </li>
+        <li>
+          <strong>Accuracy: </strong> {{ overview.session.accuracy }} | {{
+          overview.overall.accuracy }}
+        </li>
+        <li>
+          <strong>K/D: </strong>{{ overview.session.kd }} ({{
+          overview.session.kills or 0 }}/{{ overview.session.deaths or 0 }}) |
+          {{ overview.overall.kd }} ({{overview.overall.kills or 0 }}/{{
+          overview.overall.deaths or 0 }})
+        </li>
+        <li><strong>Raids: </strong> {{ overview.overall.raids }}</li>
+        <li>
+          <strong>Ragfair Rating:</strong> {{ overview.basic.ragfair_rating }}
+        </li>
+        <li><strong>Playtime:</strong> {{ overview.basic.ingame_time}}</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="flex items-center justify-center border-1 border-orange-500">
+  <span class="text-center w-full text-2xl">L A S T  R A I D</span>
+</div>
+<!-- Last Raid Section -->
+<div class="flex">
+  <div class="w-1/3">
+    {% if overview.last_raid.last_death %}
+    <div class="">
+      <ul>
+        <li>
+          <h2 class="text-center font-bold">L A S T D E A T H</h2>
+          <ul class="border-y-1">
+            <li>
+              <strong>Killer:</strong> {{
+              overview.last_raid.last_death.killer.name }} ({{
+              overview.last_raid.last_death.killer.side }})
+            </li>
+            <li>
+              <strong>Weapon:</strong> {{
+              overview.last_raid.last_death.killer.weapon }}
+            </li>
+            <li>
+              <strong>Body Part:</strong> {{
+              overview.last_raid.last_death.killer.BodyPart }}
+            </li>
+            <li>
+              <strong>Cause:</strong> {{
+              overview.last_raid.last_death.cause.damage_type }} ({{
+              overview.last_raid.last_death.cause.weapon }})
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+  <div class="w-2/3">
+    <div class="">
+      <h2 class="text-center font-bold">V I C T I M S</h2>
+      <table class="border-1 w-full h-full">
+        <tr>
+          <th class="text-right">Dist.</th>
+          <th class="text-center">Name</th>
+          <th class="">Side</th>
+          <th class="">Limb</th>
+          <th class="text-right">Cause</th>
+        </tr>
+        {% for victim in overview.last_raid.victims %}
+        <tr>
+          <td class="text-right">{{ "%0.2f" | format(victim.distance | float) }}</td>
+          <td class="text-center">{{ victim.name }}</td>
+          <td class="text-center">{{ victim.side }}</td>
+          <td class="text-center">{{ victim.body_part }}</td>
+          <td class="text-right">{{ victim.weapon }}</td>
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+  </div>
+</div>
 {% endblock %}
